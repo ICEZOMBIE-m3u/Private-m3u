@@ -1,4 +1,4 @@
-#EXTM3U
+x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
 #EXTINF:-1 tvg-name="Roar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Roar_%282025%29.svg/500px-Roar_%282025%29.svg.png" group-title="USA",Roar
 https://fast-channels.sinclairstoryline.com/TBD/index.m3u8
 #EXTINF:-1 tvg-id="Charge.TV.us" tvg-name="Charge!" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Charge%21_Logo_2020.svg/1280px-Charge%21_Logo_2020.svg.png" group-title="USA",Charge
