@@ -1,4 +1,4 @@
-#EXTM3U
+#EXTM3U url-tvg= https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz
 #EXTINF:-1 tvg-id="plex.tv.ALLBLK.Gems.plex" tvg-name="ALLBLK Gems" tvg-logo="https://github.com/ICEZOMBIE-m3u/tv-logos/raw/refs/heads/main/FAST/Plex/allblk_gems.png" group-title="Broadcast TV",ALLBLK Gems
 https://amc-allblk-gems-1-us.tablo.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-name="Buzzfeed Unsolved" group-title="Crime & Drama",Buzzfeed Unsolved
