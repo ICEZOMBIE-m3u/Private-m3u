@@ -1,0 +1,163 @@
+#EXTM3U
+#EXTINF:-1 tvg-name="ANTENNA 22.2 Fort Collins, CO" group-title="Local - Other",Antenna TV 22.2
+http://38.15.55.221:5004/auto/v22.2
+#EXTINF:-1 tvg-name="Antenna TV 31.2 Denver, CO" group-title="Local - Other",Antenna TV 31.2
+http://38.15.55.221:5004/auto/v31.2
+#EXTINF:-1 tvg-name="FOX (KDVR) Denver, CO" group-title="Local - Big 4",FOX 31.1 Denver, CO
+http://38.15.55.221:5004/auto/v31.1
+#EXTINF:-1 tvg-name="Fox 22.1 Fort Collins, CO" group-title="Local - Big 4",FOX 22.1 Fort Collins, CO
+http://38.15.55.221:5004/auto/v22.1
+#EXTINF:-1 tvg-id="ROAR.TV.us2" tvg-name="Roar 22.3 Fort Collins, CO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Roar_%282025%29.svg/500px-Roar_%282025%29.svg.png" group-title="Local - Other",Roar 22.3
+http://38.15.55.221:5004/auto/v22.3
+#EXTINF:-1 tvg-id="ROAR.TV.us2" tvg-name="Roar 31.3 Denver, CO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Roar_%282025%29.svg/500px-Roar_%282025%29.svg.png" group-title="Local - Other",Roar 31.3
+http://38.15.55.221:5004/auto/v31.3
+#EXTINF:-1 tvg-name="Busted 59.5 Denver, CO" group-title="Local - Other",Busted 59.5 Denver, CO
+http://38.15.55.221:5004/auto/v59.5
+#EXTINF:-1 tvg-name="Buzzr 53.5" group-title="Games & Sports",Buzzr 53.5
+http://38.15.55.221:5004/auto/v53.5
+#EXTINF:-1 tvg-name="Catchy Comedy 4.5" group-title="Local - Other",Catchy Comedy 4.5
+http://38.15.55.221:5004/auto/v4.5
+#EXTINF:-1 tvg-id="Charge.TV.us" tvg-name="Charge 2.2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Charge%21_Logo_2020.svg/1280px-Charge%21_Logo_2020.svg.png" group-title="Local - Other",Charge 2.2
+http://38.15.55.221:5004/auto/v2.2
+#EXTINF:-1 tvg-name="Comet TV 2.3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/97/Comet_logo.svg" group-title="Local - Other",Comet TV 2.3
+http://38.15.55.221:5004/auto/v2.3
+#EXTINF:-1 tvg-name="Court TV 59.3" group-title="News & Weather",Court TV 59.3
+http://38.15.55.221:5004/auto/v59.3
+#EXTINF:-1 tvg-name="COZI 25.3" group-title="Local - Other",COZI 25.3
+http://38.15.55.221:5004/auto/v25.3
+#EXTINF:-1 tvg-name="COZI 27.5" group-title="Local - Other",COZI 27.5
+http://38.15.55.221:5004/auto/v27.5
+#EXTINF:-1 tvg-name="COZI 9.2" group-title="Local - Other",COZI 9.2
+http://38.15.55.221:5004/auto/v9.2
+#EXTINF:-1 tvg-name="Dabl 4.3" group-title="Local - Other",Dabl 4.3
+http://38.15.55.221:5004/auto/v4.3
+#EXTINF:-1 tvg-name="Defy 59.6" group-title="Local - Other",Defy 59.6
+http://38.15.55.221:5004/auto/v59.6
+#EXTINF:-1 tvg-name="Game Show Central 59.7" group-title="Games & Sports",Game Show Central 59.7
+http://38.15.55.221:5004/auto/v59.7
+#EXTINF:-1 tvg-name="Get 14.3" group-title="Local - Other",Get 14.3
+http://38.15.55.221:5004/auto/v14.3
+#EXTINF:-1 tvg-name="Grit 3.2" group-title="Local - Other",Grit 3.2
+http://38.15.55.221:5004/auto/v3.2
+#EXTINF:-1 tvg-name="H&I 20.2" group-title="Local - Other",H&I 20.2
+http://38.15.55.221:5004/auto/v20.2
+#EXTINF:-1 tvg-name="HSN1 3.5" group-title="Shopping",HSN1 3.5
+http://38.15.55.221:5004/auto/v3.5
+#EXTINF:-1 tvg-name="HSN2 2.4" group-title="Shopping",HSN2 2.4
+http://38.15.55.221:5004/auto/v2.4
+#EXTINF:-1 tvg-name="ION 10.2" group-title="Local - Other",ION 10.2
+http://38.15.55.221:5004/auto/v10.2
+#EXTINF:-1 tvg-name="ION 27.4" group-title="Local - Other",ION 27.4
+http://38.15.55.221:5004/auto/v27.4
+#EXTINF:-1 tvg-name="ION 59.1" group-title="Local - Other",ION 59.1
+http://38.15.55.221:5004/auto/v59.1
+#EXTINF:-1 tvg-name="ION Mystery 7.2" group-title="Local - Other",ION Mystery 7.2
+http://38.15.55.221:5004/auto/v7.2
+#EXTINF:-1 tvg-name="ION Plus 27.7" group-title="Local - Other",ION Plus 27.7
+http://38.15.55.221:5004/auto/v27.7
+#EXTINF:-1 tvg-name="ION Plus 59.4" group-title="Local - Other",ION Plus 59.4
+http://38.15.55.221:5004/auto/v59.4
+#EXTINF:-1 tvg-name="Jewelry TV 53.4" group-title="Shopping",Jewelry TV 53.4
+http://38.15.55.221:5004/auto/v53.4
+#EXTINF:-1 tvg-name="PBS (KBDI-DT) Broomfield, CO" group-title="Family Kids",PBS Broomfield, CO
+http://38.15.55.221:5004/auto/v12.1
+#EXTINF:-1 tvg-name="PBS (KBDI+) Broomfield, CO" group-title="Family Kids",PBS KBDI+
+http://38.15.55.221:5004/auto/v12.2
+#EXTINF:-1 tvg-name="Deutsche Wells" group-title="Other",Deutsche Wells
+http://38.15.55.221:5004/auto/v12.3
+#EXTINF:-1 tvg-name="NHK World" group-title="Other",NHK World
+http://38.15.55.221:5004/auto/v12.4
+#EXTINF:-1 tvg-name="Univision (KCEC) Boulder, VO" group-title="Spanish",Univision 14.1
+http://38.15.55.221:5004/auto/v14.1
+#EXTINF:-1 tvg-name="CBS Denver" group-title="Local - Big 4",CBS 4 Colorado
+http://38.15.55.221:5004/auto/v4.1
+#EXTINF:-1 tvg-name="Telemundo 25 Denver, CO" group-title="Spanish",Telemundo 25 Denver, CO
+http://38.15.55.221:5004/auto/v25.1
+#EXTINF:-1 tvg-name="Daystar 44.1 Denver, CO" group-title="Religion",Daystar 44.1 Denver, CO
+http://38.15.55.221:5004/auto/v44.1
+#EXTINF:-1 tvg-name="Estrella TV 53.1 Denver, CO" group-title="Spanish",Estrella TV 53.1 Denver, CO
+http://38.15.55.221:5004/auto/v53.1
+#EXTINF:-1 tvg-name="CW 5.3 " group-title="Local - CW",CW 5.3
+http://38.15.55.221:5004/auto/v5.3
+#EXTINF:-1 tvg-name="CBS 5.1" group-title="Local - Big 4",CBS 5.1
+http://38.15.55.221:5004/auto/v5.1
+#EXTINF:-1 tvg-name="NBC 5.2" group-title="Local - Big 4",NBC 5.2
+http://38.15.55.221:5004/auto/v5.2
+#EXTINF:-1 tvg-id="KLWY.us" tvg-name="FOX (KLWY) " group-title="Local - Big 4",FOX 27.1
+http://38.15.55.221:5004/auto/v27.1
+#EXTINF:-1 tvg-id="KKTQ.us" tvg-name="ABC 27.2" group-title="Local - Big 4",ABC 27.2
+http://38.15.55.221:5004/auto/v27.2
+#EXTINF:-1 tvg-id="KMGH.us" tvg-name="ABC (KMGH) Denver, CO" group-title="Local - Big 4",ABC 7 Denver, CO
+http://38.15.55.221:5004/auto/v7.1
+#EXTINF:-1 tvg-name="Daystar 52.1 Colorado" group-title="Religion",Daystar 52.1 Colorado
+http://38.15.55.221:5004/auto/v52.1
+#EXTINF:-1 tvg-name="Christian Television Network - WY" group-title="Religion",CTN 33.1 Wyoming
+http://38.15.55.221:5004/auto/v33.1
+#EXTINF:-1 tvg-id="KTVD.us" tvg-name="MNT 20.1 KTVD" group-title="Local - Big 4",MNT 20.1
+http://38.15.55.221:5004/auto/v20.1
+#EXTINF:-1 tvg-name="NBC 9.4 KUSA" group-title="Local - Big 4",NBC 9.4
+http://38.15.55.221:5004/auto/v9.4
+#EXTINF:-1 tvg-id="KWGN" tvg-name="CW 2 Denver, CO" group-title="Local - CW",CW 2 Denver, CO
+http://38.15.55.221:5004/auto/v2.1
+#EXTINF:-1 tvg-name="MNT 27.3 (KWYF-LD) Casper, WY" group-title="Local - Big 4",MNT 27.3 KWYF-LD
+http://38.15.55.221:5004/auto/v27.3
+#EXTINF:-1 tvg-name="Laff 10.1" group-title="Local - Other",Laff 10.1
+http://38.15.55.221:5004/auto/v10.1
+#EXTINF:-1 tvg-name="Laff 27.6" group-title="Local - Other",Laff 27.6
+http://38.15.55.221:5004/auto/v27.6
+#EXTINF:-1 tvg-name="Laff 7.3" group-title="Local - Other",Laff 7.3
+http://38.15.55.221:5004/auto/v7.3
+#EXTINF:-1 tvg-name="Local 3 (KCDO) Denver, CO" group-title="Local - Other",Local 3 KCDO-TV
+http://38.15.55.221:5004/auto/v3.1
+#EXTINF:-1 tvg-name="Merit TV" group-title="Other",Merit TV
+http://38.15.55.221:5004/auto/v38.2
+#EXTINF:-1 tvg-name="MeTV Denver, CO" group-title="Family Kids",MeTV Denver, CO
+http://38.15.55.221:5004/auto/v4.4
+#EXTINF:-1 tvg-name="MeTV Toons Denver, CO" group-title="Family Kids",MeTV Toons Denver, CO
+http://38.15.55.221:5004/auto/v59.8
+#EXTINF:-1 tvg-id="KUSADT6.us" tvg-name="The Nest Denver, CO" group-title="Local - Other",The Nest Denver, CO
+http://38.15.55.221:5004/auto/v9.6
+#EXTINF:-1 tvg-name="Moviesphere Gold" group-title="Movies",Moviesphere Gold
+http://38.15.55.221:5004/auto/v14.2
+#EXTINF:-1 tvg-name="Nosey" group-title="Local - Other",Nosey
+http://38.15.55.221:5004/auto/v25.6
+#EXTINF:-1 tvg-name="Oxygen True Crime" group-title="Local - Other",Oxygen True Crime
+http://38.15.55.221:5004/auto/v25.5
+#EXTINF:-1 tvg-name="PBS Create" group-title="Family Kids",PBS Create
+http://38.15.55.221:5004/auto/v6.3
+#EXTINF:-1 tvg-name="PBS Kids" group-title="Family Kids",PBS Kids
+http://38.15.55.221:5004/auto/v6.2
+#EXTINF:-1 tvg-name="PBS World" group-title="Family Kids",PBS World
+http://38.15.55.221:5004/auto/v6.4
+#EXTINF:-1 tvg-name="CTN Positiv" group-title="Religion",CTN Positiv
+http://38.15.55.221:5004/auto/v38.5
+#EXTINF:-1 tvg-name="Quest 9.5" group-title="Local - Other",Quest 9.5
+http://38.15.55.221:5004/auto/v9.5
+#EXTINF:-1 tvg-name="QVC1" group-title="Shopping",QVC1
+http://38.15.55.221:5004/auto/v10.3
+#EXTINF:-1 tvg-name="QVC2" group-title="Shopping",QVC2
+http://38.15.55.221:5004/auto/v3.3
+#EXTINF:-1 tvg-name="Daystar Reflect" group-title="Religion",Daystar Reflect
+http://38.15.55.221:5004/auto/v52.3
+#EXTINF:-1 tvg-name="Shop LC" group-title="Shopping",Shop LC
+http://38.15.55.221:5004/auto/v20.3
+#EXTINF:-1 tvg-name="Shop LC" group-title="Shopping",Shop LC
+http://38.15.55.221:5004/auto/v14.5
+#EXTINF:-1 tvg-name="Shop LC" group-title="Shopping",Shop LC
+http://38.15.55.221:5004/auto/v7.4
+#EXTINF:-1 tvg-name="Start TV" group-title="Local - Other",Start TV
+http://38.15.55.221:5004/auto/v4.2
+#EXTINF:-1 tvg-name="Story Television" group-title="Local - Other",Story Television
+http://38.15.55.221:5004/auto/v4.6
+#EXTINF:-1 tvg-name="TBN" group-title="Religion",TBN
+http://38.15.55.221:5004/auto/v38.1
+#EXTINF:-1 tvg-name="TBN Inspire " group-title="Religion",TBN Inspire
+http://38.15.55.221:5004/auto/v38.1
+#EXTINF:-1 tvg-id="Charge.TV.us" tvg-name="Charge National Feed" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Charge%21_Logo_2020.svg/1280px-Charge%21_Logo_2020.svg.png" group-title="Local - Other",Charge TV National Feed
+https://fast-channels.sinclairstoryline.com/CHARGE/index.m3u8
+#EXTINF:-1 tvg-id="ROAR.TV.us2" tvg-name="Roar National Feed" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Roar_%282025%29.svg/500px-Roar_%282025%29.svg.png" group-title="New Group",Roar National Feed
+https://fast-channels.sinclairstoryline.com/TBD/index.m3u8
+#EXTINF:-1 tvg-id="Comet.TV.us" tvg-name="Comet TV National Feed" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/97/Comet_logo.svg" group-title="Local - Other",Comet TV National Feed
+https://fast-channels.sinclairstoryline.com/COMET/index.m3u8
+#EXTINF:-1 tvg-id="WSYXDT2.us" tvg-name="The Nest National Feed" group-title="Local - Other",The Nest National Feed
+https://fast-channels.sinclairstoryline.com/THENEST/index.m3u8
