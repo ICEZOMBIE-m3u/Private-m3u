@@ -1,27 +1,153 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="West (HDHomerun) " tvg-logo="https://github.com/ICEZOMBIE-m3u/TV-Logos-tivimate/raw/refs/heads/main/countries/united-states/western-entertainment-series-tv-us.png" group-title="Westerns",West (HDHomerun)
+#EXTINF:-1 tvg-id="WOSCDT5.us" tvg-name="West (HDHomerun) " tvg-logo="https://github.com/ICEZOMBIE-m3u/TV-Logos-tivimate/raw/refs/heads/main/countries/united-states/western-entertainment-series-tv-us.png" group-title="Westerns",West (HDHomerun)
 http://98.111.243.7:5004/auto/v61.5
 #EXTINF:-1 tvg-name="Western Bound by INSP (Plex)" tvg-logo="https://github.com/ICEZOMBIE-m3u/TV-Logos-tivimate/raw/refs/heads/main/countries/united-states/western-bound-by-insp-us.png" group-title="Westerns",Western Bound by INSP (Plex)
 https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-62316e8eb9d292cb4ad7499f.m3u8
-#EXTINF:-1 tvg-name="GRIT Xtra (Plex)" tvg-logo="https://github.com/ICEZOMBIE-m3u/TV-Logos-tivimate/raw/refs/heads/main/countries/united-states/grit-us.png" group-title="Westerns",GRIT Xtra (Plex)
+#EXTINF:-1 tvg-name="GRIT Xtra (Plex)" tvg-logo="https://provider-static.plex.tv/epg/cms/production/dbbb9bca-0b08-43b5-a0e7-715df9a6dbfd/_ChannelLogo_1500x1000.png" group-title="Westerns",GRIT Xtra (Plex)
 https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-62b45f15b4508e0eedacdf25.m3u8
 #EXTINF:-1 tvg-id="Grit.us@SD" tvg-name="Grit (Moveonjoy)" tvg-logo="https://github.com/ICEZOMBIE-m3u/TV-Logos-tivimate/raw/refs/heads/main/countries/united-states/grit-us.png" group-title="Westerns",GRIT (Moveonjoy)
 https://fl1.moveonjoy.com/GRIT_TV/index.m3u8
-#EXTINF:-1 tvg-name="Grit 3" tvg-logo="https://github.com/ICEZOMBIE-m3u/TV-Logos-tivimate/raw/refs/heads/main/countries/united-states/grit-us.png" group-title="TEMP1",Grit 3
+#EXTINF:-1 tvg-name="Grit 3" tvg-logo="https://github.com/ICEZOMBIE-m3u/TV-Logos-tivimate/raw/refs/heads/main/countries/united-states/grit-us.png" group-title="Z - DON'T WORK",Grit 3
 http://example.com/stream
-#EXTINF:-1 tvg-name="Grit 4" tvg-logo="https://github.com/ICEZOMBIE-m3u/TV-Logos-tivimate/raw/refs/heads/main/countries/united-states/grit-us.png" group-title="TEMP1",Grit 4
+#EXTINF:-1 tvg-name="Grit 4" tvg-logo="https://github.com/ICEZOMBIE-m3u/TV-Logos-tivimate/raw/refs/heads/main/countries/united-states/grit-us.png" group-title="Z - DON'T WORK",Grit 4
 http://example.com/stream
-#EXTINF:-1 tvg-name="Western Bound by INSP" tvg-logo="https://github.com/ICEZOMBIE-m3u/TV-Logos-tivimate/raw/refs/heads/main/countries/united-states/western-bound-by-insp-us.png" group-title="TEMP1",Western Bound by INSP
+#EXTINF:-1 tvg-name="Western Bound by INSP" tvg-logo="https://github.com/ICEZOMBIE-m3u/TV-Logos-tivimate/raw/refs/heads/main/countries/united-states/western-bound-by-insp-us.png" group-title="Z - DON'T WORK",Western Bound by INSP
 http://example.com/stream
-#EXTINF:-1 tvg-name="Western Bound by INSP" tvg-logo="https://github.com/ICEZOMBIE-m3u/TV-Logos-tivimate/raw/refs/heads/main/countries/united-states/western-bound-by-insp-us.png" group-title="TEMP1",Western Bound by INSP
+#EXTINF:-1 tvg-name="Western Bound by INSP" tvg-logo="https://github.com/ICEZOMBIE-m3u/TV-Logos-tivimate/raw/refs/heads/main/countries/united-states/western-bound-by-insp-us.png" group-title="Z - DON'T WORK",Western Bound by INSP
 http://example.com/stream
-#EXTINF:-1 tvg-name="Western Bound by INSP" tvg-logo="https://github.com/ICEZOMBIE-m3u/TV-Logos-tivimate/raw/refs/heads/main/countries/united-states/western-bound-by-insp-us.png" group-title="TEMP1",Western Bound by INSP
+#EXTINF:-1 tvg-name="Western Bound by INSP" tvg-logo="https://github.com/ICEZOMBIE-m3u/TV-Logos-tivimate/raw/refs/heads/main/countries/united-states/western-bound-by-insp-us.png" group-title="Z - DON'T WORK",Western Bound by INSP
 http://example.com/stream
 #EXTINF:-1 tvg-id="INSP.us@SD" tvg-name="INSP (Moveonjoy)" tvg-logo="https://github.com/ICEZOMBIE-m3u/TV-Logos-tivimate/raw/refs/heads/main/countries/united-states/insp-us.png" group-title="Westerns",INSP (Moveonjoy)
 https://fl1.moveonjoy.com/INSP/index.m3u8
-#EXTINF:-1 tvg-name="INSP 2" tvg-logo="https://github.com/ICEZOMBIE-m3u/TV-Logos-tivimate/raw/refs/heads/main/countries/united-states/insp-us.png" group-title="TEMP1",INSP 2
+#EXTINF:-1 tvg-id="INSP.HD.us2" tvg-name="INSP (Moveonjoy Backup)" tvg-logo="https://github.com/ICEZOMBIE-m3u/TV-Logos-tivimate/raw/refs/heads/main/countries/united-states/insp-us.png" group-title="Westerns",INSP (Moveonjoy Bkup)
+http://143.244.60.30/INSP/index.m3u8
+#EXTINF:-1 tvg-name="INSP 3" tvg-logo="https://github.com/ICEZOMBIE-m3u/TV-Logos-tivimate/raw/refs/heads/main/countries/united-states/insp-us.png" group-title="Z - DON'T WORK",INSP 3
 http://example.com/stream
-#EXTINF:-1 tvg-name="INSP 3" tvg-logo="https://github.com/ICEZOMBIE-m3u/TV-Logos-tivimate/raw/refs/heads/main/countries/united-states/insp-us.png" group-title="TEMP1",INSP 3
+#EXTINF:-1 tvg-name="INSP 4" tvg-logo="https://github.com/ICEZOMBIE-m3u/TV-Logos-tivimate/raw/refs/heads/main/countries/united-states/insp-us.png" group-title="Z - DON'T WORK",INSP 4
 http://example.com/stream
-#EXTINF:-1 tvg-name="INSP 4" tvg-logo="https://github.com/ICEZOMBIE-m3u/TV-Logos-tivimate/raw/refs/heads/main/countries/united-states/insp-us.png" group-title="TEMP1",INSP 4
+#EXTINF:-1 tvg-id="Starz.Encore.Westerns.SD.us2" tvg-name="Starz Encore Westerns" tvg-logo="https://github.com/ICEZOMBIE-m3u/TV-Logos-tivimate/raw/refs/heads/main/countries/united-states/starz-encore-westerns-us.png" group-title="Westerns",Starz Encore Westerns (Moveonjoy)
+http://143.244.60.30/STARZ_ENCORE_WESTERNS/index.m3u8
+#EXTINF:-1 tvg-name="Filmrise Westerns (Plex)" tvg-logo="https://provider-static.plex.tv/epg/cms/production/cb40c9bd-8e35-4fa4-9551-b9def73cecdc/FilmRiseWestern_Logo_Color.png" group-title="Westerns",Filmrise Westerns (Plex)
+https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-6449369eb3ff17382cae57fd.m3u8
+#EXTINF:-1 tvg-name="Grjngo Western Movies (Plex) " tvg-logo="https://provider-static.plex.tv/epg/cms/production/0572c2c0-36cd-432f-8f7c-eabecb83f553/Grjngo-Westernfilme_logo_light_-_Toni_Newesil.png" group-title="Westerns",Grjngo Western Movies (Plex)
 http://example.com/stream
+#EXTINF:-1 tvg-name="MGM: Westerns (Plex)" tvg-logo="https://provider-static.plex.tv/epg/cms/production/3e9a3d83-390a-4bb9-93b5-34094f6dc339/MPWesterns_logo_dark_-_Carl_HoffeldeWhite_lettersrRDX.png" group-title="Westerns",MGM: Westerns (Plex)
+http://example.com/stream
+#EXTINF:-1 tvg-id="WOSCDT5.us" tvg-name="WEST (BKup1) " tvg-logo="https://github.com/ICEZOMBIE-m3u/TV-Logos-tivimate/raw/refs/heads/main/countries/united-states/western-entertainment-series-tv-us.png" group-title="Westerns",WEST (BKup1)
+http://173.229.4.240:5004/auto/v26.8
+#EXTINF:-1 tvg-id="WOSCDT5.us" tvg-name="WEST (BKup2)" tvg-logo="https://github.com/ICEZOMBIE-m3u/TV-Logos-tivimate/raw/refs/heads/main/countries/united-states/western-entertainment-series-tv-us.png" group-title="Westerns",WEST (BKup2)
+http://68.251.105.81:5004/auto/v26.8
+#EXTINF:-1 tvg-name="Western TV (Pluto)" tvg-logo="https://images.pluto.tv/channels/5e8df4bc16e34700077e77d3/colorLogoPNG.png" group-title="Westerns",Western TV (Pluto)
+https://jmp2.uk/plu-5e8df4bc16e34700077e77d3.m3u8
+#EXTINF:-1 tvg-name="Bonanza (Pluto) " tvg-logo="https://images.pluto.tv/channels/68e9913c4a666b9054849832/colorLogoPNG_1762379692322.png" group-title="Binge TV",Bonanza (Pluto)
+https://jmp2.uk/plu-68e9913c4a666b9054849832.m3u8
+#EXTINF:-1 tvg-name="Gunsmoke (Pluto)" tvg-logo="https://images.pluto.tv/channels/60f75771dfc72a00071fd0e0/colorLogoPNG.png" group-title="Binge TV",Gunsmoke (Pluto)
+https://jmp2.uk/plu-60f75771dfc72a00071fd0e0.m3u8
+#EXTINF:-1 tvg-name="Rawhide (Pluto)" tvg-logo="https://images.pluto.tv/channels/634f307c7a068e00072c9982/colorLogoPNG_1731835685335.png" group-title="Binge TV",Rawhide (Pluto)
+https://jmp2.uk/plu-634f307c7a068e00072c9982.m3u8
+#EXTINF:-1 tvg-name="Star Trek (Pluto) " tvg-logo="https://images.pluto.tv/channels/5efbd39f8c4ce900075d7698/colorLogoPNG.png" group-title="Binge TV",Star Trek (Pluto)
+https://jmp2.uk/plu-5efbd39f8c4ce900075d7698.m3u8
+#EXTINF:-1 tvg-name="Star Trek: DS9 (Pluto) " tvg-logo="https://images.pluto.tv/channels/65c69bbfd77d450008c7ffee/colorLogoPNG_1758310416057.png" group-title="Binge TV",Star Trek: DS9 (Pluto)
+https://jmp2.uk/plu-65c69bbfd77d450008c7ffee.m3u8
+#EXTINF:-1 tvg-name="Star Trek: Voyager (Pluto) " tvg-logo="https://images.pluto.tv/channels/634dacf51d90320007fcd5fa/colorLogoPNG_1758310287876.png" group-title="Binge TV",Star Trek: Voyager (Pluto)
+https://jmp2.uk/plu-634dacf51d90320007fcd5fa.m3u8
+#EXTINF:-1 tvg-name="Stargate SG1 (Pluto)" tvg-logo="https://images.pluto.tv/channels/620bfa7df72827000703ddb1/colorLogoPNG.png" group-title="Binge TV",Stargate SG1 (Pluto)
+https://jmp2.uk/plu-620bfa7df72827000703ddb1.m3u8
+#EXTINF:-1 tvg-name="Swerve Sports (Pluto)" tvg-logo="https://images.pluto.tv/channels/683df56f5195c2a60a3f5559/colorLogoPNG_1750976158732.png" group-title="Sports & Games",Swerve Sports (Pluto)
+https://jmp2.uk/plu-683df56f5195c2a60a3f5559.m3u8
+#EXTINF:-1 tvg-name="The First" tvg-logo="https://images.pluto.tv/channels/5d486acc34ceb37d3c458a64/colorLogoPNG.png" group-title="News & Weather",The First (Pluto)
+https://jmp2.uk/plu-5d486acc34ceb37d3c458a64.m3u8
+#EXTINF:-1 tvg-name="Lone Ranger" tvg-logo="https://images.pluto.tv/channels/65a6dafb7bdc8d0008473c85/colorLogoPNG.png" group-title="Binge TV",Lone Ranger (Pluto)
+https://jmp2.uk/plu-65a6dafb7bdc8d0008473c85.m3u8
+#EXTINF:-1 tvg-name="The Rifleman" tvg-logo="https://images.pluto.tv/channels/5e825550e758c700077b0aef/colorLogoPNG.png" group-title="Binge TV",The Rifleman (Pluto)
+https://jmp2.uk/plu-5e825550e758c700077b0aef.m3u8
+#EXTINF:-1 tvg-name="NBA on Pluto" tvg-logo="https://images.pluto.tv/channels/6792c30abc03978b9b8bb832/colorLogoPNG_1747950897785.png" group-title="Sports & Games",NBA Channel (Pluto)
+https://jmp2.uk/plu-6792c30abc03978b9b8bb832.m3u8
+#EXTINF:-1 tvg-name="Pet Collective" tvg-logo="https://images.pluto.tv/channels/5bb1ad55268cae539bcedb08/colorLogoPNG.png" group-title="Documentry",Pet Collective (Pluto)
+https://jmp2.uk/plu-5bb1ad55268cae539bcedb08.m3u8
+#EXTINF:-1 tvg-name="Walking Dead Universe" tvg-logo="https://images.pluto.tv/channels/62fa8176b9884200074ef5ae/colorLogoPNG.png" group-title="Binge TV",Walking Dead Universe (Pluto)
+https://jmp2.uk/plu-62fa8176b9884200074ef5ae.m3u8
+#EXTINF:-1 tvg-name="Wild Wild West" tvg-logo="https://images.pluto.tv/channels/664e640a0120f40008be4582/colorLogoPNG.png" group-title="Westerns",Wild Wild West (Pluto)
+https://jmp2.uk/plu-664e640a0120f40008be4582.m3u8
+#EXTINF:-1 tvg-name="TNA Wrestling (Pluto)" tvg-logo="https://images.pluto.tv/channels/59b722526996084038c01e1b/colorLogoPNG.png" group-title="Sports & Games",TNA Wrestling (Pluto)
+https://jmp2.uk/plu-59b722526996084038c01e1b.m3u8
+#EXTINF:-1 tvg-name="Triton Poker (Pluto)" tvg-logo="https://images.pluto.tv/channels/661827ffe8fba800086b217d/colorLogoPNG.png" group-title="Sports & Games",Triton Poker (Pluto)
+https://jmp2.uk/plu-661827ffe8fba800086b217d.m3u8
+#EXTINF:-1 tvg-name="UFC (Pluto)" tvg-logo="https://images.pluto.tv/channels/677d9adfa9a51b0008497fa0/colorLogoPNG.png" group-title="Sports & Games",UFC (Pluto)
+https://jmp2.uk/plu-677d9adfa9a51b0008497fa0.m3u8
+#EXTINF:-1 tvg-name="Universal Action (Pluto)" tvg-logo="https://images.pluto.tv/channels/654933e253fc970008390114/colorLogoPNG.png" group-title="Binge TV",Universal Action (Pluto)
+https://jmp2.uk/plu-654933e253fc970008390114.m3u8
+#EXTINF:-1 tvg-name="Universal Crime (Pluto) " tvg-logo="https://images.pluto.tv/channels/6549341853fc9700083901ac/colorLogoPNG.png" group-title="Binge TV",Universal Crime (Pluto)
+https://jmp2.uk/plu-6549341853fc9700083901ac.m3u8
+#EXTINF:-1 tvg-name="World Poker Tour (Pluto)" tvg-logo="https://images.pluto.tv/channels/5616f9c0ada51f8004c4b091/colorLogoPNG-1664295222280.png" group-title="Sports & Games",World Poker Tour (Pluto)
+https://jmp2.uk/plu-5616f9c0ada51f8004c4b091.m3u8
+#EXTINF:-1 tvg-name="Wrestling Central" tvg-logo="https://images.pluto.tv/channels/68c85164b7af374ee483210f/colorLogoPNG_1760475182481.png" group-title="Sports & Games",Wrestling Central (Pluto)
+https://jmp2.uk/plu-68c85164b7af374ee483210f.m3u8
+#EXTINF:-1 tvg-name="Supermarket Sweep (Pluto) " tvg-logo="https://images.pluto.tv/channels/649ddbfb6f29ec000874ca9e/colorLogoPNG.png" group-title="Sports & Games",Supermarket Sweep (Pluto)
+https://jmp2.uk/plu-649ddbfb6f29ec000874ca9e.m3u8
+#EXTINF:-1 tvg-id="Scripps.News.Channel.us" tvg-name="Scripps News (Pluto)" tvg-logo="https://images.pluto.tv/channels/5459795fc9f133a519bc0bef/colorLogoPNG.png" group-title="Sports & Games",Scripps News (Pluto)
+https://jmp2.uk/plu-5459795fc9f133a519bc0bef.m3u8
+#EXTINF:-1 tvg-name="Shop LC (Pluto) " tvg-logo="https://images.pluto.tv/channels/68ee9a999938143525bfc385/colorLogoPNG_1760999630595.png" group-title="Shopping",Shop LC (Pluto)
+https://jmp2.uk/plu-68ee9a999938143525bfc385.m3u8
+#EXTINF:-1 tvg-name="Salem News (Pluto) " tvg-logo="https://images.pluto.tv/channels/66a7f0a78561260008c177f2/colorLogoPNG.png" group-title="Sports & Games",Salem News (Pluto)
+https://jmp2.uk/plu-66a7f0a78561260008c177f2.m3u8
+#EXTINF:-1 tvg-name="ABC News (Pluto)" tvg-logo="https://images.pluto.tv/channels/6508be683a0d700008c534e4/colorLogoPNG.png" group-title="News & Weather",ABC News (Pluto)
+https://jmp2.uk/plu-6508be683a0d700008c534e4.m3u8
+#EXTINF:-1 tvg-name="Americas Voice" tvg-logo="https://images.pluto.tv/channels/5e1f7da4bc7d740009831259/colorLogoPNG.png" group-title="News & Weather",America's Voice (Pluto)
+http://example.com/stream
+#EXTINF:-1 tvg-name="BBC Earth (Pluto) " tvg-logo="https://images.pluto.tv/channels/656535fc2c46f30008870fae/colorLogoPNG.png" group-title="Documentry",BBC Earth (Pluto)
+https://jmp2.uk/plu-656535fc2c46f30008870fae.m3u8
+#EXTINF:-1 tvg-name="BBC News (Pluto)" tvg-logo="https://images.pluto.tv/channels/65d92a8c8b24c80008e285c0/colorLogoPNG.png" group-title="News & Weather",BBC News (Pluto)
+https://jmp2.uk/plu-65d92a8c8b24c80008e285c0.m3u8
+#EXTINF:-1 tvg-name="Bellator MMA (Pluto)" tvg-logo="https://images.pluto.tv/channels/5ebc8688f3697d00072f7cf8/colorLogoPNG.png" group-title="Sports & Games",Bellator MMA (Pluto)
+https://jmp2.uk/plu-5ebc8688f3697d00072f7cf8.m3u8
+#EXTINF:-1 tvg-name="Blaze Live (Pluto) " tvg-logo="https://images.pluto.tv/channels/5e46fba0c43b0d00096e5ac1/colorLogoPNG.png" group-title="News & Weather",Blaze Live (Pluto)
+https://jmp2.uk/plu-5e46fba0c43b0d00096e5ac1.m3u8
+#EXTINF:-1 tvg-name="Bloomberg TV+ (Pluto)" tvg-logo="https://images.pluto.tv/channels/54ff7ba69222cb1c2624c584/colorLogoPNG_1756948295813.png" group-title="News & Weather",Bloomberg TV+ (Pluto)
+https://jmp2.uk/plu-54ff7ba69222cb1c2624c584.m3u8
+#EXTINF:-1 tvg-name="Buzzr (Pluto) " tvg-logo="https://images.pluto.tv/channels/5812bfbe4ced4f7b601b12e6/colorLogoPNG.png" group-title="Sports & Games",Buzzr (Pluto)
+https://jmp2.uk/plu-5812bfbe4ced4f7b601b12e6.m3u8
+#EXTINF:-1 tvg-name="CBS News 24-7 (Pluto) " tvg-logo="https://images.pluto.tv/channels/5a6b92f6e22a617379789618/colorLogoPNG.png" group-title="News & Weather",CBS News 24-7 (Pluto)
+https://jmp2.uk/plu-5a6b92f6e22a617379789618.m3u8
+#EXTINF:-1 tvg-name="Classic Movie Western (Pluto)" tvg-logo="https://images.pluto.tv/channels/61f33318210549000806a530/colorLogoPNG.png" group-title="Westerns",Classic Movie Western (Pluto)
+https://jmp2.uk/plu-61f33318210549000806a530.m3u8
+#EXTINF:-1 tvg-name="Court TV (Pluto) " tvg-logo="https://images.pluto.tv/channels/5dae0b4841a7d0000938ddbd/colorLogoPNG.png" group-title="News & Weather",Court TV (Pluto)
+https://jmp2.uk/plu-5dae0b4841a7d0000938ddbd.m3u8
+#EXTINF:-1 tvg-name="Crackling Fireplace" tvg-logo="https://images.pluto.tv/channels/5bf48085851dd5632e2f7b4d/colorLogoPNG.png" group-title="Holidayscapes",Fireplace (Pluto)
+https://jmp2.uk/plu-5bf48085851dd5632e2f7b4d.m3u8
+#EXTINF:-1 tvg-name="DAZN Ringside (Pluto)" tvg-logo="https://images.pluto.tv/channels/649b6898f2ec0000081a9460/colorLogoPNG.png" group-title="Sports & Games",DAZN Ringside (Pluto)
+https://jmp2.uk/plu-649b6898f2ec0000081a9460.m3u8
+#EXTINF:-1 tvg-name="Dog Whisperer (Pluto)" tvg-logo="https://images.pluto.tv/channels/664fd48894d5580008e45e7c/colorLogoPNG.png" group-title="Documentry",Dog Whisperer (Pluto)
+https://jmp2.uk/plu-664fd48894d5580008e45e7c.m3u8
+#EXTINF:-1 tvg-name="F1 Channel (Pluto)" tvg-logo="https://images.pluto.tv/channels/65c69ee3d77d450008c80438/colorLogoPNG.png" group-title="Sports & Games",F1 Racing (Pluto)
+https://jmp2.uk/plu-65c69ee3d77d450008c80438.m3u8
+#EXTINF:-1 tvg-name="FanDuel TV Extra (Pluto)" tvg-logo="https://images.pluto.tv/channels/650b68bc2ce8e40008ac9c14/colorLogoPNG_1744930668027.png" group-title="Sports & Games",FanDuel TV Extra (Pluto)
+https://jmp2.uk/plu-650b68bc2ce8e40008ac9c14.m3u8
+#EXTINF:-1 tvg-name="Festive Fireplace (Pluto)" tvg-logo="https://images.pluto.tv/channels/614501c653ceee000772b0ca/colorLogoPNG.png" group-title="Holidayscapes",Festive Fireplace (Pluto)
+https://jmp2.uk/plu-614501c653ceee000772b0ca.m3u8
+#EXTINF:-1 tvg-name="FOX Sports (Pluto)" tvg-logo="https://images.pluto.tv/channels/5a74b8e1e22a61737979c6bf/colorLogoPNG.png" group-title="Sports & Games",Fox Sports (Pluto)
+https://jmp2.uk/plu-5a74b8e1e22a61737979c6bf.m3u8
+#EXTINF:-1 tvg-name="FOX Weather (Pluto)" tvg-logo="https://images.pluto.tv/channels/640a68880e884c0009979cc2/colorLogoPNG-1757012691643.png" group-title="News & Weather",FOX Weather (Pluto)
+https://jmp2.uk/plu-640a68880e884c0009979cc2.m3u8
+#EXTINF:-1 tvg-name="Game Show Central (Pluto)" tvg-logo="https://images.pluto.tv/channels/5e54187aae660e00093561d6/colorLogoPNG.png" group-title="Sports & Games",Game Show Central (Pluto)
+https://jmp2.uk/plu-5e54187aae660e00093561d6.m3u8
+#EXTINF:-1 tvg-name="Glory Kickboxing (Pluto) " tvg-logo="https://images.pluto.tv/channels/5417a212ff9fba68282fbf5e/colorLogoPNG.png" group-title="Sports & Games",Glory Kickboxing (Pluto)
+https://jmp2.uk/plu-5417a212ff9fba68282fbf5e.m3u8
+#EXTINF:-1 tvg-name="HSN1 (Pluto)" tvg-logo="https://images.pluto.tv/channels/5f8a02476b72230007e62b7d/colorLogoPNG-1675271320133.png" group-title="Shopping",HSN1 (Pluto)
+https://jmp2.uk/plu-5f8a02476b72230007e62b7d.m3u8
+#EXTINF:-1 tvg-name="ION (Pluto) " tvg-logo="https://images.pluto.tv/channels/65453f30085df200085883d8/colorLogoPNG.png" group-title="Entertainment",ION (Pluto)
+https://jmp2.uk/plu-65453f30085df200085883d8.m3u8
+#EXTINF:-1 tvg-name="Let's Make a Deal (Pluto)" tvg-logo="https://images.pluto.tv/channels/6267352efcf21c0007c76642/colorLogoPNG.png" group-title="Sports & Games",Let's Make a Deal (Pluto)
+https://jmp2.uk/plu-6267352efcf21c0007c76642.m3u8
+#EXTINF:-1 tvg-name="LiveNOW from FOX (Pluto) " tvg-logo="https://images.pluto.tv/channels/63d025db4e83e700086eaa96/colorLogoPNG.png" group-title="News & Weather",FOX Live Now (Pluto)
+https://jmp2.uk/plu-63d025db4e83e700086eaa96.m3u8
+#EXTINF:-1 tvg-name="Lucha Libra AAA (Pluto)" tvg-logo="https://images.pluto.tv/channels/5c01df1759ee03633e7b272c/colorLogoPNG.png" group-title="Sports & Games",Lucha Libre AAA (Pluto)
+https://jmp2.uk/plu-5c01df1759ee03633e7b272c.m3u8
+#EXTINF:-1 tvg-name="MLB (Pluto)" tvg-logo="https://images.pluto.tv/channels/5e66968a70f34c0007d050be/colorLogoPNG.png" group-title="Sports & Games",MLB (Pluto)
+https://jmp2.uk/plu-5e66968a70f34c0007d050be.m3u8
+#EXTINF:-1 tvg-name="MotorTrend FAST TV (Pluto)" tvg-logo="https://images.pluto.tv/channels/6400f731d200410008f9b339/colorLogoPNG.png" group-title="Sports & Games",MotorTrend (Pluto)
+https://jmp2.uk/plu-6400f731d200410008f9b339.m3u8
+#EXTINF:-1 tvg-name="NBC News Now (Pluto)" tvg-logo="https://images.pluto.tv/channels/5df97894467dfa00091c873c/colorLogoPNG.png" group-title="News & Weather",NBC News Now (Pluto)
+https://jmp2.uk/plu-5df97894467dfa00091c873c.m3u8
+#EXTINF:-1 tvg-name="NBC Sports Now (Pluto)" tvg-logo="https://images.pluto.tv/channels/6549306c83595c000815a696/colorLogoPNG.png" group-title="Sports & Games",NBC Sports Now (Pluto)
+https://jmp2.uk/plu-6549306c83595c000815a696.m3u8
