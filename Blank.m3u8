@@ -1,1 +1,27 @@
-
+#EXTM3U
+#EXTINF:-1 tvg-name="West (HDHomerun) " tvg-logo="https://github.com/ICEZOMBIE-m3u/TV-Logos-tivimate/raw/refs/heads/main/countries/united-states/western-entertainment-series-tv-us.png" group-title="Westerns",West (HDHomerun)
+http://98.111.243.7:5004/auto/v61.5
+#EXTINF:-1 tvg-name="Western Bound by INSP (Plex)" tvg-logo="https://github.com/ICEZOMBIE-m3u/TV-Logos-tivimate/raw/refs/heads/main/countries/united-states/western-bound-by-insp-us.png" group-title="Westerns",Western Bound by INSP (Plex)
+https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-62316e8eb9d292cb4ad7499f.m3u8
+#EXTINF:-1 tvg-name="GRIT Xtra (Plex)" tvg-logo="https://github.com/ICEZOMBIE-m3u/TV-Logos-tivimate/raw/refs/heads/main/countries/united-states/grit-us.png" group-title="Westerns",GRIT Xtra (Plex)
+https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-62b45f15b4508e0eedacdf25.m3u8
+#EXTINF:-1 tvg-id="Grit.us@SD" tvg-name="Grit (Moveonjoy)" tvg-logo="https://github.com/ICEZOMBIE-m3u/TV-Logos-tivimate/raw/refs/heads/main/countries/united-states/grit-us.png" group-title="Westerns",GRIT (Moveonjoy)
+https://fl1.moveonjoy.com/GRIT_TV/index.m3u8
+#EXTINF:-1 tvg-name="Grit 3" tvg-logo="https://github.com/ICEZOMBIE-m3u/TV-Logos-tivimate/raw/refs/heads/main/countries/united-states/grit-us.png" group-title="TEMP1",Grit 3
+http://example.com/stream
+#EXTINF:-1 tvg-name="Grit 4" tvg-logo="https://github.com/ICEZOMBIE-m3u/TV-Logos-tivimate/raw/refs/heads/main/countries/united-states/grit-us.png" group-title="TEMP1",Grit 4
+http://example.com/stream
+#EXTINF:-1 tvg-name="Western Bound by INSP" tvg-logo="https://github.com/ICEZOMBIE-m3u/TV-Logos-tivimate/raw/refs/heads/main/countries/united-states/western-bound-by-insp-us.png" group-title="TEMP1",Western Bound by INSP
+http://example.com/stream
+#EXTINF:-1 tvg-name="Western Bound by INSP" tvg-logo="https://github.com/ICEZOMBIE-m3u/TV-Logos-tivimate/raw/refs/heads/main/countries/united-states/western-bound-by-insp-us.png" group-title="TEMP1",Western Bound by INSP
+http://example.com/stream
+#EXTINF:-1 tvg-name="Western Bound by INSP" tvg-logo="https://github.com/ICEZOMBIE-m3u/TV-Logos-tivimate/raw/refs/heads/main/countries/united-states/western-bound-by-insp-us.png" group-title="TEMP1",Western Bound by INSP
+http://example.com/stream
+#EXTINF:-1 tvg-id="INSP.us@SD" tvg-name="INSP (Moveonjoy)" tvg-logo="https://github.com/ICEZOMBIE-m3u/TV-Logos-tivimate/raw/refs/heads/main/countries/united-states/insp-us.png" group-title="Westerns",INSP (Moveonjoy)
+https://fl1.moveonjoy.com/INSP/index.m3u8
+#EXTINF:-1 tvg-name="INSP 2" tvg-logo="https://github.com/ICEZOMBIE-m3u/TV-Logos-tivimate/raw/refs/heads/main/countries/united-states/insp-us.png" group-title="TEMP1",INSP 2
+http://example.com/stream
+#EXTINF:-1 tvg-name="INSP 3" tvg-logo="https://github.com/ICEZOMBIE-m3u/TV-Logos-tivimate/raw/refs/heads/main/countries/united-states/insp-us.png" group-title="TEMP1",INSP 3
+http://example.com/stream
+#EXTINF:-1 tvg-name="INSP 4" tvg-logo="https://github.com/ICEZOMBIE-m3u/TV-Logos-tivimate/raw/refs/heads/main/countries/united-states/insp-us.png" group-title="TEMP1",INSP 4
+http://example.com/stream
