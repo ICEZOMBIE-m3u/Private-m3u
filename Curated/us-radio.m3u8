@@ -1,4 +1,284 @@
 #EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
+#EXTINF:-1 tvg-id="Blank.Dummy.us" tvg-name="[ Radio/Music ]" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/x.png?raw=true?raw=true" group-title="I-Heart",[ Radio/Music ]
+https://jmp2.uk/stvp-CA2900005KG
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="KALOOPY MUSIC CHANNEL" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/kaloopy.jpg?raw=true" group-title="I-Heart",KALOOPY MUSIC
+https://dai.google.com/linear/hls/event/FK1bjW0AThepH1W7CJrByg/master.m3u8
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart The Beatles Now And Then" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/iheart.jpeg?raw=true" group-title="I-Heart",iHeart The Beatles Now And Then
+https://stream.revma.ihrhls.com/zc10023/hls.m3u8
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Country 2000's" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/iheart.jpeg?raw=true" group-title="I-Heart",iHeart Country 2000's
+https://stream.revma.ihrhls.com/zc10027/hls.m3u8
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Bluestown" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/iheart.jpeg?raw=true" group-title="I-Heart",iHeart Bluestown
+https://stream.revma.ihrhls.com/zc10029/hls.m3u8
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Southern Rock Ride" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/iheart.jpeg?raw=true" group-title="I-Heart",iHeart Southern Rock Ride
+https://stream.revma.ihrhls.com/zc10053/hls.m3u8
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart 80's Rock Ride" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/iheart.jpeg?raw=true" group-title="I-Heart",iHeart 80's Rock Ride
+https://stream.revma.ihrhls.com/zc10054/hls.m3u8
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Minivan Rock" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/iheart.jpeg?raw=true" group-title="I-Heart",iHeart Minivan Rock
+https://stream.revma.ihrhls.com/zc10055/hls.m3u8
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Doo-Wop" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/iheart.jpeg?raw=true" group-title="I-Heart",iHeart Doo-Wop
+https://stream.revma.ihrhls.com/zc10058/hls.m3u8
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Classic Hard Rock" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/iheart.jpeg?raw=true" group-title="I-Heart",iHeart Classic Hard Rock
+https://stream.revma.ihrhls.com/zc10068/hls.m3u8
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Yee Yee Radio" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/iheart.jpeg?raw=true" group-title="I-Heart",iHeart Yee Yee Radio
+https://stream.revma.ihrhls.com/zc10082/hls.m3u8
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Magic (M�sica en Ingles y Espa�ol)" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/iheart.jpeg?raw=true" group-title="I-Heart",iHeart Magic (M�sica en Ingles y Espa�ol)
+https://stream.revma.ihrhls.com/zc10085/hls.m3u8
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Mega" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/iheart.jpeg?raw=true" group-title="I-Heart",iHeart Mega
+https://stream.revma.ihrhls.com/zc10087/hls.m3u8
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Retro En Espa�ol" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/iheart.jpeg?raw=true" group-title="I-Heart",iHeart Retro En Espa�ol
+https://stream.revma.ihrhls.com/zc10089/hls.m3u8
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart ALT X" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/iheart.jpeg?raw=true" group-title="I-Heart",iHeart ALT X
+https://stream.revma.ihrhls.com/zc10098/hls.m3u8
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Cross Country" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/iheart.jpeg?raw=true" group-title="I-Heart",iHeart Cross Country
+https://stream.revma.ihrhls.com/zc10164/hls.m3u8
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Hip-Hop 2000's" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/iheart.jpeg?raw=true" group-title="I-Heart",iHeart Hip-Hop 2000's
+https://stream.revma.ihrhls.com/zc10170/hls.m3u8
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Casey Kasem's Classic American Top 40 (90's & 2000's)" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/iheart.jpeg?raw=true" group-title="I-Heart",iHeart Casey Kasem's Classic American Top 40 (90's & 2000's)
+https://stream.revma.ihrhls.com/zc10423/hls.m3u8
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Trending Pop Top 20" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/iheart.jpeg?raw=true" group-title="I-Heart",iHeart Trending Pop Top 20
+https://stream.revma.ihrhls.com/zc10479/hls.m3u8
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Trending Hip-Hop Top 20" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/iheart.jpeg?raw=true" group-title="I-Heart",iHeart Trending Hip-Hop Top 20
+https://stream.revma.ihrhls.com/zc10484/hls.m3u8
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Trending Country Top 20" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/iheart.jpeg?raw=true" group-title="I-Heart",iHeart Trending Country Top 20
+https://stream.revma.ihrhls.com/zc10485/hls.m3u8
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Rick Dees Weekly Top 40" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/iheart.jpeg?raw=true" group-title="I-Heart",iHeart Rick Dees Weekly Top 40
+https://stream.revma.ihrhls.com/zc10599/hls.m3u8
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Classic Rick Dees Weekly Top 40 (80's 90's & 2000's)" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/iheart.jpeg?raw=true" group-title="I-Heart",iHeart Classic Rick Dees Weekly Top 40 (80's 90's & 2000's)
+https://stream.revma.ihrhls.com/zc10600/hls.m3u8
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart PRIDE Radio" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/iheart.jpeg?raw=true" group-title="I-Heart",iHeart PRIDE Radio
+https://stream.revma.ihrhls.com/zc3949/hls.m3u8
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Smooth Jazz" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/iheart.jpeg?raw=true" group-title="I-Heart",iHeart Smooth Jazz
+https://stream.revma.ihrhls.com/zc4242/hls.m3u8
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Today's Mix" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/iheart.jpeg?raw=true" group-title="I-Heart",iHeart Today's Mix
+https://stream.revma.ihrhls.com/zc4409/hls.m3u8
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Soft Rock" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/iheart.jpeg?raw=true" group-title="I-Heart",iHeart Soft Rock
+https://stream.revma.ihrhls.com/zc4414/hls.m3u8
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Country" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/iheart.jpeg?raw=true" group-title="I-Heart",iHeart Country
+https://stream.revma.ihrhls.com/zc4418/hls.m3u8
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Hit Nation" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/iheart.jpeg?raw=true" group-title="I-Heart",iHeart Hit Nation
+https://stream.revma.ihrhls.com/zc4422/hls.m3u8
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Classic Rock" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/iheart.jpeg?raw=true" group-title="I-Heart",iHeart Classic Rock
+https://stream.revma.ihrhls.com/zc4426/hls.m3u8
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart R&B Jams" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/iheart.jpeg?raw=true" group-title="I-Heart",iHeart R&B Jams
+https://stream.revma.ihrhls.com/zc4433/hls.m3u8
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Country Classics" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/iheart.jpeg?raw=true" group-title="I-Heart",iHeart Country Classics
+https://stream.revma.ihrhls.com/zc4435/hls.m3u8
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Cool Oldies (70's & 80's)" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/iheart.jpeg?raw=true" group-title="I-Heart",iHeart Cool Oldies (70's & 80's)
+https://stream.revma.ihrhls.com/zc4439/hls.m3u8
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Rock Nation" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/iheart.jpeg?raw=true" group-title="I-Heart",iHeart Rock Nation
+https://stream.revma.ihrhls.com/zc4443/hls.m3u8
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart ALT Radio" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/iheart.jpeg?raw=true" group-title="I-Heart",iHeart ALT Radio
+https://stream.revma.ihrhls.com/zc4447/hls.m3u8
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Rumba" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/iheart.jpeg?raw=true" group-title="I-Heart",iHeart Rumba
+https://stream.revma.ihrhls.com/zc4451/hls.m3u8
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Big Classic Hits (70's 80's & 90's)" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/iheart.jpeg?raw=true" group-title="I-Heart",iHeart Big Classic Hits (70's 80's & 90's)
+https://stream.revma.ihrhls.com/zc4455/hls.m3u8
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart New Country" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/iheart.jpeg?raw=true" group-title="I-Heart",iHeart New Country
+https://stream.revma.ihrhls.com/zc4712/hls.m3u8
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Real Oldies (60's & 70's)" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/iheart.jpeg?raw=true" group-title="I-Heart",iHeart Real Oldies (60's & 70's)
+https://stream.revma.ihrhls.com/zc4717/hls.m3u8
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Chill Jams" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/iheart.jpeg?raw=true" group-title="I-Heart",iHeart Chill Jams
+https://stream.revma.ihrhls.com/zc4719/hls.m3u8
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart WiLD" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/iheart.jpeg?raw=true" group-title="I-Heart",iHeart WiLD
+https://stream.revma.ihrhls.com/zc4722/hls.m3u8
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Mix Nation" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/iheart.jpeg?raw=true" group-title="I-Heart",iHeart Mix Nation
+https://stream.revma.ihrhls.com/zc4776/hls.m3u8
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart American Top 40" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/iheart.jpeg?raw=true" group-title="I-Heart",iHeart American Top 40
+https://stream.revma.ihrhls.com/zc4802/hls.m3u8
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Delilah" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/iheart.jpeg?raw=true" group-title="I-Heart",iHeart Delilah
+https://stream.revma.ihrhls.com/zc4846/hls.m3u8
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Slippery When Wet" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/iheart.jpeg?raw=true" group-title="I-Heart",iHeart Slippery When Wet
+https://stream.revma.ihrhls.com/zc4858/hls.m3u8
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Pop Top 20" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/iheart.jpeg?raw=true" group-title="I-Heart",iHeart Pop Top 20
+https://stream.revma.ihrhls.com/zc4878/hls.m3u8
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Country Top 20" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/iheart.jpeg?raw=true" group-title="I-Heart",iHeart Country Top 20
+https://stream.revma.ihrhls.com/zc4882/hls.m3u8
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Hip-Hop Top 20" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/iheart.jpeg?raw=true" group-title="I-Heart",iHeart Hip-Hop Top 20
+https://stream.revma.ihrhls.com/zc4886/hls.m3u8
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Rock Top 20" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/iheart.jpeg?raw=true" group-title="I-Heart",iHeart Rock Top 20
+https://stream.revma.ihrhls.com/zc4932/hls.m3u8
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart R&B Top 20" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/iheart.jpeg?raw=true" group-title="I-Heart",iHeart R&B Top 20
+https://stream.revma.ihrhls.com/zc4940/hls.m3u8
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Sunny Radio" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/iheart.jpeg?raw=true" group-title="I-Heart",iHeart Sunny Radio
+https://stream.revma.ihrhls.com/zc5014/hls.m3u8
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart 80's" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/iheart.jpeg?raw=true" group-title="I-Heart",iHeart 80's
+https://stream.revma.ihrhls.com/zc5060/hls.m3u8
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Trancid" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/iheart.jpeg?raw=true" group-title="I-Heart",iHeart Trancid
+https://stream.revma.ihrhls.com/zc5144/hls.m3u8
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart British Invasion" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/iheart.jpeg?raw=true" group-title="I-Heart",iHeart British Invasion
+https://stream.revma.ihrhls.com/zc5708/hls.m3u8
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Evolution" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/iheart.jpeg?raw=true" group-title="I-Heart",iHeart Evolution
+https://stream.revma.ihrhls.com/zc5953/hls.m3u8
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Real Fun Beach Radio" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/iheart.jpeg?raw=true" group-title="I-Heart",iHeart Real Fun Beach Radio
+https://stream.revma.ihrhls.com/zc6221/hls.m3u8
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Full Metal Jackie" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/iheart.jpeg?raw=true" group-title="I-Heart",iHeart Full Metal Jackie
+https://stream.revma.ihrhls.com/zc6225/hls.m3u8
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Smells Like the 90's" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/iheart.jpeg?raw=true" group-title="I-Heart",iHeart Smells Like the 90's
+https://stream.revma.ihrhls.com/zc6437/hls.m3u8
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart The iHeartRadio Countdown" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/iheart.jpeg?raw=true" group-title="I-Heart",iHeart The iHeartRadio Countdown
+https://stream.revma.ihrhls.com/zc6455/hls.m3u8
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Sweat Hotel with Keith Sweat" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/iheart.jpeg?raw=true" group-title="I-Heart",iHeart Sweat Hotel with Keith Sweat
+https://stream.revma.ihrhls.com/zc6529/hls.m3u8
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Casey Kasem's Classic American Top 40 (70's & 80's)" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/iheart.jpeg?raw=true" group-title="I-Heart",iHeart Casey Kasem's Classic American Top 40 (70's & 80's)
+https://stream.revma.ihrhls.com/zc6545/hls.m3u8
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart After MidNite" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/iheart.jpeg?raw=true" group-title="I-Heart",iHeart After MidNite
+https://stream.revma.ihrhls.com/zc6563/hls.m3u8
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart One Hit Wonders" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/iheart.jpeg?raw=true" group-title="I-Heart",iHeart One Hit Wonders
+https://stream.revma.ihrhls.com/zc6669/hls.m3u8
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Coffee Shop Radio" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/iheart.jpeg?raw=true" group-title="I-Heart",iHeart Coffee Shop Radio
+https://stream.revma.ihrhls.com/zc6698/hls.m3u8
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Fly Nation (Classic Hip-Hop)" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/iheart.jpeg?raw=true" group-title="I-Heart",iHeart Fly Nation (Classic Hip-Hop)
+https://stream.revma.ihrhls.com/zc6732/hls.m3u8
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Forever Disco" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/iheart.jpeg?raw=true" group-title="I-Heart",iHeart Forever Disco
+https://stream.revma.ihrhls.com/zc6755/hls.m3u8
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Country Top 30" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/iheart.jpeg?raw=true" group-title="I-Heart",iHeart Country Top 30
+https://stream.revma.ihrhls.com/zc6760/hls.m3u8
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Rat Pack Radio" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/iheart.jpeg?raw=true" group-title="I-Heart",iHeart Rat Pack Radio
+https://stream.revma.ihrhls.com/zc6784/hls.m3u8
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Reggae" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/iheart.jpeg?raw=true" group-title="I-Heart",iHeart Reggae
+https://stream.revma.ihrhls.com/zc6788/hls.m3u8
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Love Songs Radio" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/iheart.jpeg?raw=true" group-title="I-Heart",iHeart Love Songs Radio
+https://stream.revma.ihrhls.com/zc6790/hls.m3u8
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart 70's Rock Ride" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/iheart.jpeg?raw=true" group-title="I-Heart",iHeart 70's Rock Ride
+https://stream.revma.ihrhls.com/zc6803/hls.m3u8
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Lite Rock" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/iheart.jpeg?raw=true" group-title="I-Heart",iHeart Lite Rock
+https://stream.revma.ihrhls.com/zc6830/hls.m3u8
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart 90's" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/iheart.jpeg?raw=true" group-title="I-Heart",iHeart 90's
+https://stream.revma.ihrhls.com/zc6834/hls.m3u8
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Country 80's" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/iheart.jpeg?raw=true" group-title="I-Heart",iHeart Country 80's
+https://stream.revma.ihrhls.com/zc6836/hls.m3u8
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Red Dirt Radio" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/iheart.jpeg?raw=true" group-title="I-Heart",iHeart Red Dirt Radio
+https://stream.revma.ihrhls.com/zc6842/hls.m3u8
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart 70's" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/iheart.jpeg?raw=true" group-title="I-Heart",iHeart 70's
+https://stream.revma.ihrhls.com/zc6843/hls.m3u8
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart 2000's Y2K" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/iheart.jpeg?raw=true" group-title="I-Heart",iHeart 2000's Y2K
+https://stream.revma.ihrhls.com/zc6850/hls.m3u8
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Country Outlaws" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/iheart.jpeg?raw=true" group-title="I-Heart",iHeart Country Outlaws
+https://stream.revma.ihrhls.com/zc6851/hls.m3u8
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Country 90's" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/iheart.jpeg?raw=true" group-title="I-Heart",iHeart Country 90's
+https://stream.revma.ihrhls.com/zc6870/hls.m3u8
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart 60's" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/iheart.jpeg?raw=true" group-title="I-Heart",iHeart 60's
+https://stream.revma.ihrhls.com/zc6873/hls.m3u8
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart The Vinyl Experience" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/iheart.jpeg?raw=true" group-title="I-Heart",iHeart The Vinyl Experience
+https://stream.revma.ihrhls.com/zc6878/hls.m3u8
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart 50's" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/iheart.jpeg?raw=true" group-title="I-Heart",iHeart 50's
+https://stream.revma.ihrhls.com/zc6882/hls.m3u8
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Bluegrass" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/iheart.jpeg?raw=true" group-title="I-Heart",iHeart Bluegrass
+https://stream.revma.ihrhls.com/zc6892/hls.m3u8
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Crook & Chase Countdown" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/iheart.jpeg?raw=true" group-title="I-Heart",iHeart Crook & Chase Countdown
+https://stream.revma.ihrhls.com/zc6921/hls.m3u8
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Dance Nation 90's" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/iheart.jpeg?raw=true" group-title="I-Heart",iHeart Dance Nation 90's
+https://stream.revma.ihrhls.com/zc6946/hls.m3u8
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart ALT Rewind" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/iheart.jpeg?raw=true" group-title="I-Heart",iHeart ALT Rewind
+https://stream.revma.ihrhls.com/zc6950/hls.m3u8
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Caf�" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/iheart.jpeg?raw=true" group-title="I-Heart",iHeart Caf�
+https://stream.revma.ihrhls.com/zc6951/hls.m3u8
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Punk Tacos" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/iheart.jpeg?raw=true" group-title="I-Heart",iHeart Punk Tacos
+https://stream.revma.ihrhls.com/zc6954/hls.m3u8
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Classic Funk" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/iheart.jpeg?raw=true" group-title="I-Heart",iHeart Classic Funk
+https://stream.revma.ihrhls.com/zc6955/hls.m3u8
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart El Patron" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/iheart.jpeg?raw=true" group-title="I-Heart",iHeart El Patron
+https://stream.revma.ihrhls.com/zc7004/hls.m3u8
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Vinyl Classic Rock" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/iheart.jpeg?raw=true" group-title="I-Heart",iHeart Vinyl Classic Rock
+https://stream.revma.ihrhls.com/zc7078/hls.m3u8
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Vinyl Jazz" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/iheart.jpeg?raw=true" group-title="I-Heart",iHeart Vinyl Jazz
+https://stream.revma.ihrhls.com/zc7079/hls.m3u8
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Classic Soul" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/iheart.jpeg?raw=true" group-title="I-Heart",iHeart Classic Soul
+https://stream.revma.ihrhls.com/zc7120/hls.m3u8
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Indie Radio" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/iheart.jpeg?raw=true" group-title="I-Heart",iHeart Indie Radio
+https://stream.revma.ihrhls.com/zc7189/hls.m3u8
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Fiesta Latina" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/iheart.jpeg?raw=true" group-title="I-Heart",iHeart Fiesta Latina
+https://stream.revma.ihrhls.com/zc7191/hls.m3u8
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Salsa Bemb�" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/iheart.jpeg?raw=true" group-title="I-Heart",iHeart Salsa Bemb�
+https://stream.revma.ihrhls.com/zc7192/hls.m3u8
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Beso" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/iheart.jpeg?raw=true" group-title="I-Heart",iHeart Beso
+https://stream.revma.ihrhls.com/zc7193/hls.m3u8
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Cardio Mix" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/iheart.jpeg?raw=true" group-title="I-Heart",iHeart Cardio Mix
+https://stream.revma.ihrhls.com/zc7250/hls.m3u8
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Jam Bands" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/iheart.jpeg?raw=true" group-title="I-Heart",iHeart Jam Bands
+https://stream.revma.ihrhls.com/zc7278/hls.m3u8
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart PRIDE Radio Flashback" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/iheart.jpeg?raw=true" group-title="I-Heart",iHeart PRIDE Radio Flashback
+https://stream.revma.ihrhls.com/zc7304/hls.m3u8
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Enrique Santos Morning Show" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/iheart.jpeg?raw=true" group-title="I-Heart",iHeart Enrique Santos Morning Show
+https://stream.revma.ihrhls.com/zc7349/hls.m3u8
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Power" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/iheart.jpeg?raw=true" group-title="I-Heart",iHeart Power
+https://stream.revma.ihrhls.com/zc7360/hls.m3u8
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Mix Rewind" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/iheart.jpeg?raw=true" group-title="I-Heart",iHeart Mix Rewind
+https://stream.revma.ihrhls.com/zc7361/hls.m3u8
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Kiss Radio" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/iheart.jpeg?raw=true" group-title="I-Heart",iHeart Kiss Radio
+https://stream.revma.ihrhls.com/zc7362/hls.m3u8
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Women of iHeartCountry" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/iheart.jpeg?raw=true" group-title="I-Heart",iHeart Women of iHeartCountry
+https://stream.revma.ihrhls.com/zc7367/hls.m3u8
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Freestyle" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/iheart.jpeg?raw=true" group-title="I-Heart",iHeart Freestyle
+https://stream.revma.ihrhls.com/zc7368/hls.m3u8
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Broadway" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/iheart.jpeg?raw=true" group-title="I-Heart",iHeart Broadway
+https://stream.revma.ihrhls.com/zc7378/hls.m3u8
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Throwbacks (Classic Hip-Hop and R&B)" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/iheart.jpeg?raw=true" group-title="I-Heart",iHeart Throwbacks (Classic Hip-Hop and R&B)
+https://stream.revma.ihrhls.com/zc7397/hls.m3u8
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Rock Drive" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/iheart.jpeg?raw=true" group-title="I-Heart",iHeart Rock Drive
+https://stream.revma.ihrhls.com/zc7402/hls.m3u8
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Pop Drive" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/iheart.jpeg?raw=true" group-title="I-Heart",iHeart Pop Drive
+https://stream.revma.ihrhls.com/zc7403/hls.m3u8
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Reggaeton Vieja Escuela" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/iheart.jpeg?raw=true" group-title="I-Heart",iHeart Reggaeton Vieja Escuela
+https://stream.revma.ihrhls.com/zc7427/hls.m3u8
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart ALT 2K" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/iheart.jpeg?raw=true" group-title="I-Heart",iHeart ALT 2K
+https://stream.revma.ihrhls.com/zc7727/hls.m3u8
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Motown Sounds" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/iheart.jpeg?raw=true" group-title="I-Heart",iHeart Motown Sounds
+https://stream.revma.ihrhls.com/zc7801/hls.m3u8
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Country Love Songs" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/iheart.jpeg?raw=true" group-title="I-Heart",iHeart Country Love Songs
+https://stream.revma.ihrhls.com/zc7803/hls.m3u8
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Black Jazz & Blues" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/iheart.jpeg?raw=true" group-title="I-Heart",iHeart Black Jazz & Blues
+https://stream.revma.ihrhls.com/zc7804/hls.m3u8
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Lost 80's" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/iheart.jpeg?raw=true" group-title="I-Heart",iHeart Lost 80's
+https://stream.revma.ihrhls.com/zc7934/hls.m3u8
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart The Breeze" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/iheart.jpeg?raw=true" group-title="I-Heart",iHeart The Breeze
+https://stream.revma.ihrhls.com/zc8143/hls.m3u8
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart 2010's" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/iheart.jpeg?raw=true" group-title="I-Heart",iHeart 2010's
+https://stream.revma.ihrhls.com/zc8478/hls.m3u8
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart La Preciosa" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/iheart.jpeg?raw=true" group-title="I-Heart",iHeart La Preciosa
+https://stream.revma.ihrhls.com/zc8624/hls.m3u8
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Country Favorites" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/iheart.jpeg?raw=true" group-title="I-Heart",iHeart Country Favorites
+https://stream.revma.ihrhls.com/zc8625/hls.m3u8
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart The Brew" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/iheart.jpeg?raw=true" group-title="I-Heart",iHeart The Brew
+https://stream.revma.ihrhls.com/zc8626/hls.m3u8
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Yacht Rock Radio" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/iheart.jpeg?raw=true" group-title="I-Heart",iHeart Yacht Rock Radio
+https://stream.revma.ihrhls.com/zc8681/hls.m3u8
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Pop Rocks" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/iheart.jpeg?raw=true" group-title="I-Heart",iHeart Pop Rocks
+https://stream.revma.ihrhls.com/zc8842/hls.m3u8
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart K-Pop Radio" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/iheart.jpeg?raw=true" group-title="I-Heart",iHeart K-Pop Radio
+https://stream.revma.ihrhls.com/zc9003/hls.m3u8
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Emo Nation" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/iheart.jpeg?raw=true" group-title="I-Heart",iHeart Emo Nation
+https://stream.revma.ihrhls.com/zc9380/hls.m3u8
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Nu Metal Radio" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/iheart.jpeg?raw=true" group-title="I-Heart",iHeart Nu Metal Radio
+https://stream.revma.ihrhls.com/zc9483/hls.m3u8
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Blues Hits Radio" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/iheart.jpeg?raw=true" group-title="I-Heart",iHeart Blues Hits Radio
+https://stream.revma.ihrhls.com/zc9567/hls.m3u8
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Radio Tejano" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/iheart.jpeg?raw=true" group-title="I-Heart",iHeart Radio Tejano
+https://stream.revma.ihrhls.com/zc9622/hls.m3u8
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Deep Cuts" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/iheart.jpeg?raw=true" group-title="I-Heart",iHeart Deep Cuts
+https://stream.revma.ihrhls.com/zc9652/hls.m3u8
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Hip-Hop 50 Radio" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/iheart.jpeg?raw=true" group-title="I-Heart",iHeart Hip-Hop 50 Radio
+https://stream.revma.ihrhls.com/zc9717/hls.m3u8
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Freeform Radio" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/iheart.jpeg?raw=true" group-title="I-Heart",iHeart Freeform Radio
+https://stream.revma.ihrhls.com/zc9719/hls.m3u8
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Pop Rewind" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/iheart.jpeg?raw=true" group-title="I-Heart",iHeart Pop Rewind
+https://stream.revma.ihrhls.com/zc9756/hls.m3u8
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart ALT Top 20" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/iheart.jpeg?raw=true" group-title="I-Heart",iHeart ALT Top 20
+https://stream.revma.ihrhls.com/zc9759/hls.m3u8
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Jazz Top 20" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/iheart.jpeg?raw=true" group-title="I-Heart",iHeart Jazz Top 20
+https://stream.revma.ihrhls.com/zc9761/hls.m3u8
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Dance Top 20" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/iheart.jpeg?raw=true" group-title="I-Heart",iHeart Dance Top 20
+https://stream.revma.ihrhls.com/zc9762/hls.m3u8
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Latino Top 20" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/iheart.jpeg?raw=true" group-title="I-Heart",iHeart Latino Top 20
+https://stream.revma.ihrhls.com/zc9763/hls.m3u8
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Regional Mexican Top 20" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/iheart.jpeg?raw=true" group-title="I-Heart",iHeart Regional Mexican Top 20
+https://stream.revma.ihrhls.com/zc9911/hls.m3u8
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Tropical Top 20" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/iheart.jpeg?raw=true" group-title="I-Heart",iHeart Tropical Top 20
+https://stream.revma.ihrhls.com/zc9912/hls.m3u8
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Jazz Classics" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/iheart.jpeg?raw=true" group-title="I-Heart",iHeart Jazz Classics
+https://stream.revma.ihrhls.com/zc9918/hls.m3u8
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Chill Beats Radio" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/iheart.jpeg?raw=true" group-title="I-Heart",iHeart Chill Beats Radio
+https://stream.revma.ihrhls.com/zc9959/hls.m3u8
 #EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-name="TX | San Antonio | 97.3 (KAJA)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d5/KAJA_Official_Station_Logo.png" group-title="Country",TX | San Antonio | 97.3 (KAJA)
 https://stream.revma.ihrhls.com/zc2337/hls.m3u8?streamid=2337&zip=&clientType=web&host=webapp.US&modTime=1766015010745&profileid=11719184140&terminalid=159&territory=US&us_privacy=1-N-&callLetters=KAJA-FM&devicename=web-mobile&stationid=2337&dist=iheart&subscription_type=free&partnertok=eyJraWQiOiJpaGVhcnQiLCJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJsc2lkIjoiY29va2llOmZjZmE4Yzc3LWNmODYtNGUwZi1hZjcxLTM0MDdmZWVhNTY2NCIsImF1ZCI6InRkIiwiY29wcGEiOjAsInByb2ZpbGVpZCI6IjExNzE5MTg0MTQwIiwiaXNzIjoiaWhlYXJ0IiwidXNfcHJpdmFjeSI6IjFZTk4iLCJkaXN0IjoiaWhlYXJ0IiwiZXhwIjoxNzY2MTAxNDEyLCJpYXQiOjE3NjYwMTUwMTIsIm9taWQiOjB9.bOW_PBN6WY6gmw_ceXS8X9OleBCBiXs4jGOa7FBB-DA&country=US&locale=en-US&site-url=https%3A%2F%2Fwww.iheart.com%2Flive%2Fkj97-2337%2F&triton-uid=cookie%3Afcfa8c77-cf86-4e0f-af71-3407feea5664
 #EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-name="TX | San Antonio | 104.5 (KZEP)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/46/KZEP.png" group-title="Latino",TX | San Antonio | 104.5 (KZEP)
