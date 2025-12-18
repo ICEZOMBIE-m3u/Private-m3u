@@ -1,0 +1,99 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-name="TX | San Antonio | 97.3 (KAJA)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d5/KAJA_Official_Station_Logo.png" group-title="Country",TX | San Antonio | 97.3 (KAJA)
+https://stream.revma.ihrhls.com/zc2337/hls.m3u8?streamid=2337&zip=&clientType=web&host=webapp.US&modTime=1766015010745&profileid=11719184140&terminalid=159&territory=US&us_privacy=1-N-&callLetters=KAJA-FM&devicename=web-mobile&stationid=2337&dist=iheart&subscription_type=free&partnertok=eyJraWQiOiJpaGVhcnQiLCJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJsc2lkIjoiY29va2llOmZjZmE4Yzc3LWNmODYtNGUwZi1hZjcxLTM0MDdmZWVhNTY2NCIsImF1ZCI6InRkIiwiY29wcGEiOjAsInByb2ZpbGVpZCI6IjExNzE5MTg0MTQwIiwiaXNzIjoiaWhlYXJ0IiwidXNfcHJpdmFjeSI6IjFZTk4iLCJkaXN0IjoiaWhlYXJ0IiwiZXhwIjoxNzY2MTAxNDEyLCJpYXQiOjE3NjYwMTUwMTIsIm9taWQiOjB9.bOW_PBN6WY6gmw_ceXS8X9OleBCBiXs4jGOa7FBB-DA&country=US&locale=en-US&site-url=https%3A%2F%2Fwww.iheart.com%2Flive%2Fkj97-2337%2F&triton-uid=cookie%3Afcfa8c77-cf86-4e0f-af71-3407feea5664
+#EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-name="TX | San Antonio | 104.5 (KZEP)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/46/KZEP.png" group-title="Latino",TX | San Antonio | 104.5 (KZEP)
+https://stream.revma.ihrhls.com/zc4051/hls.m3u8?streamid=4051&zip=&clientType=web&host=webapp.US&modTime=1766015557995&profileid=1375566206&terminalid=159&territory=US&us_privacy=1-N-&callLetters=KZEP-FM&devicename=web-mobile&stationid=4051&dist=iheart&subscription_type=free&partnertok=eyJraWQiOiJpaGVhcnQiLCJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJsc2lkIjoiY29va2llOmZjZmE4Yzc3LWNmODYtNGUwZi1hZjcxLTM0MDdmZWVhNTY2NCIsImF1ZCI6InRkIiwiY29wcGEiOjAsInByb2ZpbGVpZCI6IjEzNzU1NjYyMDYiLCJpc3MiOiJpaGVhcnQiLCJ1c19wcml2YWN5IjoiMVlOTiIsImRpc3QiOiJpaGVhcnQiLCJleHAiOjE3NjYxMDE4OTMsImlhdCI6MTc2NjAxNTQ5NCwib21pZCI6MH0.KAuuX7IBMhtHMW-U_qdYPz1OR6MLVnSZ5naV7iA_6u8&country=US&locale=en-US&site-url=https%3A%2F%2Fwww.iheart.com%2Flive%2F1045-latino-hits-4051%2F&triton-uid=cookie%3Afcfa8c77-cf86-4e0f-af71-3407feea5664
+#EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-name="TX | San Antonio | 105.7 (KQXT-3)" tvg-logo="https://i.iheart.com/v3/re/assets.brands/6425aa55cddb6bc9efccd3a5?ops=gravity(%22center%22),contain(360,360)&quality=80" group-title="Latino",TX | San Antonio | 105.7 (KQXT-3)
+https://stream.revma.ihrhls.com/zc2345/hls.m3u8?streamid=2345&zip=&clientType=web&host=webapp.US&modTime=1766016179742&profileid=1375566206&terminalid=159&territory=US&us_privacy=1-N-&callLetters=KQXT-HD3&devicename=web-mobile&stationid=2345&dist=iheart&subscription_type=free&partnertok=eyJraWQiOiJpaGVhcnQiLCJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJsc2lkIjoiY29va2llOmZjZmE4Yzc3LWNmODYtNGUwZi1hZjcxLTM0MDdmZWVhNTY2NCIsImF1ZCI6InRkIiwiY29wcGEiOjAsInByb2ZpbGVpZCI6IjEzNzU1NjYyMDYiLCJpc3MiOiJpaGVhcnQiLCJ1c19wcml2YWN5IjoiMVlOTiIsImRpc3QiOiJpaGVhcnQiLCJleHAiOjE3NjYxMDE4OTMsImlhdCI6MTc2NjAxNTQ5NCwib21pZCI6MH0.KAuuX7IBMhtHMW-U_qdYPz1OR6MLVnSZ5naV7iA_6u8&country=US&locale=en-US&site-url=https%3A%2F%2Fwww.iheart.com%2Flive%2Fla-preciosa-1057-2345%2F&triton-uid=cookie%3Afcfa8c77-cf86-4e0f-af71-3407feea5664
+#EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-name="TX | San Antonio | 1200 (WOAI)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d5/WOAI_logo.gif" group-title="Talk",TX | San Antonio | 1200 (WOAI)
+https://stream.revma.ihrhls.com/zc2361/hls.m3u8?hls=true&streamid=2361&zip=&clientType=web&host=webapp.US&modTime=1766016283846&profileid=1375566206&terminalid=159&territory=US&us_privacy=1-N-&callLetters=WOAI-AM&devicename=web-mobile&stationid=2361&dist=iheart&subscription_type=free&partnertok=eyJraWQiOiJpaGVhcnQiLCJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJsc2lkIjoiY29va2llOmZjZmE4Yzc3LWNmODYtNGUwZi1hZjcxLTM0MDdmZWVhNTY2NCIsImF1ZCI6InRkIiwiY29wcGEiOjAsInByb3ZpZGVySWQiOjEsInByb2ZpbGVpZCI6IjEzNzU1NjYyMDYiLCJpc3MiOiJpaGVhcnQiLCJ1c19wcml2YWN5IjoiMVlOTiIsImRpc3QiOiJpaGVhcnQiLCJleHAiOjE3NjYxMDI2ODUsImlhdCI6MTc2NjAxNjI4NSwib21pZCI6MH0.Ehu6IV4wuBir6AhBB5taRRyQnImdlFxPLbx62nf4oc0&country=US&locale=en-US&site-url=https%3A%2F%2Fwww.iheart.com%2Flive%2Fnewsradio-1200-woai-2361%2F&triton-uid=cookie%3Afcfa8c77-cf86-4e0f-af71-3407feea5664
+#EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-name="TX | San Antonio | 96.1 (KXXM)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/cb/Logo_MIX_96.1FM_%28KXXM%29.png" group-title="Contemporary Hits",TX | San Antonio | 96.1 (KXXM)
+https://stream.revma.ihrhls.com/zc2357/hls.m3u8?streamid=2357&zip=&clientType=web&host=webapp.US&modTime=1766016805913&profileid=1375566206&terminalid=159&territory=US&us_privacy=1-N-&callLetters=KXXM-FM&devicename=web-mobile&stationid=2357&dist=iheart&subscription_type=free&partnertok=eyJraWQiOiJpaGVhcnQiLCJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJsc2lkIjoiY29va2llOmZjZmE4Yzc3LWNmODYtNGUwZi1hZjcxLTM0MDdmZWVhNTY2NCIsImF1ZCI6InRkIiwiY29wcGEiOjAsInByb2ZpbGVpZCI6IjEzNzU1NjYyMDYiLCJpc3MiOiJpaGVhcnQiLCJ1c19wcml2YWN5IjoiMVlOTiIsImRpc3QiOiJpaGVhcnQiLCJleHAiOjE3NjYxMDMyMDYsImlhdCI6MTc2NjAxNjgwNiwib21pZCI6MH0.CBPiyezxx5ih_tGAYwGZnVIqsyueQ95yd89vu3kz7E0&country=US&locale=en-US&site-url=https%3A%2F%2Fwww.iheart.com%2Flive%2Fmix-961-2357%2F&triton-uid=cookie%3Afcfa8c77-cf86-4e0f-af71-3407feea5664
+#EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-name="TX | San Antonio | 760 (KTKR)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/14/KTKR_ticket760sports_logo.png" group-title="Sports Talk",TX | San Antonio | 760 (KTKR)
+https://stream.revma.ihrhls.com/zc2353/hls.m3u8?streamid=2353&zip=&clientType=web&host=webapp.US&modTime=1766017049749&profileid=1375566206&terminalid=159&territory=US&us_privacy=1-N-&callLetters=KTKR-AM&devicename=web-mobile&stationid=2353&dist=iheart&subscription_type=free&partnertok=eyJraWQiOiJpaGVhcnQiLCJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJsc2lkIjoiY29va2llOmZjZmE4Yzc3LWNmODYtNGUwZi1hZjcxLTM0MDdmZWVhNTY2NCIsImF1ZCI6InRkIiwiY29wcGEiOjAsInByb2ZpbGVpZCI6IjEzNzU1NjYyMDYiLCJpc3MiOiJpaGVhcnQiLCJ1c19wcml2YWN5IjoiMVlOTiIsImRpc3QiOiJpaGVhcnQiLCJleHAiOjE3NjYxMDMyMDYsImlhdCI6MTc2NjAxNjgwNiwib21pZCI6MH0.CBPiyezxx5ih_tGAYwGZnVIqsyueQ95yd89vu3kz7E0&country=US&locale=en-US&site-url=https%3A%2F%2Fwww.iheart.com%2Flive%2Fticket-760-2353%2F&triton-uid=cookie%3Afcfa8c77-cf86-4e0f-af71-3407feea5664
+#EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-name="TX | San Antonio | 92.5 (KRPT)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5c/KRPT_TheBull92.5-93.3_logo.png" group-title="Country",TX | San Antonio | 92.5 (KRPT)
+https://n20b-e2.revma.ihrhls.com/zc6168/hls.m3u8?rj-ttl=5&rj-tok=AAABmy7eZQIAP9F-PPtKpvWRIg&streamid=6168&zip=&clientType=web&host=webapp.US&modTime=1766017277275&profileid=1375566206&terminalid=159&territory=US&us_privacy=1-N-&callLetters=KRPT-FM&devicename=web-mobile&stationid=6168&dist=iheart&subscription_type=free&partnertok=eyJraWQiOiJpaGVhcnQiLCJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJsc2lkIjoiY29va2llOmZjZmE4Yzc3LWNmODYtNGUwZi1hZjcxLTM0MDdmZWVhNTY2NCIsImF1ZCI6InRkIiwiY29wcGEiOjAsInByb3ZpZGVySWQiOjEsInByb2ZpbGVpZCI6IjEzNzU1NjYyMDYiLCJpc3MiOiJpaGVhcnQiLCJ1c19wcml2YWN5IjoiMVlOTiIsImRpc3QiOiJpaGVhcnQiLCJleHAiOjE3NjYxMDM2NzgsImlhdCI6MTc2NjAxNzI3OCwib21pZCI6MH0.qHjHaSHC6IeO-_5hZQzZAjWND4h2Pj6hA_wFnIpFGTs&country=US&locale=en-US&site-url=https%3A%2F%2Fwww.iheart.com%2Flive%2F925-the-bull-6168%2F&triton-uid=cookie%3Afcfa8c77-cf86-4e0f-af71-3407feea5664
+#EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-name="TX | San Antonio | 101.1 (KONO)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d9/Q101.9Logo.png" group-title="Adult Hits",TX | San Antonio | 101.1 (KONO)
+https://cmg.streamguys1.com/san1011/san1011-iheart.aac?clientType=web&host=webapp.US&modTime=1766017376156&profileid=1375566206&terminalid=159&territory=US&us_privacy=1-N-&callLetters=KONO-FM&devicename=web-mobile&stationid=5916&dist=iheart&subscription_type=free
+#EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-name="TX | San Antonio | 106.7 (KTKX)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d8/KTKXFMEagleLogo.png" group-title="Rock",TX | San Antonio | 106.7 (KTKX)
+http://www.eaglesanantonio.com/stream
+#EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-name="TX | San Antonio | 107.1 (KTSA)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2b/KTSA_107.1-550_logo.png" group-title="Sports Talk",TX | San Antonio | 107.1 (KTSA)
+http://alphamediasa.com/streaming/ktsa/index.html
+#EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-name="TX | San Antonio | 630 (KSLR)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/29/AM_630_The_Word_logo.png" group-title="Religion",TX | San Antonio | 630 (KSLR)
+https://am630theword.com/listenlive
+#EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-name="TX | San Antonio | 104.9 (KKYX)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/86/KKYX.png" group-title="Country",TX | San Antonio | 104.9 (KKYX)
+http://www.kkyx.com/stream
+#EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-name="TX | San Antonio | 104.9 (KKYX)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/86/KKYX.png" group-title="Country",TX | San Antonio | 104.9 (KKYX)
+https://www.audacy.com/country-legends-kkyx/listen
+#EXTINF:-1 tvg-name="TX | San Antonio | 104.1 (KSAH)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/74/KSAH_Norteno720-104.1_logo.png" group-title="Latino",TX | San Antonio | 104.1 (KSAH)
+http://www.nortenosa.com/
+#EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-name="TX | San Antonio | 810 (KYTY)" group-title="Christian Contemporary",TX | San Antonio | 810 (KYTY)
+http://www.star810.com/listen.aspx
+#EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-name="TX | San Antonio | 930 (KLUP)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/00/KLUP_930AMTheAnswer_logo.png" group-title="Talk",TX | San Antonio | 930 (KLUP)
+https://930amtheanswer.com/listenlive
+#EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-name="TX | San Antonio | 1100 (KDRY)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/94/KDRY_AM1100_logo.png" group-title="Religion",TX | San Antonio | 1100 (KDRY)
+http://www.kdry.com/streaming.html
+#EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-name="TX | San Antonio | 1160 (KRDY)" tvg-logo="https://relevantradio.com/wp-content/media/player.html" group-title="Religion",TX | San Antonio | 1160 (KRDY)
+https://17653.live.streamtheworld.com/RR_MAIN.mp3
+#EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-name="TX | San Antonio | 1250 (KZDC)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1a/ESPN_1250_AM_KZDC.jpg" group-title="Sports Talk",TX | San Antonio | 1250 (KZDC)
+https://www.alphamediaplayer.com/espn1250
+#EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-name="TX | San Antonio | 1350 (KXTN)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0f/KXTNAMLogo.png" group-title="Latino",TX | San Antonio | 1350 (KXTN)
+https://www.iheart.com/live/kxtn-1075-hd21350am-5205/?autoplay=true
+#EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-name="TX | San Antonio | 1380 (KWMF)" group-title="Religion",TX | San Antonio | 1380 (KWMF)
+http://kwmf.stream.miriamtech.net:8000/live.m3u
+#EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-name="TX | San Antonio | 1420 (KGNB)" group-title="Country",TX | San Antonio | 1420 (KGNB)
+https://radio.securenetsystems.net/cwa/index.cfm?stationCallSign=KGNB
+#EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-name="TX | San Antonio | 1480 (KCHL)" group-title="Gospel",TX | San Antonio | 1480 (KCHL)
+https://live365.com/embeds/v1/player/a19841?s=sm&m=dark&c=mp3&popout=true
+#EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-name="TX | San Antonio | 1540 (KEDA)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/28/KEDA_99.9FM-1540AM_logo.jpg" group-title="Latino",TX | San Antonio | 1540 (KEDA)
+https://jalapenoradio.com/wp-content/uploads/2020/06/Man_Playing_The_Accordion_fhd_217650.mp4
+#EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-name="TX | San Antonio | 1580 (KWED)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/7d/KWED1580Logo.png" group-title="Country",TX | San Antonio | 1580 (KWED)
+https://live.mystreamplayer.com/kwedam
+#EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-name="TX | San Antonio | 89.1 (KSTX)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Texas_Public_Radio_logo_2021_%28stacked%29.svg/960px-Texas_Public_Radio_logo_2021_%28stacked%29.svg.png" group-title="Talk",TX | San Antonio | 89.1 (KSTX)
+https://18303.live.streamtheworld.com/KSTXFM.mp3?uuid=au5iokvhp
+#EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-name="TX | San Antonio | 90.1 (KSYM)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d9/KSYM-FM_logo.png" group-title="Adult Alternative",TX | San Antonio | 90.1 (KSYM)
+https://us7.maindigitalstream.com/4849/
+#EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-name="Bible Broadcasting Network" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/66/Bible_Broadcasting_Network_%28logo%29.png" group-title="Religion",Bible Broadcasting Network
+https://bbn1.bbnradio.org/english/listen-now/
+#EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-name="TX | San Antonio | 91.7 (KRTU)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/KRTU_Logo.jpg" group-title="Jazz",TX | San Antonio | 91.7 (KRTU)
+https://player.amperwave.net/2970
+#EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-name="TX | San Antonio | 92.71 (KNBT)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8c/KNBT_logo.jpg" group-title="Country",TX | San Antonio | 92.71 (KNBT)
+https://radio.securenetsystems.net/cwa/index.cfm?stationCallSign=KNBT
+#EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-name="TX | San Antonio | 92.9 (KROM)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e2/Que_Buena_San_Antonio_logo.png" group-title="Latino",TX | San Antonio | 92.9 (KROM)
+http://example.com/stream
+#EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-name="TX | San Antonio | 94.1 (KTFM)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b3/94.1_San_Antonio%27s_Sports_Star_KTFM.png" group-title="Sports Talk",TX | San Antonio | 94.1 (KTFM)
+https://www.alphamediaplayer.com/sasportsstar
+#EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-name="TX | San Antonio | 94.5 (K233DB)" tvg-logo="https://www.connmediaplayer.com/_next/image?url=https%3A%2F%2Fwww.alphamediausa.com%2Fwp-content%2Fuploads%2Fbrand%2Flogo%2FStationLogo-300x-Dark.png&w=1080&q=100" group-title="Hip-Hop & RnB",TX | San Antonio | 94.5 (K233DB)
+https://www.alphamediaplayer.com/wehiphopsa
+#EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-name="TX | San Antonio | 103.3 (K277CX)" tvg-logo="https://cdn-us.brandsarelive.com/media/playlist-group-logo-web-player-dark/20002/1033THEAPP-secondary-flat.png?Expires=1781568000&Signature=H9yXX868Yu1zutxXDs8Lz5MkchqLzB8B1XYIl8eJ~~IbLMyKILsirhzW0uHm2gqG06DjVCLOtiaHErhTs1l89rUhoIhLmh0AcfQQ8~0zu~Sqy5GdrLnCyu5kUbkABdOMsvFIdq52xcuMojEbLbfZwVajHJjcrebUyvaCPinzOZGBUV3VsF6~hfSxha-xezqtRnHvRxTiNtdMSnhyZg~sgnAhBLlvbZF~6XQg12j8gd9F9UhN8i-FacypSrhA407kg6-Vy6JEUOO3s0xGkn94dwS-XDMZxEGJTZhK5QNxVdhbdF55ovbvQwDyVyxX6VutwCD8ZnlbmOtekw81Lr6YqQ__&Key-Pair-Id=K1F09FJWLSF5RN" group-title="Rock",TX | San Antonio | 103.3 (K277CX)
+https://live.amperwave.net/direct/alphacorporate-ktfmhd2mp3-ibc4?source=website
+#EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-name="TX | San Antonio | 95.1 (KMYO)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/25/KMYO_95.1_Amor_logo.png" group-title="Latino",TX | San Antonio | 95.1 (KMYO)
+https://v7player.wostreaming.net/2704
+#EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-name="TX | San Antonio | 95.7 (KLEY)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/36/KLEY-FM_Tejano_95-7.png/" group-title="Latino",TX | San Antonio | 95.7 (KLEY)
+https://www.alphamediaplayer.com/tejano957
+#EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-name="TX | San Antonio | 97.7 (KZAR)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/df/Air1-logo.png" group-title="Christian",TX | San Antonio | 97.7 (KZAR)
+https://emf-seg001009.cdnstream1.com/seg001009-h128/playlist.m3u8?platform=web&country=united-states&geo_api=gis_db&latitude=31.2942&longitude=-86.4873&opawg_result=false&segment=001009&t=1&k=0lUljWWiP7BsAZsZhBD5IWa8p5n1nNccy2LuWNxZydbhknIRqBwW18v0ZltYi6_6EySZFbMvkUoSWqGu_WnMhM8_nX6DLn-_JSlG4KTNxV0uJSnWBRUEynCS5UPiJD9hyZqGWg
+#EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-name="TX | San Antonio | 98.5 (KBBT)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/55/KBBT_logo.png" group-title="Hip-Hop & RnB",TX | San Antonio | 98.5 (KBBT)
+https://v7player.wostreaming.net/2355
+#EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-name="TX | San Antonio | 99.5 (KISS)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/67/KISS-FM_Logo.png" group-title="Rock",TX | San Antonio | 99.5 (KISS)
+https://kissrocks.com/stream
+#EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-name="TX | San Antonio | 100.3 (KCYY)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/00/KCYY_New_Logo.png" group-title="Country",TX | San Antonio | 100.3 (KCYY)
+http://www.y100fm.com/stream
+#EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-name="TX | San Antonio | 102.7 (KJXK)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0f/KJXKFMLogo.png" group-title="Adult Hits",TX | San Antonio | 102.7 (KJXK)
+https://www.alphamediaplayer.com/1027jack
+#EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-name="TX | San Antonio | 105.3 (KSMG)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9c/KSMG_Hits_105.3.jpg" group-title="Adult Hits",TX | San Antonio | 105.3 (KSMG)
+http://www.hits1053sanantonio.com/stream
+#EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-name="TX | San Antonio | 107.5 (KVBH)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f9/KVBHVibe1075Logo.png" group-title="Contemporary Hits",TX | San Antonio | 107.5 (KVBH)
+https://v7player.wostreaming.net/7320
+#EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-name="AL | Dothan | 99.7 (WOOF)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/14/WOOF_logo.jpg" group-title="Adult Contemporary",AL | Dothan | 99.7 (WOOF)
+http://radio.securenetsystems.net/v5/WOOF
+#EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-name="AL | Dothan | 106.7 (WKMX)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/08/WKMX_logo_2020.png/960px-WKMX_logo_2020.png" group-title="Adult Hits",AL | Dothan | 106.7 (WKMX)
+https://player.amperwave.net/683
+#EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-name="AL | Dothan | 103.9 (WDBT)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0e/WDBT_News_Talk_103.9_logo.png" group-title="Talk",AL | Dothan | 103.9 (WDBT)
+https://player.amperwave.net/1e76912450470b8c0c7c64cbc7a1bb80.mp3
+#EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-name="AL | Dothan | 88.7 (WRWA)" group-title="Classical",AL | Dothan | 88.7 (WRWA)
+https://www.troy.edu/student-life-resources/campus-media/troy-public-radio/listen-online.html
+#EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-name="AL | Dothan | 94.3 (WIZB)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/36/JOYFM.png" group-title="Christian Contemporary",AL | Dothan | 94.3 (WIZB)
+http://alabama.thejoyfm.com/music/listen-live/the-joy-fm/
+#EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-name="AL | Dothan | 100.5 (WDAB)" group-title="Rock",AL | Dothan | 100.5 (WDAB)
+https://streamdb3web.securenetsystems.net/v5/WDAB
