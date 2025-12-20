@@ -1,30 +1,22 @@
-#EXTM3U
+#EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
 #EXTINF:-1 tvg-id="West.TV.us2" tvg-name="West (HDHomerun) " tvg-logo="https://github.com/ICEZOMBIE-m3u/TV-Logos-tivimate/raw/refs/heads/main/countries/united-states/western-entertainment-series-tv-us.png" group-title="Westerns",West (HDHomerun)
 http://98.111.243.7:5004/auto/v61.5
-#EXTINF:-1 tvg-id="plex.tv.Western.Bound.plex" tvg-name="Western Bound by INSP (Plex)" tvg-logo="https://github.com/ICEZOMBIE-m3u/TV-Logos-tivimate/raw/refs/heads/main/countries/united-states/western-bound-by-insp-us.png" group-title="Westerns",Western Bound by INSP (Plex)
+#:-1 tvg-id="plex.tv.Western.Bound.plex" tvg-name="Western Bound by INSP (Plex)" tvg-logo="https://github.com/ICEZOMBIE-m3u/TV-Logos-tivimate/raw/refs/heads/main/countries/united-states/western-bound-by-insp-us.png" group-title="Westerns",Western Bound by INSP (Plex)
 https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-62316e8eb9d292cb4ad7499f.m3u8
 #EXTINF:-1 tvg-id="plex.tv.Grit.Xtra.plex" tvg-name="GRIT Xtra (Plex)" tvg-logo="https://provider-static.plex.tv/epg/cms/production/dbbb9bca-0b08-43b5-a0e7-715df9a6dbfd/_ChannelLogo_1500x1000.png" group-title="Westerns",GRIT Xtra (Plex)
 https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-62b45f15b4508e0eedacdf25.m3u8
 #EXTINF:-1 tvg-id="Grit.us2" tvg-name="Grit (Moveonjoy)" tvg-logo="https://github.com/ICEZOMBIE-m3u/TV-Logos-tivimate/raw/refs/heads/main/countries/united-states/grit-us.png" group-title="Westerns",GRIT (Moveonjoy)
 https://fl1.moveonjoy.com/GRIT_TV/index.m3u8
-#EXTINF:-1 tvg-name="Grit 3" tvg-logo="https://github.com/ICEZOMBIE-m3u/TV-Logos-tivimate/raw/refs/heads/main/countries/united-states/grit-us.png" group-title="Z - DON'T WORK",Grit 3
+#EXTINF:-1 tvg-id="plex.tv.Western.Bound.plex" tvg-name="Western Bound by INSP" tvg-logo="https://github.com/ICEZOMBIE-m3u/TV-Logos-tivimate/raw/refs/heads/main/countries/united-states/western-bound-by-insp-us.png" group-title="Documentary",Western Bound by INSP
 http://example.com/stream
-#EXTINF:-1 tvg-name="Grit 4" tvg-logo="https://github.com/ICEZOMBIE-m3u/TV-Logos-tivimate/raw/refs/heads/main/countries/united-states/grit-us.png" group-title="Z - DON'T WORK",Grit 4
+#EXTINF:-1 tvg-id="plex.tv.Western.Bound.plex" tvg-name="Western Bound by INSP" tvg-logo="https://github.com/ICEZOMBIE-m3u/TV-Logos-tivimate/raw/refs/heads/main/countries/united-states/western-bound-by-insp-us.png" group-title="Documentary",Western Bound by INSP
 http://example.com/stream
-#EXTINF:-1 tvg-id="plex.tv.Western.Bound.plex" tvg-name="Western Bound by INSP" tvg-logo="https://github.com/ICEZOMBIE-m3u/TV-Logos-tivimate/raw/refs/heads/main/countries/united-states/western-bound-by-insp-us.png" group-title="Z - DON'T WORK",Western Bound by INSP
-http://example.com/stream
-#EXTINF:-1 tvg-id="plex.tv.Western.Bound.plex" tvg-name="Western Bound by INSP" tvg-logo="https://github.com/ICEZOMBIE-m3u/TV-Logos-tivimate/raw/refs/heads/main/countries/united-states/western-bound-by-insp-us.png" group-title="Z - DON'T WORK",Western Bound by INSP
-http://example.com/stream
-#EXTINF:-1 tvg-id="plex.tv.Western.Bound.plex" tvg-name="Western Bound by INSP" tvg-logo="https://github.com/ICEZOMBIE-m3u/TV-Logos-tivimate/raw/refs/heads/main/countries/united-states/western-bound-by-insp-us.png" group-title="Z - DON'T WORK",Western Bound by INSP
+#EXTINF:-1 tvg-id="plex.tv.Western.Bound.plex" tvg-name="Western Bound by INSP" tvg-logo="https://github.com/ICEZOMBIE-m3u/TV-Logos-tivimate/raw/refs/heads/main/countries/united-states/western-bound-by-insp-us.png" group-title="Documentary",Western Bound by INSP
 http://example.com/stream
 #EXTINF:-1 tvg-id="INSP.HD.us2" tvg-name="INSP (Moveonjoy)" tvg-logo="https://github.com/ICEZOMBIE-m3u/TV-Logos-tivimate/raw/refs/heads/main/countries/united-states/insp-us.png" group-title="Westerns",INSP (Moveonjoy)
 https://fl1.moveonjoy.com/INSP/index.m3u8
 #EXTINF:-1 tvg-id="INSP.HD.us2" tvg-name="INSP (Moveonjoy Backup)" tvg-logo="https://github.com/ICEZOMBIE-m3u/TV-Logos-tivimate/raw/refs/heads/main/countries/united-states/insp-us.png" group-title="Westerns",INSP (Moveonjoy Bkup)
 http://143.244.60.30/INSP/index.m3u8
-#EXTINF:-1 tvg-name="INSP 3" tvg-logo="https://github.com/ICEZOMBIE-m3u/TV-Logos-tivimate/raw/refs/heads/main/countries/united-states/insp-us.png" group-title="Z - DON'T WORK",INSP 3
-http://example.com/stream
-#EXTINF:-1 tvg-name="INSP 4" tvg-logo="https://github.com/ICEZOMBIE-m3u/TV-Logos-tivimate/raw/refs/heads/main/countries/united-states/insp-us.png" group-title="Z - DON'T WORK",INSP 4
-http://example.com/stream
 #EXTINF:-1 tvg-id="Starz.Encore.Westerns.SD.us2" tvg-name="Starz Encore Westerns" tvg-logo="https://github.com/ICEZOMBIE-m3u/TV-Logos-tivimate/raw/refs/heads/main/countries/united-states/starz-encore-westerns-us.png" group-title="Westerns",Starz Encore Westerns (Moveonjoy)
 http://143.244.60.30/STARZ_ENCORE_WESTERNS/index.m3u8
 #EXTINF:-1 tvg-id="plex.tv.FilmRise.Western.plex" tvg-name="Filmrise Westerns (Plex)" tvg-logo="https://provider-static.plex.tv/epg/cms/production/cb40c9bd-8e35-4fa4-9551-b9def73cecdc/FilmRiseWestern_Logo_Color.png" group-title="Westerns",Filmrise Westerns (Plex)
@@ -39,49 +31,49 @@ http://173.229.4.240:5004/auto/v26.8
 http://68.251.105.81:5004/auto/v26.8
 #EXTINF:-1 tvg-name="Western TV (Pluto)" tvg-logo="https://images.pluto.tv/channels/5e8df4bc16e34700077e77d3/colorLogoPNG.png" group-title="Westerns",Western TV (Pluto)
 https://jmp2.uk/plu-5e8df4bc16e34700077e77d3.m3u8
-#EXTINF:-1 tvg-name="Bonanza (Pluto) " tvg-logo="https://images.pluto.tv/channels/68e9913c4a666b9054849832/colorLogoPNG_1762379692322.png" group-title="Binge TV",Bonanza (Pluto)
+#EXTINF:-1 tvg-name="Bonanza (Pluto) " tvg-logo="https://images.pluto.tv/channels/68e9913c4a666b9054849832/colorLogoPNG_1762379692322.png" group-title="Binge",Bonanza (Pluto)
 https://jmp2.uk/plu-68e9913c4a666b9054849832.m3u8
-#EXTINF:-1 tvg-name="Gunsmoke (Pluto)" tvg-logo="https://images.pluto.tv/channels/60f75771dfc72a00071fd0e0/colorLogoPNG.png" group-title="Binge TV",Gunsmoke (Pluto)
+#EXTINF:-1 tvg-name="Gunsmoke (Pluto)" tvg-logo="https://images.pluto.tv/channels/60f75771dfc72a00071fd0e0/colorLogoPNG.png" group-title="Binge",Gunsmoke (Pluto)
 https://jmp2.uk/plu-60f75771dfc72a00071fd0e0.m3u8
-#EXTINF:-1 tvg-name="Rawhide (Pluto)" tvg-logo="https://images.pluto.tv/channels/634f307c7a068e00072c9982/colorLogoPNG_1731835685335.png" group-title="Binge TV",Rawhide (Pluto)
+#EXTINF:-1 tvg-name="Rawhide (Pluto)" tvg-logo="https://images.pluto.tv/channels/634f307c7a068e00072c9982/colorLogoPNG_1731835685335.png" group-title="Binge",Rawhide (Pluto)
 https://jmp2.uk/plu-634f307c7a068e00072c9982.m3u8
-#EXTINF:-1 tvg-name="Star Trek (Pluto) " tvg-logo="https://images.pluto.tv/channels/5efbd39f8c4ce900075d7698/colorLogoPNG.png" group-title="Binge TV",Star Trek (Pluto)
+#EXTINF:-1 tvg-name="Star Trek (Pluto) " tvg-logo="https://images.pluto.tv/channels/5efbd39f8c4ce900075d7698/colorLogoPNG.png" group-title="Binge",Star Trek (Pluto)
 https://jmp2.uk/plu-5efbd39f8c4ce900075d7698.m3u8
-#EXTINF:-1 tvg-name="Star Trek: DS9 (Pluto) " tvg-logo="https://images.pluto.tv/channels/65c69bbfd77d450008c7ffee/colorLogoPNG_1758310416057.png" group-title="Binge TV",Star Trek: DS9 (Pluto)
+#EXTINF:-1 tvg-name="Star Trek: DS9 (Pluto) " tvg-logo="https://images.pluto.tv/channels/65c69bbfd77d450008c7ffee/colorLogoPNG_1758310416057.png" group-title="Binge",Star Trek: DS9 (Pluto)
 https://jmp2.uk/plu-65c69bbfd77d450008c7ffee.m3u8
-#EXTINF:-1 tvg-name="Star Trek: Voyager (Pluto) " tvg-logo="https://images.pluto.tv/channels/634dacf51d90320007fcd5fa/colorLogoPNG_1758310287876.png" group-title="Binge TV",Star Trek: Voyager (Pluto)
+#EXTINF:-1 tvg-name="Star Trek: Voyager (Pluto) " tvg-logo="https://images.pluto.tv/channels/634dacf51d90320007fcd5fa/colorLogoPNG_1758310287876.png" group-title="Binge",Star Trek: Voyager (Pluto)
 https://jmp2.uk/plu-634dacf51d90320007fcd5fa.m3u8
-#EXTINF:-1 tvg-name="Stargate SG1 (Pluto)" tvg-logo="https://images.pluto.tv/channels/620bfa7df72827000703ddb1/colorLogoPNG.png" group-title="Binge TV",Stargate SG1 (Pluto)
+#EXTINF:-1 tvg-name="Stargate SG1 (Pluto)" tvg-logo="https://images.pluto.tv/channels/620bfa7df72827000703ddb1/colorLogoPNG.png" group-title="Binge",Stargate SG1 (Pluto)
 https://jmp2.uk/plu-620bfa7df72827000703ddb1.m3u8
 #EXTINF:-1 tvg-name="Swerve Sports (Pluto)" tvg-logo="https://images.pluto.tv/channels/683df56f5195c2a60a3f5559/colorLogoPNG_1750976158732.png" group-title="Sports & Games",Swerve Sports (Pluto)
 https://jmp2.uk/plu-683df56f5195c2a60a3f5559.m3u8
-#EXTINF:-1 tvg-name="The First" tvg-logo="https://images.pluto.tv/channels/5d486acc34ceb37d3c458a64/colorLogoPNG.png" group-title="News & Weather",The First (Pluto)
+#EXTINF:-1 tvg-name="The First" tvg-logo="https://images.pluto.tv/channels/5d486acc34ceb37d3c458a64/colorLogoPNG.png" group-title="News + Opinion",The First (Pluto)
 https://jmp2.uk/plu-5d486acc34ceb37d3c458a64.m3u8
-#EXTINF:-1 tvg-name="Lone Ranger" tvg-logo="https://images.pluto.tv/channels/65a6dafb7bdc8d0008473c85/colorLogoPNG.png" group-title="Binge TV",Lone Ranger (Pluto)
+#EXTINF:-1 tvg-name="Lone Ranger" tvg-logo="https://images.pluto.tv/channels/65a6dafb7bdc8d0008473c85/colorLogoPNG.png" group-title="Binge",Lone Ranger (Pluto)
 https://jmp2.uk/plu-65a6dafb7bdc8d0008473c85.m3u8
-#EXTINF:-1 tvg-name="The Rifleman" tvg-logo="https://images.pluto.tv/channels/5e825550e758c700077b0aef/colorLogoPNG.png" group-title="Binge TV",The Rifleman (Pluto)
+#EXTINF:-1 tvg-name="The Rifleman" tvg-logo="https://images.pluto.tv/channels/5e825550e758c700077b0aef/colorLogoPNG.png" group-title="Binge",The Rifleman (Pluto)
 https://jmp2.uk/plu-5e825550e758c700077b0aef.m3u8
 #EXTINF:-1 tvg-name="NBA on Pluto" tvg-logo="https://images.pluto.tv/channels/6792c30abc03978b9b8bb832/colorLogoPNG_1747950897785.png" group-title="Sports & Games",NBA Channel (Pluto)
 https://jmp2.uk/plu-6792c30abc03978b9b8bb832.m3u8
-#EXTINF:-1 tvg-name="Pet Collective" tvg-logo="https://images.pluto.tv/channels/5bb1ad55268cae539bcedb08/colorLogoPNG.png" group-title="Documentry",Pet Collective (Pluto)
+#EXTINF:-1 tvg-name="Pet Collective" tvg-logo="https://images.pluto.tv/channels/5bb1ad55268cae539bcedb08/colorLogoPNG.png" group-title="Documentary",Pet Collective (Pluto)
 https://jmp2.uk/plu-5bb1ad55268cae539bcedb08.m3u8
-#EXTINF:-1 tvg-name="Walking Dead Universe" tvg-logo="https://images.pluto.tv/channels/62fa8176b9884200074ef5ae/colorLogoPNG.png" group-title="Binge TV",Walking Dead Universe (Pluto)
+#EXTINF:-1 tvg-name="Walking Dead Universe" tvg-logo="https://images.pluto.tv/channels/62fa8176b9884200074ef5ae/colorLogoPNG.png" group-title="Binge",Walking Dead Universe (Pluto)
 https://jmp2.uk/plu-62fa8176b9884200074ef5ae.m3u8
 #EXTINF:-1 tvg-name="Wild Wild West" tvg-logo="https://images.pluto.tv/channels/664e640a0120f40008be4582/colorLogoPNG.png" group-title="Westerns",Wild Wild West (Pluto)
 https://jmp2.uk/plu-664e640a0120f40008be4582.m3u8
-#EXTINF:-1 tvg-name="TNA Wrestling (Pluto)" tvg-logo="https://images.pluto.tv/channels/59b722526996084038c01e1b/colorLogoPNG.png" group-title="Sports & Games",TNA Wrestling (Pluto)
+#EXTINF:-1 tvg-name="TNA Wrestling (Pluto)" tvg-logo="https://images.pluto.tv/channels/59b722526996084038c01e1b/colorLogoPNG.png" group-title="Fight Club 🥊",TNA Wrestling (Pluto)
 https://jmp2.uk/plu-59b722526996084038c01e1b.m3u8
 #EXTINF:-1 tvg-name="Triton Poker (Pluto)" tvg-logo="https://images.pluto.tv/channels/661827ffe8fba800086b217d/colorLogoPNG.png" group-title="Sports & Games",Triton Poker (Pluto)
 https://jmp2.uk/plu-661827ffe8fba800086b217d.m3u8
-#EXTINF:-1 tvg-name="UFC (Pluto)" tvg-logo="https://images.pluto.tv/channels/677d9adfa9a51b0008497fa0/colorLogoPNG.png" group-title="Sports & Games",UFC (Pluto)
+#EXTINF:-1 tvg-name="UFC (Pluto)" tvg-logo="https://images.pluto.tv/channels/677d9adfa9a51b0008497fa0/colorLogoPNG.png" group-title="Fight Club 🥊",UFC (Pluto)
 https://jmp2.uk/plu-677d9adfa9a51b0008497fa0.m3u8
-#EXTINF:-1 tvg-name="Universal Action (Pluto)" tvg-logo="https://images.pluto.tv/channels/654933e253fc970008390114/colorLogoPNG.png" group-title="Binge TV",Universal Action (Pluto)
+#EXTINF:-1 tvg-name="Universal Action (Pluto)" tvg-logo="https://images.pluto.tv/channels/654933e253fc970008390114/colorLogoPNG.png" group-title="Binge",Universal Action (Pluto)
 https://jmp2.uk/plu-654933e253fc970008390114.m3u8
-#EXTINF:-1 tvg-name="Universal Crime (Pluto) " tvg-logo="https://images.pluto.tv/channels/6549341853fc9700083901ac/colorLogoPNG.png" group-title="Binge TV",Universal Crime (Pluto)
+#EXTINF:-1 tvg-name="Universal Crime (Pluto) " tvg-logo="https://images.pluto.tv/channels/6549341853fc9700083901ac/colorLogoPNG.png" group-title="Binge",Universal Crime (Pluto)
 https://jmp2.uk/plu-6549341853fc9700083901ac.m3u8
 #EXTINF:-1 tvg-name="World Poker Tour (Pluto)" tvg-logo="https://images.pluto.tv/channels/5616f9c0ada51f8004c4b091/colorLogoPNG-1664295222280.png" group-title="Sports & Games",World Poker Tour (Pluto)
 https://jmp2.uk/plu-5616f9c0ada51f8004c4b091.m3u8
-#EXTINF:-1 tvg-name="Wrestling Central" tvg-logo="https://images.pluto.tv/channels/68c85164b7af374ee483210f/colorLogoPNG_1760475182481.png" group-title="Sports & Games",Wrestling Central (Pluto)
+#EXTINF:-1 tvg-name="Wrestling Central" tvg-logo="https://images.pluto.tv/channels/68c85164b7af374ee483210f/colorLogoPNG_1760475182481.png" group-title="Fight Club 🥊",Wrestling Central (Pluto)
 https://jmp2.uk/plu-68c85164b7af374ee483210f.m3u8
 #EXTINF:-1 tvg-name="Supermarket Sweep (Pluto) " tvg-logo="https://images.pluto.tv/channels/649ddbfb6f29ec000874ca9e/colorLogoPNG.png" group-title="Sports & Games",Supermarket Sweep (Pluto)
 https://jmp2.uk/plu-649ddbfb6f29ec000874ca9e.m3u8
@@ -91,47 +83,43 @@ https://jmp2.uk/plu-5459795fc9f133a519bc0bef.m3u8
 https://jmp2.uk/plu-68ee9a999938143525bfc385.m3u8
 #EXTINF:-1 tvg-name="Salem News (Pluto) " tvg-logo="https://images.pluto.tv/channels/66a7f0a78561260008c177f2/colorLogoPNG.png" group-title="Sports & Games",Salem News (Pluto)
 https://jmp2.uk/plu-66a7f0a78561260008c177f2.m3u8
-#EXTINF:-1 tvg-name="ABC News (Pluto)" tvg-logo="https://images.pluto.tv/channels/6508be683a0d700008c534e4/colorLogoPNG.png" group-title="News & Weather",ABC News (Pluto)
+#EXTINF:-1 tvg-name="ABC News (Pluto)" tvg-logo="https://images.pluto.tv/channels/6508be683a0d700008c534e4/colorLogoPNG.png" group-title="News + Opinion",ABC News (Pluto)
 https://jmp2.uk/plu-6508be683a0d700008c534e4.m3u8
-#EXTINF:-1 tvg-name="Americas Voice" tvg-logo="https://images.pluto.tv/channels/5e1f7da4bc7d740009831259/colorLogoPNG.png" group-title="News & Weather",America's Voice (Pluto)
+#EXTINF:-1 tvg-name="Americas Voice" tvg-logo="https://images.pluto.tv/channels/5e1f7da4bc7d740009831259/colorLogoPNG.png" group-title="News + Opinion",America's Voice (Pluto)
 http://example.com/stream
-#EXTINF:-1 tvg-name="BBC Earth (Pluto) " tvg-logo="https://images.pluto.tv/channels/656535fc2c46f30008870fae/colorLogoPNG.png" group-title="Documentry",BBC Earth (Pluto)
+#EXTINF:-1 tvg-name="BBC Earth (Pluto) " tvg-logo="https://images.pluto.tv/channels/656535fc2c46f30008870fae/colorLogoPNG.png" group-title="Documentary",BBC Earth (Pluto)
 https://jmp2.uk/plu-656535fc2c46f30008870fae.m3u8
-#EXTINF:-1 tvg-name="BBC News (Pluto)" tvg-logo="https://images.pluto.tv/channels/65d92a8c8b24c80008e285c0/colorLogoPNG.png" group-title="News & Weather",BBC News (Pluto)
+#EXTINF:-1 tvg-name="BBC News (Pluto)" tvg-logo="https://images.pluto.tv/channels/65d92a8c8b24c80008e285c0/colorLogoPNG.png" group-title="News + Opinion",BBC News (Pluto)
 https://jmp2.uk/plu-65d92a8c8b24c80008e285c0.m3u8
-#EXTINF:-1 tvg-name="Bellator MMA (Pluto)" tvg-logo="https://images.pluto.tv/channels/5ebc8688f3697d00072f7cf8/colorLogoPNG.png" group-title="Sports & Games",Bellator MMA (Pluto)
+#EXTINF:-1 tvg-name="Bellator MMA (Pluto)" tvg-logo="https://images.pluto.tv/channels/5ebc8688f3697d00072f7cf8/colorLogoPNG.png" group-title="Fight Club 🥊",Bellator MMA (Pluto)
 https://jmp2.uk/plu-5ebc8688f3697d00072f7cf8.m3u8
-#EXTINF:-1 tvg-name="Blaze Live (Pluto) " tvg-logo="https://images.pluto.tv/channels/5e46fba0c43b0d00096e5ac1/colorLogoPNG.png" group-title="News & Weather",Blaze Live (Pluto)
+#EXTINF:-1 tvg-name="Blaze Live (Pluto) " tvg-logo="https://images.pluto.tv/channels/5e46fba0c43b0d00096e5ac1/colorLogoPNG.png" group-title="News + Opinion",Blaze Live (Pluto)
 https://jmp2.uk/plu-5e46fba0c43b0d00096e5ac1.m3u8
-#EXTINF:-1 tvg-name="Bloomberg TV+ (Pluto)" tvg-logo="https://images.pluto.tv/channels/54ff7ba69222cb1c2624c584/colorLogoPNG_1756948295813.png" group-title="News & Weather",Bloomberg TV+ (Pluto)
+#EXTINF:-1 tvg-name="Bloomberg TV+ (Pluto)" tvg-logo="https://images.pluto.tv/channels/54ff7ba69222cb1c2624c584/colorLogoPNG_1756948295813.png" group-title="News + Opinion",Bloomberg TV+ (Pluto)
 https://jmp2.uk/plu-54ff7ba69222cb1c2624c584.m3u8
 #EXTINF:-1 tvg-name="Buzzr (Pluto) " tvg-logo="https://images.pluto.tv/channels/5812bfbe4ced4f7b601b12e6/colorLogoPNG.png" group-title="Sports & Games",Buzzr (Pluto)
 https://jmp2.uk/plu-5812bfbe4ced4f7b601b12e6.m3u8
-#EXTINF:-1 tvg-name="CBS News 24-7 (Pluto) " tvg-logo="https://images.pluto.tv/channels/5a6b92f6e22a617379789618/colorLogoPNG.png" group-title="News & Weather",CBS News 24-7 (Pluto)
+#EXTINF:-1 tvg-name="CBS News 24-7 (Pluto) " tvg-logo="https://images.pluto.tv/channels/5a6b92f6e22a617379789618/colorLogoPNG.png" group-title="News + Opinion",CBS News 24-7 (Pluto)
 https://jmp2.uk/plu-5a6b92f6e22a617379789618.m3u8
 #EXTINF:-1 tvg-name="Classic Movie Western (Pluto)" tvg-logo="https://images.pluto.tv/channels/61f33318210549000806a530/colorLogoPNG.png" group-title="Westerns",Classic Movie Western (Pluto)
 https://jmp2.uk/plu-61f33318210549000806a530.m3u8
-#EXTINF:-1 tvg-name="Court TV (Pluto) " tvg-logo="https://images.pluto.tv/channels/5dae0b4841a7d0000938ddbd/colorLogoPNG.png" group-title="News & Weather",Court TV (Pluto)
+#EXTINF:-1 tvg-name="Court TV (Pluto) " tvg-logo="https://images.pluto.tv/channels/5dae0b4841a7d0000938ddbd/colorLogoPNG.png" group-title="News + Opinion",Court TV (Pluto)
 https://jmp2.uk/plu-5dae0b4841a7d0000938ddbd.m3u8
-#EXTINF:-1 tvg-name="Crackling Fireplace" tvg-logo="https://images.pluto.tv/channels/5bf48085851dd5632e2f7b4d/colorLogoPNG.png" group-title="Holidayscapes",Fireplace (Pluto)
-https://jmp2.uk/plu-5bf48085851dd5632e2f7b4d.m3u8
-#EXTINF:-1 tvg-name="DAZN Ringside (Pluto)" tvg-logo="https://images.pluto.tv/channels/649b6898f2ec0000081a9460/colorLogoPNG.png" group-title="Sports & Games",DAZN Ringside (Pluto)
+#EXTINF:-1 tvg-name="DAZN Ringside (Pluto)" tvg-logo="https://images.pluto.tv/channels/649b6898f2ec0000081a9460/colorLogoPNG.png" group-title="Fight Club 🥊",DAZN Ringside (Pluto)
 https://jmp2.uk/plu-649b6898f2ec0000081a9460.m3u8
-#EXTINF:-1 tvg-name="Dog Whisperer (Pluto)" tvg-logo="https://images.pluto.tv/channels/664fd48894d5580008e45e7c/colorLogoPNG.png" group-title="Documentry",Dog Whisperer (Pluto)
+#EXTINF:-1 tvg-name="Dog Whisperer (Pluto)" tvg-logo="https://images.pluto.tv/channels/664fd48894d5580008e45e7c/colorLogoPNG.png" group-title="Documentary",Dog Whisperer (Pluto)
 https://jmp2.uk/plu-664fd48894d5580008e45e7c.m3u8
 #EXTINF:-1 tvg-name="F1 Channel (Pluto)" tvg-logo="https://images.pluto.tv/channels/65c69ee3d77d450008c80438/colorLogoPNG.png" group-title="Sports & Games",F1 Racing (Pluto)
 https://jmp2.uk/plu-65c69ee3d77d450008c80438.m3u8
 #EXTINF:-1 tvg-name="FanDuel TV Extra (Pluto)" tvg-logo="https://images.pluto.tv/channels/650b68bc2ce8e40008ac9c14/colorLogoPNG_1744930668027.png" group-title="Sports & Games",FanDuel TV Extra (Pluto)
 https://jmp2.uk/plu-650b68bc2ce8e40008ac9c14.m3u8
-#EXTINF:-1 tvg-name="Festive Fireplace (Pluto)" tvg-logo="https://images.pluto.tv/channels/614501c653ceee000772b0ca/colorLogoPNG.png" group-title="Holidayscapes",Festive Fireplace (Pluto)
-https://jmp2.uk/plu-614501c653ceee000772b0ca.m3u8
 #EXTINF:-1 tvg-name="FOX Sports (Pluto)" tvg-logo="https://images.pluto.tv/channels/5a74b8e1e22a61737979c6bf/colorLogoPNG.png" group-title="Sports & Games",Fox Sports (Pluto)
 https://jmp2.uk/plu-5a74b8e1e22a61737979c6bf.m3u8
-#EXTINF:-1 tvg-name="FOX Weather (Pluto)" tvg-logo="https://images.pluto.tv/channels/640a68880e884c0009979cc2/colorLogoPNG-1757012691643.png" group-title="News & Weather",FOX Weather (Pluto)
+#EXTINF:-1 tvg-name="FOX Weather (Pluto)" tvg-logo="https://images.pluto.tv/channels/640a68880e884c0009979cc2/colorLogoPNG-1757012691643.png" group-title="News + Opinion",FOX Weather (Pluto)
 https://jmp2.uk/plu-640a68880e884c0009979cc2.m3u8
 #EXTINF:-1 tvg-name="Game Show Central (Pluto)" tvg-logo="https://images.pluto.tv/channels/5e54187aae660e00093561d6/colorLogoPNG.png" group-title="Sports & Games",Game Show Central (Pluto)
 https://jmp2.uk/plu-5e54187aae660e00093561d6.m3u8
-#EXTINF:-1 tvg-name="Glory Kickboxing (Pluto) " tvg-logo="https://images.pluto.tv/channels/5417a212ff9fba68282fbf5e/colorLogoPNG.png" group-title="Sports & Games",Glory Kickboxing (Pluto)
+#EXTINF:-1 tvg-name="Glory Kickboxing (Pluto) " tvg-logo="https://images.pluto.tv/channels/5417a212ff9fba68282fbf5e/colorLogoPNG.png" group-title="Fight Club 🥊",Glory Kickboxing (Pluto)
 https://jmp2.uk/plu-5417a212ff9fba68282fbf5e.m3u8
 #EXTINF:-1 tvg-name="HSN1 (Pluto)" tvg-logo="https://images.pluto.tv/channels/5f8a02476b72230007e62b7d/colorLogoPNG-1675271320133.png" group-title="Shopping",HSN1 (Pluto)
 https://jmp2.uk/plu-5f8a02476b72230007e62b7d.m3u8
@@ -139,47 +127,47 @@ https://jmp2.uk/plu-5f8a02476b72230007e62b7d.m3u8
 https://jmp2.uk/plu-65453f30085df200085883d8.m3u8
 #EXTINF:-1 tvg-name="Let's Make a Deal (Pluto)" tvg-logo="https://images.pluto.tv/channels/6267352efcf21c0007c76642/colorLogoPNG.png" group-title="Sports & Games",Let's Make a Deal (Pluto)
 https://jmp2.uk/plu-6267352efcf21c0007c76642.m3u8
-#EXTINF:-1 tvg-name="LiveNOW from FOX (Pluto) " tvg-logo="https://images.pluto.tv/channels/63d025db4e83e700086eaa96/colorLogoPNG.png" group-title="News & Weather",FOX Live Now (Pluto)
+#EXTINF:-1 tvg-name="LiveNOW from FOX (Pluto) " tvg-logo="https://images.pluto.tv/channels/63d025db4e83e700086eaa96/colorLogoPNG.png" group-title="News + Opinion",FOX Live Now (Pluto)
 https://jmp2.uk/plu-63d025db4e83e700086eaa96.m3u8
-#EXTINF:-1 tvg-name="Lucha Libra AAA (Pluto)" tvg-logo="https://images.pluto.tv/channels/5c01df1759ee03633e7b272c/colorLogoPNG.png" group-title="Sports & Games",Lucha Libre AAA (Pluto)
+#EXTINF:-1 tvg-name="Lucha Libra AAA (Pluto)" tvg-logo="https://images.pluto.tv/channels/5c01df1759ee03633e7b272c/colorLogoPNG.png" group-title="Fight Club 🥊",Lucha Libre AAA (Pluto)
 https://jmp2.uk/plu-5c01df1759ee03633e7b272c.m3u8
 #EXTINF:-1 tvg-name="MLB (Pluto)" tvg-logo="https://images.pluto.tv/channels/5e66968a70f34c0007d050be/colorLogoPNG.png" group-title="Sports & Games",MLB (Pluto)
 https://jmp2.uk/plu-5e66968a70f34c0007d050be.m3u8
 #EXTINF:-1 tvg-name="MotorTrend FAST TV (Pluto)" tvg-logo="https://images.pluto.tv/channels/6400f731d200410008f9b339/colorLogoPNG.png" group-title="Sports & Games",MotorTrend (Pluto)
 https://jmp2.uk/plu-6400f731d200410008f9b339.m3u8
-#EXTINF:-1 tvg-name="NBC News Now (Pluto)" tvg-logo="https://images.pluto.tv/channels/5df97894467dfa00091c873c/colorLogoPNG.png" group-title="News & Weather",NBC News Now (Pluto)
+#EXTINF:-1 tvg-name="NBC News Now (Pluto)" tvg-logo="https://images.pluto.tv/channels/5df97894467dfa00091c873c/colorLogoPNG.png" group-title="News + Opinion",NBC News Now (Pluto)
 https://jmp2.uk/plu-5df97894467dfa00091c873c.m3u8
 #EXTINF:-1 tvg-name="NBC Sports Now (Pluto)" tvg-logo="https://images.pluto.tv/channels/6549306c83595c000815a696/colorLogoPNG.png" group-title="Sports & Games",NBC Sports Now (Pluto)
 https://jmp2.uk/plu-6549306c83595c000815a696.m3u8
-#EXTINF:-1 tvg-name="NBC News Now (Xumo) " tvg-logo="https://image.xumo.com/v1/channels/channel/99991247/168x168.png?type=color_onBlack" group-title="News & Weather",NBC News Now (Xumo)
+#EXTINF:-1 tvg-name="NBC News Now (Xumo) " tvg-logo="https://image.xumo.com/v1/channels/channel/99991247/168x168.png?type=color_onBlack" group-title="News + Opinion",NBC News Now (Xumo)
 https://d4whmvwm0rdvi.cloudfront.net/10007/99991247/hls/master.m3u8?ads.xumo_channelId=99991247&ads.asnw=169843&ads.afid=137704898&ads.sfid=16772607&ads.csid=xumo_web_NBCNewsNOW_ssai_cro&ads._fw_is_lat=0&ads._fw_us_privacy=&ads._fw_coppa=0&ads._fw_did=cc24606f-7308-4614-a817-096e52db5aa9&ads._fw_vcid2=512116:cc24606f-7308-4614-a817-096e52db5aa9&ads._fw_app_bundle=web.xumo.com&ads._fw_app_store_url=&ads._fw_content_category=&ads._fw_content_genre=&ads._fw_content_language=en&ads._fw_content_rating=&ads._fw_deviceMake=GitHubAction&ads._fw_device_model=PythonScript&ads._fw_deviceType=3-Connected_TV&ads.appVersion=1.0.0&ads.appName=XumoPlay&ads.xumo_contentId=1828&ads.xumo_contentName=NBCNewsNOW&ads.xumo_providerId=1828&ads.xumo_providerName=NBCNewsNOW&ads.channelId=99991247&ads._fw_ifa_type=6772607&ads.csid=xumo_web_NBCNewsNOW_ssai_cro&ads._fw_is_lat=0&ad
-#EXTINF:-1 tvg-name="ABC News (Xumo)" tvg-logo="https://image.xumo.com/v1/channels/channel/99991377/168x168.png?type=color_onBlack" group-title="News & Weather",ABC News (Xumo)
+#EXTINF:-1 tvg-name="ABC News (Xumo)" tvg-logo="https://image.xumo.com/v1/channels/channel/99991377/168x168.png?type=color_onBlack" group-title="News + Opinion",ABC News (Xumo)
 https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8?show_vtt=1&hlsver=3&rays=bcd&ad.vid=$program_id&ad=abcnews_live&ad.vast3=1&ad.description_url=https%3A%2F%2Fabcnews.go.com&ad.networkID=21783347309&ad.adUnit=/abc-news/xumo/web&ad.ppid=be676bd6-6b81-4e30-b2e7-2e867e91ddd2&ad.correlator=1763784970009&ad.scor=1763784970009&ad.cmsid=2494279&ad.npa=0&ad.tfcd=0&ad.pp=xumo-ctv&ad.rdid=be676bd6-6b81-4e30-b2e7-2e867e91ddd2&ad.idtype=dpid&ad.is_lat=0&ad.us_privacy=&ad.cust_params=vdm%3Dlive%26chan%3Dabcnews%26plt%3Dctv%26refDomain%3Dhttps%3A%2F%2Fabcnews.go.com%26vps%3D640x480%26ppid%3Dbe676bd6-6b81-4e30-b2e7-2e867e91ddd2%26beacTyp%3Dssai%26sp%3Dvdms%26ait%3Dssai%26var%3D16x9
-#EXTINF:-1 tvg-name="CBS News 24-7 (Xumo)" tvg-logo="https://image.xumo.com/v1/channels/channel/99991158/168x168.png?type=color_onBlack" group-title="News & Weather",CBS News 24-7 (Xumo)
+#EXTINF:-1 tvg-name="CBS News 24-7 (Xumo)" tvg-logo="https://image.xumo.com/v1/channels/channel/99991158/168x168.png?type=color_onBlack" group-title="News + Opinion",CBS News 24-7 (Xumo)
 https://dai.google.com/linear/hls/event/Sid4xiTQTkCT1SLu6rjUSQ/master.m3u8?imafw_csid=vcbs_xumo_ctv_allos_live_cbsnews;imafw__fw_h_referer=com.xumo.app&imafw__fw_did=dpid:&imafw__fw_is_lat=&imafw__fw_vcid2=&imafw__fw_app_bundle=web.xumo.com&imafw_is_lat=
-#EXTINF:-1 tvg-name="LiveNow from FOX " tvg-logo="https://image.xumo.com/v1/channels/channel/99991635/168x168.png?type=color_onBlack" group-title="News & Weather",FOX LiveNow (Xumo)
+#EXTINF:-1 tvg-name="LiveNow from FOX " tvg-logo="https://image.xumo.com/v1/channels/channel/99991635/168x168.png?type=color_onBlack" group-title="News + Opinion",FOX LiveNow (Xumo)
 https://dbrb49pjoymg4.cloudfront.net/10001/99991635/hls/playlist.m3u8?ads.xumo_channelId=99991635&ads._fw_ifa_type=&ads._fw_did=2771a739-a589-441b-a2a9-82008784400f&ads.amznappId=&ads.lat=&ads.lon=&ads.os=&ads.osv=&ads.asnw=&ads.caid=FoxNewsNow&ads.csid=xumo_web_FoxNewsNow_ssai&ads._fw_is_lat=0&ads._fw_us_privacy=&ads._fw_coppa=0&ads.genre=&ads._fw_content_category=&ads._fw_content_language=en&ads._fw_content_genre=&ads._fw_content_rating=&ads.xumo_contentId=2662&ads.xumo_contentName=FoxNewsNow&ads.xumo_providerId=2662&ads.xumo_providerName=FoxNewsNow&ads._fw_deviceMake=GitHubAction&ads._fw_device_model=PythonScript&ads.channelId=99991635&ads.xumo_platform=web&ads.site_id=&ads.appName=xumo&ads.appVersion=1.0.0&ads._fw_app_bundle=web.xumo.com&ads._fw_app_store_url=
-#EXTINF:-1 tvg-name="Sky News (Xumo) " tvg-logo="https://image.xumo.com/v1/channels/channel/99951223/168x168.png?type=color_onBlack" group-title="News & Weather",Sky News (Xumo)
+#EXTINF:-1 tvg-name="Sky News (Xumo) " tvg-logo="https://image.xumo.com/v1/channels/channel/99951223/168x168.png?type=color_onBlack" group-title="News + Opinion",Sky News (Xumo)
 https://dbrb49pjoymg4.cloudfront.net/10001/99951223/hls/master.m3u8?ads.xumo_channelId=99951223&ads._fw_ifa_type=&ads._fw_did=d0060506-1eca-48b4-b381-f8fb3256288a&ads.amznappId=&ads.lat=&ads.lon=&ads.os=&ads.osv=&ads.asnw=&ads.caid=SkyNews&ads.csid=xumo_web_SkyNews_ssai&ads._fw_is_lat=0&ads._fw_us_privacy=&ads._fw_coppa=0&ads.genre=&ads._fw_content_category=&ads._fw_content_language=en&ads._fw_content_genre=&ads._fw_content_rating=&ads.xumo_contentId=3455&ads.xumo_contentName=SkyNews&ads.xumo_providerId=3455&ads.xumo_providerName=SkyNews&ads._fw_deviceMake=GitHubAction&ads._fw_device_model=PythonScript&ads.channelId=99951223&ads.xumo_platform=web&ads.site_id=&ads.appName=xumo&ads.appVersion=1.0.0&ads._fw_app_bundle=web.xumo.com&ads._fw_app_store_url=
-#EXTINF:-1 tvg-id="Scripps.News.Channel.us" tvg-name="Scripps News (Xumo) " tvg-logo="https://image.xumo.com/v1/channels/channel/99991148/168x168.png?type=color_onBlack" group-title="News & Weather",Scripps News (Xumo)
+#EXTINF:-1 tvg-id="Scripps.News.Channel.us" tvg-name="Scripps News (Xumo) " tvg-logo="https://image.xumo.com/v1/channels/channel/99991148/168x168.png?type=color_onBlack" group-title="News + Opinion",Scripps News (Xumo)
 https://dbrb49pjoymg4.cloudfront.net/10001/99991148/hls/playlist.m3u8?ads.xumo_channelId=99991148&ads._fw_ifa_type=&ads._fw_did=046804c5-4d41-4616-b1c6-81b46cff1dd1&ads.amznappId=&ads.lat=&ads.lon=&ads.os=&ads.osv=&ads.asnw=&ads.caid=Newsy&ads.csid=xumo_web_Newsy_ssai&ads._fw_is_lat=0&ads._fw_us_privacy=&ads._fw_coppa=0&ads.genre=&ads._fw_content_category=&ads._fw_content_language=en&ads._fw_content_genre=&ads._fw_content_rating=&ads.xumo_contentId=41&ads.xumo_contentName=Newsy&ads.xumo_providerId=41&ads.xumo_providerName=Newsy&ads._fw_deviceMake=GitHubAction&ads._fw_device_model=PythonScript&ads.channelId=99991148&ads.xumo_platform=web&ads.site_id=&ads.appName=xumo&ads.appVersion=1.0.0&ads._fw_app_bundle=web.xumo.com&ads._fw_app_store_url=
-#EXTINF:-1 tvg-name="Newsmax2 (Xumo) " tvg-logo="https://image.xumo.com/v1/channels/channel/99991194/168x168.png?type=color_onBlack" group-title="News & Weather",Newsmax2 (Xumo)
+#EXTINF:-1 tvg-name="Newsmax2 (Xumo) " tvg-logo="https://image.xumo.com/v1/channels/channel/99991194/168x168.png?type=color_onBlack" group-title="News + Opinion",Newsmax2 (Xumo)
 https://dbrb49pjoymg4.cloudfront.net/10001/99991194/hls/index.m3u8?ads.xumo_channelId=99991194&ads._fw_ifa_type=&ads._fw_did=29218a97-cab5-4e4e-b763-7b49537548e8&ads.amznappId=&ads.lat=&ads.lon=&ads.os=&ads.osv=&ads.asnw=&ads.caid=Newsmax&ads.csid=xumo_web_Newsmax_ssai&ads._fw_is_lat=0&ads._fw_us_privacy=&ads._fw_coppa=0&ads.genre=&ads._fw_content_category=&ads._fw_content_language=en&ads._fw_content_genre=&ads._fw_content_rating=&ads.xumo_contentId=141&ads.xumo_contentName=Newsmax&ads.xumo_providerId=141&ads.xumo_providerName=Newsmax&ads._fw_deviceMake=GitHubAction&ads._fw_device_model=PythonScript&ads.channelId=99991194&ads.xumo_platform=web&ads.site_id=&ads.appName=xumo&ads.appVersion=1.0.0&ads._fw_app_bundle=web.xumo.com&ads._fw_app_store_url=
-#EXTINF:-1 tvg-name="Salem News (Xumo) " tvg-logo="https://image.xumo.com/v1/channels/channel/99951283/168x168.png?type=color_onBlack" group-title="News & Weather",Salem News (Xumo)
+#EXTINF:-1 tvg-name="Salem News (Xumo) " tvg-logo="https://image.xumo.com/v1/channels/channel/99951283/168x168.png?type=color_onBlack" group-title="News + Opinion",Salem News (Xumo)
 https://dbrb49pjoymg4.cloudfront.net/10001/99951283/hls/playlist.m3u8?ads.xumo_channelId=99951283&ads._fw_ifa_type=&ads._fw_did=31f33006-1215-44ec-8361-f2a450560b67&ads.amznappId=&ads.lat=&ads.lon=&ads.os=&ads.osv=&ads.asnw=&ads.caid=SalemNewsChannel&ads.csid=xumo_web_SalemNewsChannel_ssai&ads._fw_is_lat=0&ads._fw_us_privacy=&ads._fw_coppa=0&ads.genre=&ads._fw_content_category=&ads._fw_content_language=en&ads._fw_content_genre=&ads._fw_content_rating=&ads.xumo_contentId=3997&ads.xumo_contentName=SalemNewsChannel&ads.xumo_providerId=3997&ads.xumo_providerName=SalemNewsChannel&ads._fw_deviceMake=GitHubAction&ads._fw_device_model=PythonScript&ads.channelId=99951283&ads.xumo_platform=web&ads.site_id=&ads.appName=xumo&ads.appVersion=1.0.0&ads._fw_app_bundle=web.xumo.com&ads._fw_app_store_url=
-#EXTINF:-1 tvg-name="BBC News (Xumo) " tvg-logo="https://image.xumo.com/v1/channels/channel/99951298/168x168.png?type=color_onBlack" group-title="News & Weather",BBC News (Xumo)
+#EXTINF:-1 tvg-name="BBC News (Xumo) " tvg-logo="https://image.xumo.com/v1/channels/channel/99951298/168x168.png?type=color_onBlack" group-title="News + Opinion",BBC News (Xumo)
 https://d3pxo1qcgzxtxs.cloudfront.net/10005/99951298/hls/playlist.m3u8?ads.xumo_channelId=99951298&ads.xumo_streamId=99951298&ads.channelId=99951298&ads.channelName=amcbbcnews_us&ads.csid=xumo_web_AMCBBCNews_ssai&ads._fw_coppa=0&ads.xumo_contentId=4023&ads.xumo_contentName=AMCBBCNews&ads.xumo_providerId=4023&ads.xumo_providerName=AMCBBCNews&ads._fw_is_lat=0&ads._fw_us_privacy=&ads._fw_did=:6c36a3d0-21e7-4ccd-9cc7-8d0ab14feac9&ads._fw_content_category=&ads._fw_content_language=en&ads._fw_content_genre=&ads._fw_content_rating=&ads._fw_deviceType=3-Connected_TV&ads._fw_deviceMake=GitHubAction&ads._fw_device_model=PythonScript&ads.xumo_platform=web&ads.appVersion=1.0.0&ads._fw_app_bundle=web.xumo.com&ads._fw_app_store_url=
-#EXTINF:-1 tvg-name="Spectrum News+ (Xumo) " tvg-logo="https://image.xumo.com/v1/channels/channel/99951337/168x168.png?type=color_onBlack" group-title="News & Weather",Spectrum News+ (Xumo)
+#EXTINF:-1 tvg-name="Spectrum News+ (Xumo) " tvg-logo="https://image.xumo.com/v1/channels/channel/99951337/168x168.png?type=color_onBlack" group-title="News + Opinion",Spectrum News+ (Xumo)
 https://dbrb49pjoymg4.cloudfront.net/10001/99951337/hls/playlist.m3u8?ads.xumo_channelId=99951337&ads._fw_ifa_type=&ads._fw_did=97b8a875-0784-40e3-9c13-68dae8c503ae&ads.amznappId=&ads.lat=&ads.lon=&ads.os=&ads.osv=&ads.asnw=&ads.caid=SpectrumNewsPlus&ads.csid=xumo_web_SpectrumNewsPlus_ssai&ads._fw_is_lat=0&ads._fw_us_privacy=&ads._fw_coppa=0&ads.genre=&ads._fw_content_category=&ads._fw_content_language=en&ads._fw_content_genre=&ads._fw_content_rating=&ads.xumo_contentId=4087&ads.xumo_contentName=SpectrumNewsPlus&ads.xumo_providerId=4087&ads.xumo_providerName=SpectrumNewsPlus&ads._fw_deviceMake=GitHubAction&ads._fw_device_model=PythonScript&ads.channelId=99951337&ads.xumo_platform=web&ads.site_id=&ads.appName=xumo&ads.appVersion=1.0.0&ads._fw_app_bundle=web.xumo.com&ads._fw_app_store_url=
-#EXTINF:-1 tvg-name="FOX Weather (Xumo) " tvg-logo="https://image.xumo.com/v1/channels/channel/99991694/168x168.png?type=color_onBlack" group-title="News & Weather",FOX Weather (Xumo)
+#EXTINF:-1 tvg-name="FOX Weather (Xumo) " tvg-logo="https://image.xumo.com/v1/channels/channel/99991694/168x168.png?type=color_onBlack" group-title="News + Opinion",FOX Weather (Xumo)
 https://dbrb49pjoymg4.cloudfront.net/10001/99991694/hls/playlist.m3u8?ads.xumo_channelId=99991694&ads._fw_ifa_type=&ads._fw_did=a4c8b5e3-043c-4ce7-b72f-b6b3279ede12&ads.amznappId=&ads.lat=&ads.lon=&ads.os=&ads.osv=&ads.asnw=516429&ads.afid=436342382&ads.caid=FoxWeather&ads.csid=xumo_web_FoxWeather_ssai&ads._fw_is_lat=0&ads._fw_us_privacy=&ads._fw_coppa=0&ads.genre=&ads._fw_content_category=&ads._fw_content_language=en&ads._fw_content_genre=&ads._fw_content_rating=&ads.xumo_contentId=3440&ads.xumo_contentName=FoxWeather&ads.xumo_providerId=3440&ads.xumo_providerName=FoxWeather&ads._fw_deviceMake=GitHubAction&ads._fw_device_model=PythonScript&ads.channelId=99991694&ads.xumo_platform=web&ads.site_id=&ads.appName=xumo&ads.appVersion=1.0.0&ads._fw_app_bundle=web.xumo.com&ads._fw_app_store_url=
-#EXTINF:-1 tvg-name="AccuWeather Now (Xumo) " tvg-logo="https://image.xumo.com/v1/channels/channel/99991649/168x168.png?type=color_onBlack" group-title="News & Weather",AccuWeather Now (Xumo)
+#EXTINF:-1 tvg-name="AccuWeather Now (Xumo) " tvg-logo="https://image.xumo.com/v1/channels/channel/99991649/168x168.png?type=color_onBlack" group-title="News + Opinion",AccuWeather Now (Xumo)
 https://dbrb49pjoymg4.cloudfront.net/10001/99991649/hls/playlist.m3u8?ads.xumo_channelId=99991649&ads._fw_ifa_type=&ads._fw_did=aa0b570d-fe70-4ac4-a1d0-4a862758474d&ads.amznappId=&ads.lat=&ads.lon=&ads.os=&ads.osv=&ads.asnw=&ads.caid=AccuWeather&ads.csid=xumo_web_AccuWeather_ssai&ads._fw_is_lat=0&ads._fw_us_privacy=&ads._fw_coppa=0&ads.genre=&ads._fw_content_category=&ads._fw_content_language=en&ads._fw_content_genre=&ads._fw_content_rating=&ads.xumo_contentId=2729&ads.xumo_contentName=AccuWeather&ads.xumo_providerId=2729&ads.xumo_providerName=AccuWeather&ads._fw_deviceMake=GitHubAction&ads._fw_device_model=PythonScript&ads.channelId=99991649&ads.xumo_platform=web&ads.site_id=&ads.appName=xumo&ads.appVersion=1.0.0&ads._fw_app_bundle=web.xumo.com&ads._fw_app_store_url=
-#EXTINF:-1 tvg-name="OAN Plus (Xumo) " tvg-logo="https://image.xumo.com/v1/channels/channel/99951404/168x168.png?type=color_onBlack" group-title="News & Weather",OAN Plus (Xumo)
+#EXTINF:-1 tvg-name="OAN Plus (Xumo) " tvg-logo="https://image.xumo.com/v1/channels/channel/99951404/168x168.png?type=color_onBlack" group-title="News + Opinion",OAN Plus (Xumo)
 https://dbrb49pjoymg4.cloudfront.net/10001/99951404/hls/playlist.m3u8?ads.xumo_channelId=99951404&ads._fw_ifa_type=&ads._fw_did=527a6650-8193-4d9f-a781-120a26f9b47c&ads.amznappId=&ads.lat=&ads.lon=&ads.os=&ads.osv=&ads.asnw=&ads.caid=HerringNetworksOANPlus&ads.csid=xumo_web_HerringNetworksOANPlus_ssai&ads._fw_is_lat=0&ads._fw_us_privacy=&ads._fw_coppa=0&ads.genre=&ads._fw_content_category=&ads._fw_content_language=en&ads._fw_content_genre=&ads._fw_content_rating=&ads.xumo_contentId=4216&ads.xumo_contentName=HerringNetworksOANPlus&ads.xumo_providerId=4216&ads.xumo_providerName=HerringNetworksOANPlus&ads._fw_deviceMake=GitHubAction&ads._fw_device_model=PythonScript&ads.channelId=99951404&ads.xumo_platform=web&ads.site_id=&ads.appName=xumo&ads.appVersion=1.0.0&ads._fw_app_bundle=web.xumo.com&ads._fw_app_store_url=
 #EXTINF:-1 tvg-name="Moviesphere (Xumo) " tvg-logo="https://image.xumo.com/v1/channels/channel/99951251/168x168.png?type=color_onBlack" group-title="Movies",Moviesphere by Lionsgate (Xumo)
 https://dbrb49pjoymg4.cloudfront.net/10001/99951251/hls/playlist.m3u8?ads.xumo_channelId=99951251&ads._fw_ifa_type=&ads._fw_did=d1f08419-b0c2-4241-a25a-e353c1510fc5&ads.amznappId=&ads.lat=&ads.lon=&ads.os=&ads.osv=&ads.asnw=&ads.caid=LionsgateMovieSphere&ads.csid=xumo_web_LionsgateMovieSphere_ssai&ads._fw_is_lat=0&ads._fw_us_privacy=&ads._fw_coppa=0&ads.genre=&ads._fw_content_category=&ads._fw_content_language=en&ads._fw_content_genre=&ads._fw_content_rating=&ads.xumo_contentId=3955&ads.xumo_contentName=LionsgateMovieSphere&ads.xumo_providerId=3955&ads.xumo_providerName=LionsgateMovieSphere&ads._fw_deviceMake=GitHubAction&ads._fw_device_model=PythonScript&ads.channelId=99951251&ads.xumo_platform=web&ads.site_id=&ads.appName=xumo&ads.appVersion=1.0.0&ads._fw_app_bundle=web.xumo.com&ads._fw_app_store_url=
-#EXTINF:-1 tvg-name="Reuters 60 (Xumo) " tvg-logo="https://image.xumo.com/v1/channels/channel/99951197/168x168.png?type=color_onBlack" group-title="News & Weather",Reuters 60
+#EXTINF:-1 tvg-name="Reuters 60 (Xumo) " tvg-logo="https://image.xumo.com/v1/channels/channel/99951197/168x168.png?type=color_onBlack" group-title="News + Opinion",Reuters 60
 https://dbrb49pjoymg4.cloudfront.net/10001/99951197/hls/playlist.m3u8?ads.xumo_channelId=99951197&ads._fw_ifa_type=&ads._fw_did=9560d7dc-8323-46bc-85d6-ba54ddd6fb4d&ads.amznappId=&ads.lat=&ads.lon=&ads.os=&ads.osv=&ads.asnw=&ads.caid=ReutersNow&ads.csid=xumo_web_ReutersNow_ssai&ads._fw_is_lat=0&ads._fw_us_privacy=&ads._fw_coppa=0&ads.genre=&ads._fw_content_category=&ads._fw_content_language=en&ads._fw_content_genre=&ads._fw_content_rating=&ads.xumo_contentId=3850&ads.xumo_contentName=ReutersNow&ads.xumo_providerId=3850&ads.xumo_providerName=ReutersNow&ads._fw_deviceMake=GitHubAction&ads._fw_device_model=PythonScript&ads.channelId=99951197&ads.xumo_platform=web&ads.site_id=&ads.appName=xumo&ads.appVersion=1.0.0&ads._fw_app_bundle=web.xumo.com&ads._fw_app_store_url=
 #EXTINF:-1 tvg-name="Hi-Yah (Xumo) " tvg-logo="https://image.xumo.com/v1/channels/channel/99991302/168x168.png?type=color_onBlack" group-title="Movies",Hi-Yah! (Xumo)
 https://dbrb49pjoymg4.cloudfront.net/10001/99991302/hls/xumo_smart_tv.m3u8?ads.xumo_channelId=99991302&ads._fw_ifa_type=&ads._fw_did=62a3aa36-cb6d-4136-910c-aab32600822f&ads.amznappId=&ads.lat=&ads.lon=&ads.os=&ads.osv=&ads.asnw=&ads.caid=hiyah&ads.csid=xumo_web_hiyah_ssai&ads._fw_is_lat=0&ads._fw_us_privacy=&ads._fw_coppa=0&ads.genre=&ads._fw_content_category=&ads._fw_content_language=en&ads._fw_content_genre=&ads._fw_content_rating=&ads.xumo_contentId=236&ads.xumo_contentName=HiYah&ads.xumo_providerId=236&ads.xumo_providerName=HiYah&ads._fw_deviceMake=GitHubAction&ads._fw_device_model=PythonScript&ads.channelId=99991302&ads.xumo_platform=web&ads.site_id=&ads.appName=xumo&ads.appVersion=1.0.0&ads._fw_app_bundle=web.xumo.com&ads._fw_app_store_url=
@@ -195,49 +183,49 @@ https://d4whmvwm0rdvi.cloudfront.net/10007/99991621/hls/master.m3u8?ads.xumo_cha
 https://dbrb49pjoymg4.cloudfront.net/10001/99951382/hls/playlist.m3u8?ads.xumo_channelId=99951382&ads._fw_ifa_type=&ads._fw_did=68e81ebc-993d-448d-9cf7-5434ed475093&ads.amznappId=&ads.lat=&ads.lon=&ads.os=&ads.osv=&ads.asnw=&ads.caid=LionsgateHerSphere&ads.csid=xumo_web_LionsgateHerSphere_ssai&ads._fw_is_lat=0&ads._fw_us_privacy=&ads._fw_coppa=0&ads.genre=&ads._fw_content_category=&ads._fw_content_language=en&ads._fw_content_genre=&ads._fw_content_rating=&ads.xumo_contentId=4184&ads.xumo_contentName=LionsgateHerSphere&ads.xumo_providerId=4184&ads.xumo_providerName=LionsgateHerSphere&ads._fw_deviceMake=GitHubAction&ads._fw_device_model=PythonScript&ads.channelId=99951382&ads.xumo_platform=web&ads.site_id=&ads.appName=xumo&ads.appVersion=1.0.0&ads._fw_app_bundle=web.xumo.com&ads._fw_app_store_url=
 #EXTINF:-1 tvg-name="Shout! Movies (Xumo) " tvg-logo="https://image.xumo.com/v1/channels/channel/99951411/168x168.png?type=color_onBlack" group-title="Movies",Shout! Movies (Xumo)
 https://dtqutq7lmcchv.cloudfront.net/10001/99951411/hls/playlist.m3u8?ads.xumo_channelId=99951411&ads._fw_ifa_type=&ads._fw_did=c5621193-8b72-492c-8763-9a92c273624a&ads.amznappId=&ads.lat=&ads.lon=&ads.os=&ads.osv=&ads.asnw=&ads.caid=ShoutFactoryShoutMovies&ads.csid=xumo_web_ShoutFactoryShoutMovies_ssai&ads._fw_is_lat=0&ads._fw_us_privacy=&ads._fw_coppa=0&ads.genre=&ads._fw_content_category=&ads._fw_content_language=en&ads._fw_content_genre=&ads._fw_content_rating=&ads.xumo_contentId=4224&ads.xumo_contentName=ShoutFactoryShoutMovies&ads.xumo_providerId=4224&ads.xumo_providerName=ShoutFactoryShoutMovies&ads._fw_deviceMake=GitHubAction&ads._fw_device_model=PythonScript&ads.channelId=99951411&ads.xumo_platform=web&ads.site_id=&ads.appName=xumo&ads.appVersion=1.0.0&ads._fw_app_bundle=web.xumo.com&ads._fw_app_store_url=
-#EXTINF:-1 tvg-name="Murder She Wrote (Xumo)" tvg-logo="https://image.xumo.com/v1/channels/channel/99951239/168x168.png?type=color_onBlack" group-title="Binge TV",Murder She Wrote (Xumo)
+#EXTINF:-1 tvg-name="Murder She Wrote (Xumo)" tvg-logo="https://image.xumo.com/v1/channels/channel/99951239/168x168.png?type=color_onBlack" group-title="Binge",Murder She Wrote (Xumo)
 https://d4whmvwm0rdvi.cloudfront.net/10007/99951239/hls/master.m3u8?ads.xumo_channelId=99951239&ads.asnw=169843&ads.afid=380744959&ads.sfid=19208080&ads.csid=xumo_web_NBCUMurderSheWrote_ssai_cro&ads._fw_is_lat=0&ads._fw_us_privacy=&ads._fw_coppa=0&ads._fw_did=6c301254-3ebd-419a-8a51-bbde5f8a1dcc&ads._fw_vcid2=512116:6c301254-3ebd-419a-8a51-bbde5f8a1dcc&ads._fw_app_bundle=web.xumo.com&ads._fw_app_store_url=&ads._fw_content_category=&ads._fw_content_genre=&ads._fw_content_language=en&ads._fw_content_rating=&ads._fw_deviceMake=GitHubAction&ads._fw_device_model=PythonScript&ads._fw_deviceType=3-Connected_TV&ads.appVersion=1.0.0&ads.appName=XumoPlay&ads.xumo_contentId=3927&ads.xumo_contentName=NBCUMurderSheWrote&ads.xumo_providerId=3927&ads.xumo_providerName=NBCUMurderSheWrote&ads.channelId=99951239&ads._fw_ifa_type=
-#EXTINF:-1 tvg-name="Xumo Free Nature & Wildlife TV" tvg-logo="https://image.xumo.com/v1/channels/channel/99951218/168x168.png?type=color_onBlack" group-title="Documentry",Xumo Free Nature & Wildlife TV
+#EXTINF:-1 tvg-name="Xumo Free Nature & Wildlife TV" tvg-logo="https://image.xumo.com/v1/channels/channel/99951218/168x168.png?type=color_onBlack" group-title="Documentary",Xumo Free Nature & Wildlife TV
 https://live-content.xumo.com/3878/content/XM0L7VP9GPWWW8/27619731/master.m3u8
 #EXTINF:-1 tvg-name="Deal or No Deal (Xumo) " tvg-logo="https://image.xumo.com/v1/channels/channel/99991113/168x168.png?type=color_onBlack" group-title="Sports & Games",Deal or No Deal (Xumo)
 https://live-content.xumo.com/2041/content/XM0WICTW58E988/26786873/master.m3u8
-#EXTINF:-1 tvg-name="Anger Management (Xumo) " tvg-logo="https://image.xumo.com/v1/channels/channel/99951192/168x168.png?type=color_onBlack" group-title="Binge TV",Anger Management (Xumo)
+#EXTINF:-1 tvg-name="Anger Management (Xumo) " tvg-logo="https://image.xumo.com/v1/channels/channel/99951192/168x168.png?type=color_onBlack" group-title="Binge",Anger Management (Xumo)
 https://live-content.xumo.com/3828/content/XM01OHK37DC32E/24350383/master.m3u8
-#EXTINF:-1 tvg-name="The Lone Ranger (Xumo) " tvg-logo="https://image.xumo.com/v1/channels/channel/99951258/168x168.png?type=color_onBlack" group-title="Binge TV",The Lone Ranger (Xumo)
+#EXTINF:-1 tvg-name="The Lone Ranger (Xumo) " tvg-logo="https://image.xumo.com/v1/channels/channel/99951258/168x168.png?type=color_onBlack" group-title="Binge",The Lone Ranger (Xumo)
 https://d4whmvwm0rdvi.cloudfront.net/10007/99951258/hls/master.m3u8?ads.xumo_channelId=99951258&ads.asnw=169843&ads.afid=380749191&ads.sfid=19301271&ads.csid=xumo_web_NBCUTheLoneRanger_ssai_cro&ads._fw_is_lat=0&ads._fw_us_privacy=&ads._fw_coppa=0&ads._fw_did=391ff3db-e079-49dd-b5b5-4d6d3a04df1f&ads._fw_vcid2=512116:391ff3db-e079-49dd-b5b5-4d6d3a04df1f&ads._fw_app_bundle=web.xumo.com&ads._fw_app_store_url=&ads._fw_content_category=&ads._fw_content_genre=&ads._fw_content_language=en&ads._fw_content_rating=&ads._fw_deviceMake=GitHubAction&ads._fw_device_model=PythonScript&ads._fw_deviceType=3-Connected_TV&ads.appVersion=1.0.0&ads.appName=XumoPlay&ads.xumo_contentId=3945&ads.xumo_contentName=NBCUTheLoneRanger&ads.xumo_providerId=3945&ads.xumo_providerName=NBCUTheLoneRanger&ads.channelId=99951258&ads._fw_ifa_type=
 #EXTINF:-1 tvg-name="ION Television (Xumo) " tvg-logo="https://image.xumo.com/v1/channels/channel/99951158/168x168.png?type=color_onBlack" group-title="Entertainment",ION Television (Xumo)
 https://dbrb49pjoymg4.cloudfront.net/10001/99951158/hls/playlist.m3u8?ads.xumo_channelId=99951158&ads._fw_ifa_type=&ads._fw_did=3f68a446-9f9a-4091-b07c-c758f7204bac&ads.amznappId=&ads.lat=&ads.lon=&ads.os=&ads.osv=&ads.asnw=&ads.caid=ScrippsION&ads.csid=xumo_web_ScrippsION_ssai&ads._fw_is_lat=0&ads._fw_us_privacy=&ads._fw_coppa=0&ads.genre=&ads._fw_content_category=&ads._fw_content_language=en&ads._fw_content_genre=&ads._fw_content_rating=&ads.xumo_contentId=3766&ads.xumo_contentName=ScrippsION&ads.xumo_providerId=3766&ads.xumo_providerName=ScrippsION&ads._fw_deviceMake=GitHubAction&ads._fw_device_model=PythonScript&ads.channelId=99951158&ads.xumo_platform=web&ads.site_id=&ads.appName=xumo&ads.appVersion=1.0.0&ads._fw_app_bundle=web.xumo.com&ads._fw_app_store_url=
-#EXTINF:-1 tvg-name="Walking Dead Universe (Xumo) " tvg-logo="https://image.xumo.com/v1/channels/channel/99991623/168x168.png?type=color_onBlack" group-title="Binge TV",Walking Dead Universe (Xumo)
+#EXTINF:-1 tvg-name="Walking Dead Universe (Xumo) " tvg-logo="https://image.xumo.com/v1/channels/channel/99991623/168x168.png?type=color_onBlack" group-title="Binge",Walking Dead Universe (Xumo)
 https://d3pxo1qcgzxtxs.cloudfront.net/10005/99991623/hls/playlist.m3u8?ads.xumo_channelId=99991623&ads.channelId=99991623&ads.csid=xumo_web_amcthewalkingdeaduniverse_ssai&ads._fw_is_lat=0&ads._fw_us_privacy=&ads._fw_coppa=0&ads._fw_ifa_type=&ads._fw_did=5727af10-8e69-4ade-9cd9-a631fdf6bfcc&ads._fw_content_category=&ads._fw_content_language=en&ads._fw_content_genre=&ads._fw_content_rating=&ads.xumo_contentId=2655&ads.xumo_contentName=amcthewalkingdeaduniverse&ads.xumo_providerId=2655&ads.xumo_providerName=amcthewalkingdeaduniverse&ads._fw_deviceMake=GitHubAction&ads._fw_device_model=PythonScript&ads._fw_deviceType=3-Connected_TV&ads.xumo_platform=web&ads.appVersion=1.0.0&ads._fw_app_bundle=web.xumo.com&ads._fw_app_store_url=
-#EXTINF:-1 tvg-name="Classic Doctor Who (Xumo) " tvg-logo="https://image.xumo.com/v1/channels/channel/99951248/168x168.png?type=color_onBlack" group-title="Binge TV",Classic Doctor Who (Xumo)
+#EXTINF:-1 tvg-name="Classic Doctor Who (Xumo) " tvg-logo="https://image.xumo.com/v1/channels/channel/99951248/168x168.png?type=color_onBlack" group-title="Binge",Classic Doctor Who (Xumo)
 https://dbrb49pjoymg4.cloudfront.net/10001/99951248/hls/playlist.m3u8?ads.xumo_channelId=99951248&ads._fw_ifa_type=&ads._fw_did=b4db7ede-e7a6-4863-8c7a-5d021533b020&ads.amznappId=&ads.lat=&ads.lon=&ads.os=&ads.osv=&ads.asnw=&ads.caid=BBCClassicDoctorWho&ads.csid=xumo_web_BBCClassicDoctorWho_ssai&ads._fw_is_lat=0&ads._fw_us_privacy=&ads._fw_coppa=0&ads.genre=&ads._fw_content_category=&ads._fw_content_language=en&ads._fw_content_genre=&ads._fw_content_rating=&ads.xumo_contentId=3952&ads.xumo_contentName=BBCClassicDoctorWho&ads.xumo_providerId=3952&ads.xumo_providerName=BBCClassicDoctorWho&ads._fw_deviceMake=GitHubAction&ads._fw_device_model=PythonScript&ads.channelId=99951248&ads.xumo_platform=web&ads.site_id=&ads.appName=xumo&ads.appVersion=1.0.0&ads._fw_app_bundle=web.xumo.com&ads._fw_app_store_url=
-#EXTINF:-1 tvg-name="OuterSphere (Xumo)" tvg-logo="https://image.xumo.com/v1/channels/channel/99951250/168x168.png?type=color_onBlack" group-title="Horror & SciFi",OuterSphere (Xumo)
+#EXTINF:-1 tvg-name="OuterSphere (Xumo)" tvg-logo="https://image.xumo.com/v1/channels/channel/99951250/168x168.png?type=color_onBlack" group-title="Entertainment",OuterSphere (Xumo)
 https://dbrb49pjoymg4.cloudfront.net/10001/99951250/hls/playlist.m3u8?ads.xumo_channelId=99951250&ads._fw_ifa_type=&ads._fw_did=d583b184-982f-4946-9535-642c98a75706&ads.amznappId=&ads.lat=&ads.lon=&ads.os=&ads.osv=&ads.asnw=&ads.caid=LionsgateOuterSphere&ads.csid=xumo_web_LionsgateOuterSphere_ssai&ads._fw_is_lat=0&ads._fw_us_privacy=&ads._fw_coppa=0&ads.genre=&ads._fw_content_category=&ads._fw_content_language=en&ads._fw_content_genre=&ads._fw_content_rating=&ads.xumo_contentId=3954&ads.xumo_contentName=LionsgateOuterSphere&ads.xumo_providerId=3954&ads.xumo_providerName=LionsgateOuterSphere&ads._fw_deviceMake=GitHubAction&ads._fw_device_model=PythonScript&ads.channelId=99951250&ads.xumo_platform=web&ads.site_id=&ads.appName=xumo&ads.appVersion=1.0.0&ads._fw_app_bundle=web.xumo.com&ads._fw_app_store_url=
-#EXTINF:-1 tvg-name="Alfred Hitchcock Presents (Xumo)" tvg-logo="https://image.xumo.com/v1/channels/channel/99951256/168x168.png?type=color_onBlack" group-title="Binge TV",Alfred Hitchcock Presents (Xumo)
+#EXTINF:-1 tvg-name="Alfred Hitchcock Presents (Xumo)" tvg-logo="https://image.xumo.com/v1/channels/channel/99951256/168x168.png?type=color_onBlack" group-title="Binge",Alfred Hitchcock Presents (Xumo)
 https://d4whmvwm0rdvi.cloudfront.net/10007/99951256/hls/master.m3u8?ads.xumo_channelId=99951256&ads.asnw=169843&ads.afid=380740685&ads.sfid=19316482&ads.csid=xumo_web_NBCUAlfredHitchcockPresents_ssai_cro&ads._fw_is_lat=0&ads._fw_us_privacy=&ads._fw_coppa=0&ads._fw_did=379ec0b2-1565-49ed-b3d4-061c8d35f586&ads._fw_vcid2=512116:379ec0b2-1565-49ed-b3d4-061c8d35f586&ads._fw_app_bundle=web.xumo.com&ads._fw_app_store_url=&ads._fw_content_category=&ads._fw_content_genre=&ads._fw_content_language=en&ads._fw_content_rating=&ads._fw_deviceMake=GitHubAction&ads._fw_device_model=PythonScript&ads._fw_deviceType=3-Connected_TV&ads.appVersion=1.0.0&ads.appName=XumoPlay&ads.xumo_contentId=3937&ads.xumo_contentName=NBCUAlfredHitchcockPresents&ads.xumo_providerId=3937&ads.xumo_providerName=NBCUAlfredHitchcockPresents&ads.channelId=99951256&ads._fw_ifa_type=
-#EXTINF:-1 tvg-name="Alien Nation by Dust (Xumo)" tvg-logo="https://image.xumo.com/v1/channels/channel/99991292/168x168.png?type=color_onBlack" group-title="Horror & SciFi",Alien Nation by Dust (Xumo)
+#EXTINF:-1 tvg-name="Alien Nation by Dust (Xumo)" tvg-logo="https://image.xumo.com/v1/channels/channel/99991292/168x168.png?type=color_onBlack" group-title="Movies",Alien Nation by Dust (Xumo)
 https://dbrb49pjoymg4.cloudfront.net/10001/99991292/hls/playlist.m3u8?ads.xumo_channelId=99991292&ads._fw_ifa_type=&ads._fw_did=25129e48-6f85-438d-af7b-377e0e40575c&ads.amznappId=&ads.lat=&ads.lon=&ads.os=&ads.osv=&ads.asnw=&ads.caid=Dust&ads.csid=xumo_web_Dust_ssai&ads._fw_is_lat=0&ads._fw_us_privacy=&ads._fw_coppa=0&ads.genre=&ads._fw_content_category=&ads._fw_content_language=en&ads._fw_content_genre=&ads._fw_content_rating=&ads.xumo_contentId=226&ads.xumo_contentName=Dust&ads.xumo_providerId=226&ads.xumo_providerName=Dust&ads._fw_deviceMake=GitHubAction&ads._fw_device_model=PythonScript&ads.channelId=99991292&ads.xumo_platform=web&ads.site_id=&ads.appName=xumo&ads.appVersion=1.0.0&ads._fw_app_bundle=web.xumo.com&ads._fw_app_store_url=
-#EXTINF:-1 tvg-name="The Asylum (Xumo)" tvg-logo="https://image.xumo.com/v1/channels/channel/99991331/168x168.png?type=color_onBlack" group-title="Horror & SciFi",The Asylum (Xumo)
+#EXTINF:-1 tvg-name="The Asylum (Xumo)" tvg-logo="https://image.xumo.com/v1/channels/channel/99991331/168x168.png?type=color_onBlack" group-title="Movies",The Asylum (Xumo)
 https://live-content.xumo.com/275/content/XM03E4I1O9ZGK5/27932081/master.m3u8
-#EXTINF:-1 tvg-name="Dark Matter TV (Xumo)" tvg-logo="https://image.xumo.com/v1/channels/channel/9999615/168x168.png?type=color_onBlack" group-title="Horror & SciFi",Dark Matter TV (Xumo)
+#EXTINF:-1 tvg-name="Dark Matter TV (Xumo)" tvg-logo="https://image.xumo.com/v1/channels/channel/9999615/168x168.png?type=color_onBlack" group-title="Movies",Dark Matter TV (Xumo)
 https://live-content.xumo.com/3346/content/XM0XJBV4US3J0N/28078224/master.m3u8
-#EXTINF:-1 tvg-name="Paranormal Files (Xumo) " tvg-logo="https://image.xumo.com/v1/channels/channel/99991769/168x168.png?type=color_onBlack" group-title="Horror & SciFi",Paranormal Files (Xumo)
+#EXTINF:-1 tvg-name="Paranormal Files (Xumo) " tvg-logo="https://image.xumo.com/v1/channels/channel/99991769/168x168.png?type=color_onBlack" group-title="Movies",Paranormal Files (Xumo)
 https://live-content.xumo.com/2623/content/XM0O23H29AV62P/26003371/master.m3u8
-#EXTINF:-1 tvg-name="Universal Monsters (Xumo) " tvg-logo="https://image.xumo.com/v1/channels/channel/99951264/168x168.png?type=color_onBlack" group-title="Horror & SciFi",Universal Monsters (Xumo)
+#EXTINF:-1 tvg-name="Universal Monsters (Xumo) " tvg-logo="https://image.xumo.com/v1/channels/channel/99951264/168x168.png?type=color_onBlack" group-title="Movies",Universal Monsters (Xumo)
 https://d4whmvwm0rdvi.cloudfront.net/10007/99951264/hls/master.m3u8?ads.xumo_channelId=99951264&ads.asnw=169843&ads.afid=380753606&ads.sfid=19301317&ads.csid=xumo_web_NBCUUniversalMonsters_ssai_cro&ads._fw_is_lat=0&ads._fw_us_privacy=&ads._fw_coppa=0&ads._fw_did=ff759fed-11a8-465c-99c1-7b1c2bad06b7&ads._fw_vcid2=512116:ff759fed-11a8-465c-99c1-7b1c2bad06b7&ads._fw_app_bundle=web.xumo.com&ads._fw_app_store_url=&ads._fw_content_category=&ads._fw_content_genre=&ads._fw_content_language=en&ads._fw_content_rating=&ads._fw_deviceMake=GitHubAction&ads._fw_device_model=PythonScript&ads._fw_deviceType=3-Connected_TV&ads.appVersion=1.0.0&ads.appName=XumoPlay&ads.xumo_contentId=3940&ads.xumo_contentName=NBCUUniversalMonsters&ads.xumo_providerId=3940&ads.xumo_providerName=NBCUUniversalMonsters&ads.channelId=99951264&ads._fw_ifa_type=
-#EXTINF:-1 tvg-name="Scares by Shudder (Xumo) " tvg-logo="https://image.xumo.com/v1/channels/channel/99951349/168x168.png?type=color_onBlack" group-title="Horror & SciFi",Scares by Shudder (Xumo)
+#EXTINF:-1 tvg-name="Scares by Shudder (Xumo) " tvg-logo="https://image.xumo.com/v1/channels/channel/99951349/168x168.png?type=color_onBlack" group-title="Movies",Scares by Shudder (Xumo)
 https://d3pxo1qcgzxtxs.cloudfront.net/10005/99951349/hls/playlist.m3u8?ads.xumo_channelId=99951349&ads.channelId=99951349&ads.csid=xumo_web_AMCScaresbyShudder_ssai&ads._fw_is_lat=0&ads._fw_us_privacy=&ads._fw_coppa=0&ads._fw_ifa_type=&ads._fw_did=881c4a02-8f55-49a0-82c9-3b48df9f6a8d&ads._fw_content_category=&ads._fw_content_language=en&ads._fw_content_genre=&ads._fw_content_rating=&ads.xumo_contentId=4104&ads.xumo_contentName=AMCScaresbyShudder&ads.xumo_providerId=4104&ads.xumo_providerName=AMCScaresbyShudder&ads._fw_deviceMake=GitHubAction&ads._fw_device_model=PythonScript&ads._fw_deviceType=3-Connected_TV&ads.xumo_platform=web&ads.appVersion=1.0.0&ads._fw_app_bundle=web.xumo.com&ads._fw_app_store_url=
-#EXTINF:-1 tvg-name="Haunt TV (Xumo) " tvg-logo="https://image.xumo.com/v1/channels/channel/99951375/168x168.png?type=color_onBlack" group-title="Horror & SciFi",Haunt TV (Xumo)
+#EXTINF:-1 tvg-name="Haunt TV (Xumo) " tvg-logo="https://image.xumo.com/v1/channels/channel/99951375/168x168.png?type=color_onBlack" group-title="Movies",Haunt TV (Xumo)
 https://dbrb49pjoymg4.cloudfront.net/10001/99951375/hls/playlist.m3u8?ads.xumo_channelId=99951375&ads._fw_ifa_type=&ads._fw_did=a0be2628-deb1-4be1-9741-53dae9f89dbf&ads.amznappId=&ads.lat=&ads.lon=&ads.os=&ads.osv=&ads.asnw=&ads.caid=BlueAntMediaHauntTV&ads.csid=xumo_web_BlueAntMediaHauntTV_ssai&ads._fw_is_lat=0&ads._fw_us_privacy=&ads._fw_coppa=0&ads.genre=&ads._fw_content_category=&ads._fw_content_language=en&ads._fw_content_genre=&ads._fw_content_rating=&ads.xumo_contentId=4172&ads.xumo_contentName=BlueAntMediaHauntTV&ads.xumo_providerId=4172&ads.xumo_providerName=BlueAntMediaHauntTV&ads._fw_deviceMake=GitHubAction&ads._fw_device_model=PythonScript&ads.channelId=99951375&ads.xumo_platform=web&ads.site_id=&ads.appName=xumo&ads.appVersion=1.0.0&ads._fw_app_bundle=web.xumo.com&ads._fw_app_store_url=
-#EXTINF:-1 tvg-name="AMC Thrillers (Xumo) " tvg-logo="https://image.xumo.com/v1/channels/channel/99951377/168x168.png?type=color_onBlack" group-title="Horror & SciFi",AMC Thrillers (Xumo)
+#EXTINF:-1 tvg-name="AMC Thrillers (Xumo) " tvg-logo="https://image.xumo.com/v1/channels/channel/99951377/168x168.png?type=color_onBlack" group-title="Movies",AMC Thrillers (Xumo)
 https://d3pxo1qcgzxtxs.cloudfront.net/10005/99951377/hls/playlist.m3u8?ads.xumo_channelId=99951377&ads.channelId=99951377&ads.csid=xumo_web_AMCAMCThrillers_ssai&ads._fw_is_lat=0&ads._fw_us_privacy=&ads._fw_coppa=0&ads.ifa_type=&ads.did=e4d3e605-90f1-4a36-a008-51accdc5944b&ads._fw_content_category=&ads._fw_content_language=en&ads._fw_content_genre=&ads._fw_content_rating=&ads.xumo_contentId=4174&ads.xumo_contentName=AMCAMCThrillers&ads.xumo_providerId=4174&ads.xumo_providerName=AMCAMCThrillers&ads._fw_deviceMake=GitHubAction&ads._fw_device_model=PythonScript&ads._fw_deviceType=3-Connected_TV&ads.xumo_platform=web&ads.appVersion=1.0.0&ads._fw_app_bundle=web.xumo.com&ads._fw_app_store_url=
-#EXTINF:-1 tvg-name="Ghosts Are Real (Xumo) " tvg-logo="https://image.xumo.com/v1/channels/channel/99951391/168x168.png?type=color_onBlack" group-title="Horror & SciFi",Ghosts Are Real (Xumo)
+#EXTINF:-1 tvg-name="Ghosts Are Real (Xumo) " tvg-logo="https://image.xumo.com/v1/channels/channel/99951391/168x168.png?type=color_onBlack" group-title="Documentary",Ghosts Are Real (Xumo)
 https://dbrb49pjoymg4.cloudfront.net/10001/99951391/hls/playlist.m3u8?ads.xumo_channelId=99951391&ads._fw_ifa_type=&ads._fw_did=5efd749a-6be3-4119-a0e9-7a505631d7b7&ads.amznappId=&ads.lat=&ads.lon=&ads.os=&ads.osv=&ads.asnw=&ads.caid=WBDGhostsAreReal&ads.csid=xumo_web_WBDGhostsAreReal_ssai&ads._fw_is_lat=0&ads._fw_us_privacy=&ads._fw_coppa=0&ads.genre=&ads._fw_content_category=&ads._fw_content_language=en&ads._fw_content_genre=&ads._fw_content_rating=&ads.xumo_contentId=4199&ads.xumo_contentName=WBDGhostsAreReal&ads.xumo_providerId=4199&ads.xumo_providerName=WBDGhostsAreReal&ads._fw_deviceMake=GitHubAction&ads._fw_device_model=PythonScript&ads.channelId=99951391&ads.xumo_platform=web&ads.site_id=&ads.appName=xumo&ads.appVersion=1.0.0&ads._fw_app_bundle=web.xumo.com&ads._fw_app_store_url=
-#EXTINF:-1 tvg-name="Mysterious Worlds (Xumo) " tvg-logo="https://image.xumo.com/v1/channels/channel/99951398/168x168.png?type=color_onBlack" group-title="Horror & SciFi",Mysterious Worlds (Xumo)
+#EXTINF:-1 tvg-name="Mysterious Worlds (Xumo) " tvg-logo="https://image.xumo.com/v1/channels/channel/99951398/168x168.png?type=color_onBlack" group-title="Movies",Mysterious Worlds (Xumo)
 https://dbrb49pjoymg4.cloudfront.net/10001/99951398/hls/playlist.m3u8?ads.xumo_channelId=99951398&ads._fw_ifa_type=&ads._fw_did=b7b15b94-8ff1-4395-a6eb-d601837f99da&ads.amznappId=&ads.lat=&ads.lon=&ads.os=&ads.osv=&ads.asnw=&ads.caid=WBDMysteriousWorlds&ads.csid=xumo_web_WBDMysteriousWorlds_ssai&ads._fw_is_lat=0&ads._fw_us_privacy=&ads._fw_coppa=0&ads.genre=&ads._fw_content_category=&ads._fw_content_language=en&ads._fw_content_genre=&ads._fw_content_rating=&ads.xumo_contentId=4206&ads.xumo_contentName=WBDMysteriousWorlds&ads.xumo_providerId=4206&ads.xumo_providerName=WBDMysteriousWorlds&ads._fw_deviceMake=GitHubAction&ads._fw_device_model=PythonScript&ads.channelId=99951398&ads.xumo_platform=web&ads.site_id=&ads.appName=xumo&ads.appVersion=1.0.0&ads._fw_app_bundle=web.xumo.com&ads._fw_app_store_url=
-#EXTINF:-1 tvg-name="Dungeons & Dragons Adventures(Xumo)" tvg-logo="https://image.xumo.com/v1/channels/channel/99951440/168x168.png?type=color_onBlack" group-title="Horror & SciFi",Dungeons & Dragons (Xumo)
+#EXTINF:-1 tvg-name="Dungeons & Dragons Adventures(Xumo)" tvg-logo="https://image.xumo.com/v1/channels/channel/99951440/168x168.png?type=color_onBlack" group-title="Kids & Family",Dungeons & Dragons (Xumo)
 https://dbrb49pjoymg4.cloudfront.net/10001/99951440/hls/8-9-6769.m3u8?ads.xumo_channelId=99951440&ads._fw_ifa_type=&ads._fw_did=ed20a959-1b2c-4917-9aaf-fac8433a3b1b&ads.amznappId=&ads.lat=&ads.lon=&ads.os=&ads.osv=&ads.asnw=&ads.caid=HasbroDungeonsAndDragons&ads.csid=xumo_web_HasbroDungeonsAndDragons_ssai&ads._fw_is_lat=0&ads._fw_us_privacy=&ads._fw_coppa=0&ads.genre=&ads._fw_content_category=&ads._fw_content_language=en&ads._fw_content_genre=&ads._fw_content_rating=&ads.xumo_contentId=4259&ads.xumo_contentName=HasbroDungeonsAndDragons&ads.xumo_providerId=4259&ads.xumo_providerName=HasbroDungeonsAndDragons&ads._fw_deviceMake=GitHubAction&ads._fw_device_model=PythonScript&ads.channelId=99951440&ads.xumo_platform=web&ads.site_id=&ads.appName=xumo&ads.appVersion=1.0.0&ads._fw_app_bundle=web.xumo.com&ads._fw_app_store_url=
-#EXTINF:-1 tvg-name="Ancient Aliens (Xumo) " tvg-logo="https://image.xumo.com/v1/channels/channel/99951474/168x168.png?type=color_onBlack" group-title="Documentry",Ancient Aliens (Xumo)
+#EXTINF:-1 tvg-name="Ancient Aliens (Xumo) " tvg-logo="https://image.xumo.com/v1/channels/channel/99951474/168x168.png?type=color_onBlack" group-title="Documentary",Ancient Aliens (Xumo)
 https://dbrb49pjoymg4.cloudfront.net/10001/99951474/hls/playlist.m3u8?ads.xumo_channelId=99951474&ads.xumo_streamId=99951474&ads.channelId=99951474&ads.channelName=AEAncientAliens_us&ads.caid=AEAncientAliens&ads.csid=xumo_web_AEAncientAliens_ssai&ads._fw_coppa=0&ads.xumo_contentId=4320&ads.xumo_contentName=AEAncientAliens&ads.xumo_providerId=4320&ads.xumo_providerName=AEAncientAliens&ads._fw_ifa_type=&ads._fw_did=d841ce9b-eef8-458f-b81c-50be678458dd&ads.amznappId=&ads.lat=&ads.lon=&ads.os=&ads.osv=&ads._fw_is_lat=0&ads._fw_us_privacy=&ads.genre=&ads._fw_content_category=&ads._fw_content_language=en&ads._fw_content_genre=&ads._fw_content_rating=&ads._fw_deviceMake=GitHubAction&ads._fw_device_model=PythonScript&ads.xumo_platform=web&ads.site_id=&ads.appVersion=1.0.0&ads._fw_app_bundle=web.xumo.com&ads._fw_app_store_url=&ads.appName=XumoPlay
 #EXTINF:-1 tvg-name="NBC Sports Now (Xumo)" tvg-logo="https://image.xumo.com/v1/channels/channel/99951253/168x168.png?type=color_onBlack" group-title="Sports & Games",NBC Sports Now (Xumo)
 https://d4whmvwm0rdvi.cloudfront.net/10007/99951253/hls/master.m3u8?ads.xumo_channelId=99951253&ads.asnw=169843&ads.afid=380753925&ads.sfid=19208128&ads.csid=xumo_web_NBCUSports_ssai_cro&ads._fw_is_lat=0&ads._fw_us_privacy=&ads._fw_coppa=0&ads._fw_did=0f070c97-4649-4706-aae2-c699394c37ee&ads._fw_vcid2=512116:0f070c97-4649-4706-aae2-c699394c37ee&ads._fw_app_bundle=web.xumo.com&ads._fw_app_store_url=&ads._fw_content_category=&ads._fw_content_genre=&ads._fw_content_language=en&ads._fw_content_rating=&ads._fw_deviceMake=GitHubAction&ads._fw_device_model=PythonScript&ads._fw_deviceType=3-Connected_TV&ads.appVersion=1.0.0&ads.appName=XumoPlay&ads.xumo_contentId=3929&ads.xumo_contentName=NBCUSports&ads.xumo_providerId=3929&ads.xumo_providerName=NBCUSports&ads.channelId=99951253&ads._fw_ifa_type=
@@ -269,61 +257,61 @@ https://dbrb49pjoymg4.cloudfront.net/10001/99991648/hls/playlist.m3u8?ads.xumo_c
 http://12.186.20.98:5004/auto/v7.7
 #EXTINF:-1 tvg-id="365BLK.us2" tvg-name="365BLK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b4/365BLK_logo.png" group-title="Local - Other",365BLK
 http://173.229.4.243:5004/auto/v7.3
-#EXTINF:-1 tvg-id="KATC-DT.us_locals1" tvg-name="ABC (KATC) Lafayette, LA" tvg-logo="https://github.com/ICEZOMBIE-m3u/TV-Logos-tivimate/raw/refs/heads/main/countries/united-states/us-local/abc-3-katc-us.png?type=color_onBlack" group-title="Local - Big 4",ABC (KATC) Lafayette, LA
+#EXTINF:-1 tvg-id="KATC-DT.us_locals1" tvg-name="ABC (KATC) Lafayette, LA" tvg-logo="https://github.com/ICEZOMBIE-m3u/TV-Logos-tivimate/raw/refs/heads/main/countries/united-states/us-local/abc-3-katc-us.png?type=color_onBlack" group-title="Local - Big 4",LA" tvg-logo="https://github.com/ICEZOMBIE-m3u/TV-Logos-tivimate/raw/refs/heads/main/countries/united-states/us-local/abc-3-katc-us.png?type=color_onBlack" group-title="Local - Big 4",ABC (KATC) Lafayette, LA
 http://12.186.20.98:5004/auto/v3.1
-#EXTINF:-1 tvg-id="KKTQ-LD.us_locals1" tvg-name="ABC (KKTQ-LD) Cheyenne, WY" tvg-logo="https://github.com/ICEZOMBIE-m3u/TV-Logos-tivimate/raw/refs/heads/main/Tivimate/USA/Locals/ABC/abc-16-kktq-us.png?type=color_onBlack" group-title="Local - Big 4",ABC (KKTQ-LD) Cheyenne, WY
+#EXTINF:-1 tvg-id="KKTQ-LD.us_locals1" tvg-name="ABC (KKTQ-LD) Cheyenne, WY" tvg-logo="https://github.com/ICEZOMBIE-m3u/TV-Logos-tivimate/raw/refs/heads/main/Tivimate/USA/Locals/ABC/abc-16-kktq-us.png?type=color_onBlack" group-title="Local - Big 4",WY" tvg-logo="https://github.com/ICEZOMBIE-m3u/TV-Logos-tivimate/raw/refs/heads/main/Tivimate/USA/Locals/ABC/abc-16-kktq-us.png?type=color_onBlack" group-title="Local - Big 4",ABC (KKTQ-LD) Cheyenne, WY
 http://38.15.55.221:5004/auto/v27.2
-#EXTINF:-1 tvg-id="KMGH-DT.us_locals1" tvg-name="ABC (KMGH) Denver, CO" tvg-logo="https://github.com/ICEZOMBIE-m3u/TV-Logos-tivimate/raw/refs/heads/main/countries/united-states/us-local/abc-7-kmgh-us.png?type=color_onBlack" group-title="Local - Big 4",ABC (KMGH) Denver, CO
+#EXTINF:-1 tvg-id="KMGH-DT.us_locals1" tvg-name="ABC (KMGH) Denver, CO" tvg-logo="https://github.com/ICEZOMBIE-m3u/TV-Logos-tivimate/raw/refs/heads/main/countries/united-states/us-local/abc-7-kmgh-us.png?type=color_onBlack" group-title="Local - Big 4",CO" tvg-logo="https://github.com/ICEZOMBIE-m3u/TV-Logos-tivimate/raw/refs/heads/main/countries/united-states/us-local/abc-7-kmgh-us.png?type=color_onBlack" group-title="Local - Big 4",ABC (KMGH) Denver, CO
 http://38.15.55.221:5004/auto/v7.1
-#EXTINF:-1 tvg-id="KVHP-DT.us_locals1" tvg-name="ABC (KVHP) Lake Charles, LA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/SWLA-ABC_%28KVHP-DT2%29.svg/330px-SWLA-ABC_%28KVHP-DT2%29.svg.png?type=color_onBlack" group-title="Local - Big 4",ABC (KVHP) Lake Charles, LA
+#EXTINF:-1 tvg-id="KVHP-DT.us_locals1" tvg-name="ABC (KVHP) Lake Charles, LA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/SWLA-ABC_%28KVHP-DT2%29.svg/330px-SWLA-ABC_%28KVHP-DT2%29.svg.png?type=color_onBlack" group-title="Local - Big 4",LA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/SWLA-ABC_%28KVHP-DT2%29.svg/330px-SWLA-ABC_%28KVHP-DT2%29.svg.png?type=color_onBlack" group-title="Local - Big 4",ABC (KVHP) Lake Charles, LA
 http://12.186.20.98:5004/auto/v29.2
-#EXTINF:-1 tvg-id="WSVNDT2.us" tvg-name="ABC (WDFL-LD) Miami, FL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/WSVN-WDFL_ABC_Miami_%282025%29.svg/1000px-WSVN-WDFL_ABC_Miami_%282025%29.svg.png?type=color_onBlack" group-title="Local - Big 4",ABC (WDFL-LD) Miami, FL
+#EXTINF:-1 tvg-id="WSVNDT2.us" tvg-name="ABC (WDFL-LD) Miami, FL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/WSVN-WDFL_ABC_Miami_%282025%29.svg/1000px-WSVN-WDFL_ABC_Miami_%282025%29.svg.png?type=color_onBlack" group-title="Local - Big 4",FL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/WSVN-WDFL_ABC_Miami_%282025%29.svg/1000px-WSVN-WDFL_ABC_Miami_%282025%29.svg.png?type=color_onBlack" group-title="Local - Big 4",ABC (WDFL-LD) Miami, FL
 http://173.229.4.243:5004/auto/v18.1
-#EXTINF:-1 tvg-id="WJHL-DT2.us_locals1" tvg-name="ABC (WJHL-D2) Johnson City, TN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/dd/WJHL_with_2021_ABC_logo.svg?type=color_onBlack" group-title="Local - Big 4",ABC (WJHL-D2) Johnson City, TN
+#EXTINF:-1 tvg-id="WJHL-DT2.us_locals1" tvg-name="ABC (WJHL-D2) Johnson City, TN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/dd/WJHL_with_2021_ABC_logo.svg?type=color_onBlack" group-title="Local - Big 4",TN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/dd/WJHL_with_2021_ABC_logo.svg?type=color_onBlack" group-title="Local - Big 4",ABC (WJHL-D2) Johnson City, TN
 http://66.171.90.19:5004/auto/v11.2
-#EXTINF:-1 tvg-id="WLS-DT.us_locals1" tvg-name="ABC (WLS) Chicago, IL (bkup1)" tvg-logo="https://github.com/ICEZOMBIE-m3u/TV-Logos-tivimate/raw/refs/heads/main/countries/united-states/us-local/abc-7-wls-us.png?type=color_onBlack" group-title="Local - Big 4",ABC (WLS) Chicago, IL (bkup1)
+#EXTINF:-1 tvg-id="WLS-DT.us_locals1" tvg-name="ABC (WLS) Chicago, IL (bkup1)" tvg-logo="https://github.com/ICEZOMBIE-m3u/TV-Logos-tivimate/raw/refs/heads/main/countries/united-states/us-local/abc-7-wls-us.png?type=color_onBlack" group-title="Local - Big 4",IL (bkup1)" tvg-logo="https://github.com/ICEZOMBIE-m3u/TV-Logos-tivimate/raw/refs/heads/main/countries/united-states/us-local/abc-7-wls-us.png?type=color_onBlack" group-title="Local - Big 4",ABC (WLS) Chicago, IL (bkup1)
 http://173.229.4.240:5004/auto/v7.1
-#EXTINF:-1 tvg-id="WLS-DT.us_locals1" tvg-name="ABC (WLS) Chicago, IL" tvg-logo="https://github.com/ICEZOMBIE-m3u/TV-Logos-tivimate/raw/refs/heads/main/countries/united-states/us-local/abc-7-wls-us.png?type=color_onBlack" group-title="Local - Big 4",ABC (WLS) Chicago, IL
+#EXTINF:-1 tvg-id="WLS-DT.us_locals1" tvg-name="ABC (WLS) Chicago, IL" tvg-logo="https://github.com/ICEZOMBIE-m3u/TV-Logos-tivimate/raw/refs/heads/main/countries/united-states/us-local/abc-7-wls-us.png?type=color_onBlack" group-title="Local - Big 4",IL" tvg-logo="https://github.com/ICEZOMBIE-m3u/TV-Logos-tivimate/raw/refs/heads/main/countries/united-states/us-local/abc-7-wls-us.png?type=color_onBlack" group-title="Local - Big 4",ABC (WLS) Chicago, IL
 http://68.251.105.81:5004/auto/v7.1
 #EXTINF:-1 tvg-name="Ace TV " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/00/AceTV-USA.png" group-title="Local - Other",ACE TV
 http://68.251.105.81:5004/auto/v59.3
 #EXTINF:-1 tvg-name="Antenna " tvg-logo="https://github.com/ICEZOMBIE-m3u/TV-Logos-tivimate/raw/refs/heads/main/countries/united-states/antenna-us.png" group-title="Local - Other",Antenna
 http://12.186.20.98:5004/auto/v41.2
-#EXTINF:-1 tvg-name="Antenna (BKup1) " tvg-logo="https://github.com/ICEZOMBIE-m3u/TV-Logos-tivimate/raw/refs/heads/main/countries/united-states/antenna-us.png" group-title="Local - Other",Antenna (BKup1) 
+#EXTINF:-1 tvg-name="Antenna (BKup1) " tvg-logo="https://github.com/ICEZOMBIE-m3u/TV-Logos-tivimate/raw/refs/heads/main/countries/united-states/antenna-us.png" group-title="Local - Other",Antenna (BKup1)
 http://173.229.4.243:5004/auto/v39.3
-#EXTINF:-1 tvg-name="Antenna (BKup2) " tvg-logo="https://github.com/ICEZOMBIE-m3u/TV-Logos-tivimate/raw/refs/heads/main/countries/united-states/antenna-us.png" group-title="Local - Other",Antenna (BKup2) 
+#EXTINF:-1 tvg-name="Antenna (BKup2) " tvg-logo="https://github.com/ICEZOMBIE-m3u/TV-Logos-tivimate/raw/refs/heads/main/countries/united-states/antenna-us.png" group-title="Local - Other",Antenna (BKup2)
 http://173.229.4.240:5004/auto/v9.2
 #EXTINF:-1 tvg-name="AWSN" tvg-logo="https://images.pluto.tv/channels/682e43b21295f98347710917/colorLogoPNG_1748886692805.png" group-title="Sports & Games",AWSN
 http://68.251.105.81:5004/auto/v3.4
-#EXTINF:-1 tvg-name="Bark TV" group-title="Documentry",Bark TV
+#EXTINF:-1 tvg-name="Bark TV" group-title="Documentary",Bark TV
 http://68.251.105.81:5004/auto/v3.8
-#EXTINF:-1 tvg-name="beIN " group-title="Sports & Games",beIN 
+#EXTINF:-1 tvg-name="beIN " group-title="Sports & Games",beIN
 http://68.251.105.81:5004/auto/v3.15
 #EXTINF:-1 tvg-name="Binge" tvg-logo="https://github.com/ICEZOMBIE-m3u/TV-Logos-tivimate/raw/refs/heads/main/countries/united-states/binge-tv-us.png" group-title="Local - Other",Binge
 http://68.251.105.81:5004/auto/v3.1
 #EXTINF:-1 tvg-name="Bounce" tvg-logo="https://github.com/ICEZOMBIE-m3u/TV-Logos-tivimate/raw/refs/heads/main/countries/united-states/bounce-us.png" group-title="Local - Other",Bounce
 http://12.186.20.98:5004/auto/v3.5
-#EXTINF:-1 tvg-name="Bounce (BKup1) " tvg-logo="https://github.com/ICEZOMBIE-m3u/TV-Logos-tivimate/raw/refs/heads/main/countries/united-states/bounce-us.png" group-title="Local - Other",Bounce (BKup1) 
+#EXTINF:-1 tvg-name="Bounce (BKup1) " tvg-logo="https://github.com/ICEZOMBIE-m3u/TV-Logos-tivimate/raw/refs/heads/main/countries/united-states/bounce-us.png" group-title="Local - Other",Bounce (BKup1)
 http://12.186.20.98:5004/auto/v7.3
 #EXTINF:-1 tvg-name="Bounce (BKup2) " tvg-logo="https://github.com/ICEZOMBIE-m3u/TV-Logos-tivimate/raw/refs/heads/main/countries/united-states/bounce-us.png" group-title="Local - Other",Bounce (BKup2)
 http://173.229.4.240:5004/auto/v38.2
-#EXTINF:-1 tvg-name="Movies! " tvg-logo="https://github.com/ICEZOMBIE-m3u/TV-Logos-tivimate/raw/refs/heads/main/countries/united-states/movies-us.png" group-title="Local - Other",Movies! (Bkup) 
+#EXTINF:-1 tvg-name="Movies! " tvg-logo="https://github.com/ICEZOMBIE-m3u/TV-Logos-tivimate/raw/refs/heads/main/countries/united-states/movies-us.png" group-title="Local - Other",Movies! (Bkup)
 http://173.229.4.240:5004/auto/v32.2
-#EXTINF:-1 tvg-name="Movies! " tvg-logo="https://github.com/ICEZOMBIE-m3u/TV-Logos-tivimate/raw/refs/heads/main/countries/united-states/movies-us.png" group-title="Movies",Movies! 
+#EXTINF:-1 tvg-name="Movies! " tvg-logo="https://github.com/ICEZOMBIE-m3u/TV-Logos-tivimate/raw/refs/heads/main/countries/united-states/movies-us.png" group-title="Movies",Movies!
 http://173.229.4.240:5004/auto/v32.2
 #EXTINF:-1 tvg-name="MovieSphere Gold" tvg-logo="https://github.com/ICEZOMBIE-m3u/TV-Logos-tivimate/raw/refs/heads/main/countries/united-states/movie-sphere-gold-us.png" group-title="Movies",MovieSphere Gold
 http://173.229.4.240:5004/auto/v66.2
 #EXTINF:-1 tvg-name="Busted" tvg-logo="https://github.com/ICEZOMBIE-m3u/TV-Logos-tivimate/raw/refs/heads/main/countries/united-states/busted-us.png" group-title="Local - Other",Busted
 http://173.229.4.240:5004/auto/v38.6
-#EXTINF:-1 tvg-name="Busted (BKup1) " tvg-logo="https://github.com/ICEZOMBIE-m3u/TV-Logos-tivimate/raw/refs/heads/main/countries/united-states/busted-us.png" group-title="Local - Other",Busted (BKup1) 
+#EXTINF:-1 tvg-name="Busted (BKup1) " tvg-logo="https://github.com/ICEZOMBIE-m3u/TV-Logos-tivimate/raw/refs/heads/main/countries/united-states/busted-us.png" group-title="Local - Other",Busted (BKup1)
 http://173.229.4.243:5004/auto/v35.5
-#EXTINF:-1 tvg-name="Busted (BKup2) " tvg-logo="https://github.com/ICEZOMBIE-m3u/TV-Logos-tivimate/raw/refs/heads/main/countries/united-states/busted-us.png" group-title="Local - Other",Busted (BKup2) 
+#EXTINF:-1 tvg-name="Busted (BKup2) " tvg-logo="https://github.com/ICEZOMBIE-m3u/TV-Logos-tivimate/raw/refs/heads/main/countries/united-states/busted-us.png" group-title="Local - Other",Busted (BKup2)
 http://173.229.4.243:5004/auto/v67.5
 #EXTINF:-1 tvg-name="Buzzr" tvg-logo="https://images.pluto.tv/channels/5812bfbe4ced4f7b601b12e6/colorLogoPNG.png" group-title="Sports & Games",Buzzr
 http://38.15.55.221:5004/auto/v53.5
-#EXTINF:-1 tvg-name="Buzzr (BKup1) " tvg-logo="https://images.pluto.tv/channels/5812bfbe4ced4f7b601b12e6/colorLogoPNG.png" group-title="Sports & Games",Buzzr (BKup1) 
+#EXTINF:-1 tvg-name="Buzzr (BKup1) " tvg-logo="https://images.pluto.tv/channels/5812bfbe4ced4f7b601b12e6/colorLogoPNG.png" group-title="Sports & Games",Buzzr (BKup1)
 http://173.229.4.240:5004/auto/v32.3
-#EXTINF:-1 tvg-name="MovieSphere Gold (BKup1) " tvg-logo="https://github.com/ICEZOMBIE-m3u/TV-Logos-tivimate/raw/refs/heads/main/countries/united-states/movie-sphere-gold-us.png" group-title="Movies",MovieSphere Gold (BKup1) 
+#EXTINF:-1 tvg-name="MovieSphere Gold (BKup1) " tvg-logo="https://github.com/ICEZOMBIE-m3u/TV-Logos-tivimate/raw/refs/heads/main/countries/united-states/movie-sphere-gold-us.png" group-title="Movies",MovieSphere Gold (BKup1)
 http://173.229.4.243:5004/auto/v23.4
 #EXTINF:-1 tvg-name="Catchy Comedy" tvg-logo="https://github.com/ICEZOMBIE-m3u/TV-Logos-tivimate/raw/refs/heads/main/countries/united-states/catchy-comedy-us.png" group-title="Local - Other",Catchy Comedy
 http://173.229.4.240:5004/auto/v26.6
@@ -331,19 +319,19 @@ http://173.229.4.240:5004/auto/v26.6
 http://173.229.4.240:5004/auto/v48.3
 #EXTINF:-1 tvg-name="Catchy Comedy (BKup2)" tvg-logo="https://github.com/ICEZOMBIE-m3u/TV-Logos-tivimate/raw/refs/heads/main/countries/united-states/catchy-comedy-us.png" group-title="Local - Other",Catchy Comedy (BKup2)
 http://173.229.4.243:5004/auto/v4.5
-#EXTINF:-1 tvg-name="CBS (KALB) Alexandria, LA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/KALB.svg/250px-KALB.svg.png" group-title="Local - Big 4",CBS (KALB) Alexandria, LA
+#EXTINF:-1 tvg-name="CBS (KALB) Alexandria, LA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/KALB.svg/250px-KALB.svg.png" group-title="Local - Big 4",LA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/KALB.svg/250px-KALB.svg.png" group-title="Local - Big 4",CBS (KALB) Alexandria, LA
 http://12.186.20.98:5004/auto/v5.2
-#EXTINF:-1 tvg-name="CBS (KALB) Alexandria, LA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/KALB.svg/250px-KALB.svg.png" group-title="Local - Big 4",CBS (KALB) Alexandria, LA
+#EXTINF:-1 tvg-name="CBS (KALB) Alexandria, LA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/KALB.svg/250px-KALB.svg.png" group-title="Local - Big 4",LA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/KALB.svg/250px-KALB.svg.png" group-title="Local - Big 4",CBS (KALB) Alexandria, LA
 http://12.186.20.98:5004/auto/v30.1
-#EXTINF:-1 tvg-name="CBS (WBBM) Chicago, IL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/42/CBS_Chicago_logo.svg" group-title="Local - Big 4",CBS (WBBM) Chicago, IL
+#EXTINF:-1 tvg-name="CBS (WBBM) Chicago, IL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/42/CBS_Chicago_logo.svg" group-title="Local - Big 4",IL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/42/CBS_Chicago_logo.svg" group-title="Local - Big 4",CBS (WBBM) Chicago, IL
 http://173.229.4.240:5004/auto/v2.1
-#EXTINF:-1 tvg-name="CBS (WBBM) Chicago, IL (Bkup1)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/CBS_Chicago_logo.svg/330px-CBS_Chicago_logo.svg.png" group-title="Local - Big 4",CBS (WBBM) Chicago, IL (Bkup1)
+#EXTINF:-1 tvg-name="CBS (WBBM) Chicago, IL (Bkup1)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/CBS_Chicago_logo.svg/330px-CBS_Chicago_logo.svg.png" group-title="Local - Big 4",IL (Bkup1)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/CBS_Chicago_logo.svg/330px-CBS_Chicago_logo.svg.png" group-title="Local - Big 4",CBS (WBBM) Chicago, IL (Bkup1)
 http://68.251.105.81:5004/auto/v2.1
-#EXTINF:-1 tvg-name="CBS (WFOR-TV) Miami, FL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/WFOR-TV_CBS_4.svg/320px-WFOR-TV_CBS_4.svg.png" group-title="Local - Big 4",CBS (WFOR-TV) Miami, FL
+#EXTINF:-1 tvg-name="CBS (WFOR-TV) Miami, FL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/WFOR-TV_CBS_4.svg/320px-WFOR-TV_CBS_4.svg.png" group-title="Local - Big 4",FL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/WFOR-TV_CBS_4.svg/320px-WFOR-TV_CBS_4.svg.png" group-title="Local - Big 4",CBS (WFOR-TV) Miami, FL
 http://173.229.4.243:5004/auto/v4.1
-#EXTINF:-1 tvg-name="CBS (WJHL-HD) Johnson City, TN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/WJHL_NewsChannel_11_current.svg/330px-WJHL_NewsChannel_11_current.svg.png" group-title="Local - Big 4",CBS (WJHL-HD) Johnson City, TN
+#EXTINF:-1 tvg-name="CBS (WJHL-HD) Johnson City, TN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/WJHL_NewsChannel_11_current.svg/330px-WJHL_NewsChannel_11_current.svg.png" group-title="Local - Big 4",TN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/WJHL_NewsChannel_11_current.svg/330px-WJHL_NewsChannel_11_current.svg.png" group-title="Local - Big 4",CBS (WJHL-HD) Johnson City, TN
 http://66.171.90.19:5004/auto/v11.1
-#EXTINF:-1 tvg-name="CBS (WPEC) W Palm Beach, FL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/WPEC_CBS12_solid_calls.png/2000px-WPEC_CBS12_solid_calls.png" group-title="Local - Big 4",CBS (WPEC) W Palm Beach, FL
+#EXTINF:-1 tvg-name="CBS (WPEC) W Palm Beach, FL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/WPEC_CBS12_solid_calls.png/2000px-WPEC_CBS12_solid_calls.png" group-title="Local - Big 4",FL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/WPEC_CBS12_solid_calls.png/2000px-WPEC_CBS12_solid_calls.png" group-title="Local - Big 4",CBS (WPEC) W Palm Beach, FL
 http://173.229.4.243:5004/auto/v34.5
 #EXTINF:-1 tvg-name="All Women's Sports" tvg-logo="https://images.pluto.tv/channels/682e43b21295f98347710917/colorLogoPNG_1748886692805.png" group-title="Sports & Games",AWSN
 https://jmp2.uk/plu-682e43b21295f98347710917.m3u8
@@ -801,7 +789,7 @@ https://jmp2.uk/plu-5d3609cd6a6c78d7672f2a81.m3u8
 https://jmp2.uk/plu-5ca672f515a62078d2ec0ad2.m3u8
 #EXTINF:-1 tvg-id="5d14fdb8ca91eedee1633117" tvg-name="MTV Spankin' New" tvg-logo="https://images.pluto.tv/channels/5d14fdb8ca91eedee1633117/colorLogoPNG.png" group-title="Music",MTV Spankin' New
 https://jmp2.uk/plu-5d14fdb8ca91eedee1633117.m3u8
-#EXTINF:-1 tvg-id="6549337183595c000815ad05" tvg-name="Murder, She Wrote" tvg-logo="https://images.pluto.tv/channels/6549337183595c000815ad05/colorLogoPNG.png" group-title="Binge",She Wrote" tvg-logo="https://images.pluto.tv/channels/6549337183595c000815ad05/colorLogoPNG.png" group-title="Binge",Murder She Wrote
+#EXTINF:-1 tvg-id="6549337183595c000815ad05" tvg-name="Murder, She Wrote" tvg-logo="https://images.pluto.tv/channels/6549337183595c000815ad05/colorLogoPNG.png" group-title="Binge",She Wrote" tvg-logo="https://images.pluto.tv/channels/6549337183595c000815ad05/colorLogoPNG.png" group-title="Binge",She Wrote" tvg-logo="https://images.pluto.tv/channels/6549337183595c000815ad05/colorLogoPNG.png" group-title="Binge",Murder She Wrote
 https://jmp2.uk/plu-6549337183595c000815ad05.m3u8
 #EXTINF:-1 tvg-id="66e0b4866ad04d0008fff4d8" tvg-name="MythBusters" tvg-logo="https://images.pluto.tv/channels/66e0b4866ad04d0008fff4d8/colorLogoPNG.png" group-title="Documentary",MythBusters
 https://jmp2.uk/plu-66e0b4866ad04d0008fff4d8.m3u8
@@ -1663,7 +1651,7 @@ https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-605a309dc5acdc002c7a20aa.m3u8
 https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-5fc705f68aba71002d8b7b37.m3u8
 #EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-62d15f16001c04178f555e40" tvg-name="FUEL TV" tvg-logo="https://provider-static.plex.tv/6/epg/channels/logos/gracenote/6d37acb509ed72b6cc59cdb32828cbc0.png" group-title="Sports",FUEL TV
 https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-62d15f16001c04178f555e40.m3u8
-#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-63d08694ab0965e49583e3b2" tvg-name="Funny Or Die, Inc." tvg-logo="https://provider-static.plex.tv/epg/cms/production/8002e04c-3b48-4ed8-85c6-89f54c3cd466/David_Saint_-_fod_logo_for_plex_color.png" group-title="Entertainment",Inc." tvg-logo="https://provider-static.plex.tv/epg/cms/production/8002e04c-3b48-4ed8-85c6-89f54c3cd466/David_Saint_-_fod_logo_for_plex_color.png" group-title="Entertainment",Funny Or Die Inc.
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-63d08694ab0965e49583e3b2" tvg-name="Funny Or Die, Inc." tvg-logo="https://provider-static.plex.tv/epg/cms/production/8002e04c-3b48-4ed8-85c6-89f54c3cd466/David_Saint_-_fod_logo_for_plex_color.png" group-title="Entertainment",Inc." tvg-logo="https://provider-static.plex.tv/epg/cms/production/8002e04c-3b48-4ed8-85c6-89f54c3cd466/David_Saint_-_fod_logo_for_plex_color.png" group-title="Entertainment",Inc." tvg-logo="https://provider-static.plex.tv/epg/cms/production/8002e04c-3b48-4ed8-85c6-89f54c3cd466/David_Saint_-_fod_logo_for_plex_color.png" group-title="Entertainment",Funny Or Die Inc.
 https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-63d08694ab0965e49583e3b2.m3u8
 #EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-67a147a7114554261db9e45d" tvg-name="Game & Fish TV" tvg-logo="https://provider-static.plex.tv/epg/cms/production/76978d32-d638-4ef6-a167-a4b87a600f70/Game-Fish-TV_logo_allwhite_-_Daniel_Soane.png" group-title="Sports",Game & Fish TV
 https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-67a147a7114554261db9e45d.m3u8
@@ -1865,7 +1853,7 @@ https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-60995eb136c72d002da7bbcb.m3u8
 https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-63fe7d7eb6312779f56504d3.m3u8
 #EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-685f0e1fa7111a932d28f1a6" tvg-name="Love Thy Neighbor" tvg-logo="https://provider-static.plex.tv/epg/cms/production/2d4e1fc3-e339-42c3-a13f-3d5a15342fef/LoveThyNeighbor_Logo_1500x1000_DarkBG_-_Chris_Connors.png" group-title="Binge",Love Thy Neighbor
 https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-685f0e1fa7111a932d28f1a6.m3u8
-#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-67a1a8ef2358ef4dd5c3018e" tvg-name="Lucha Plus" tvg-logo="https://provider-static.plex.tv/epg/cms/production/e8b87f4f-ebc1-4996-b732-b70118521f61/Plex_Channel_Logo_Color_-_Juan_Miguel_Bassalik_WHT_TEXT.png" group-title="Sports",Lucha Plus
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-67a1a8ef2358ef4dd5c3018e" tvg-name="Lucha Plus" tvg-logo="https://provider-static.plex.tv/epg/cms/production/e8b87f4f-ebc1-4996-b732-b70118521f61/Plex_Channel_Logo_Color_-_Juan_Miguel_Bassalik_WHT_TEXT.png" group-title="Fight Club 🥊",Lucha Plus
 https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-67a1a8ef2358ef4dd5c3018e.m3u8
 #EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-645a5a1e4dc67ffc42d36558" tvg-name="LX Home Streaming" tvg-logo="https://provider-static.plex.tv/2/epg/channels/logos/gracenote/2f98682ef339692fe6a76040ef818cc6.png" group-title="Lifestyle",LX Home Streaming
 https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-645a5a1e4dc67ffc42d36558.m3u8
@@ -2015,7 +2003,7 @@ https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-6478acb5c83f56da796f166c.m3u8
 https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-68e03ae418c739b4d91a6a57.m3u8
 #EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-64d4e82ac5d4668c9cb7b5df" tvg-name="Novelisima" tvg-logo="https://provider-static.plex.tv/epg/cms/production/c02431c6-190a-426a-a652-38502fec17d8/Novelisima_logo_lightbakg_1500x1000_-_Ali_Clausen.png" group-title="En Español",Novelisima
 https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-64d4e82ac5d4668c9cb7b5df.m3u8
-#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-6785867ad3749c9bdd4d2ed1" tvg-name="ONE Championship TV" tvg-logo="https://provider-static.plex.tv/epg/cms/production/a3b45d90-8290-4886-8017-d55ed6517f6c/ONE_1500x1000_for_dark_bgd_-_Eddie_Hunter-HigginsRDX.png" group-title="Sports",ONE Championship TV
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-6785867ad3749c9bdd4d2ed1" tvg-name="ONE Championship TV" tvg-logo="https://provider-static.plex.tv/epg/cms/production/a3b45d90-8290-4886-8017-d55ed6517f6c/ONE_1500x1000_for_dark_bgd_-_Eddie_Hunter-HigginsRDX.png" group-title="Fight Club 🥊",ONE Championship TV
 https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-6785867ad3749c9bdd4d2ed1.m3u8
 #EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-6578e7b5eef129f30fb38df7" tvg-name="Operation Repo" tvg-logo="https://provider-static.plex.tv/epg/cms/production/9ea6fcd5-6337-4609-8b7c-290b0eb74c65/Oprepo_logo_-_James_PatrickRDX.png" group-title="Binge",Operation Repo
 https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-6578e7b5eef129f30fb38df7.m3u8
@@ -2365,7 +2353,7 @@ https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-644c446d7472b186783f359e.m3u8
 https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-666e236ace73ed6023b55a17.m3u8
 #EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-685f195f6c220c4e9e333a04" tvg-name="Todo Drama" tvg-logo="https://provider-static.plex.tv/epg/cms/production/d4daa26d-847b-4c35-a59e-436a273448ce/TodoDrama_WHITERDX.png" group-title="En Español",Todo Drama
 https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-685f195f6c220c4e9e333a04.m3u8
-#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-65257cdf65486aca7aa77716" tvg-name="Todo Novelas, más Pasiones" tvg-logo="https://provider-static.plex.tv/epg/cms/production/f768af86-c0ca-40fa-b79a-bdfe22b54ab3/TN_MP_LOGO_TRANSP_1500x1000_Attribution_White.png" group-title="En Español",más Pasiones" tvg-logo="https://provider-static.plex.tv/epg/cms/production/f768af86-c0ca-40fa-b79a-bdfe22b54ab3/TN_MP_LOGO_TRANSP_1500x1000_Attribution_White.png" group-title="En Español",más Pasiones" tvg-logo="https://provider-static.plex.tv/epg/cms/production/f768af86-c0ca-40fa-b79a-bdfe22b54ab3/TN_MP_LOGO_TRANSP_1500x1000_Attribution_White.png" group-title="En Español",Todo Novelas más Pasiones
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-65257cdf65486aca7aa77716" tvg-name="Todo Novelas, más Pasiones" tvg-logo="https://provider-static.plex.tv/epg/cms/production/f768af86-c0ca-40fa-b79a-bdfe22b54ab3/TN_MP_LOGO_TRANSP_1500x1000_Attribution_White.png" group-title="En Español",más Pasiones" tvg-logo="https://provider-static.plex.tv/epg/cms/production/f768af86-c0ca-40fa-b79a-bdfe22b54ab3/TN_MP_LOGO_TRANSP_1500x1000_Attribution_White.png" group-title="En Español",más Pasiones" tvg-logo="https://provider-static.plex.tv/epg/cms/production/f768af86-c0ca-40fa-b79a-bdfe22b54ab3/TN_MP_LOGO_TRANSP_1500x1000_Attribution_White.png" group-title="En Español",más Pasiones" tvg-logo="https://provider-static.plex.tv/epg/cms/production/f768af86-c0ca-40fa-b79a-bdfe22b54ab3/TN_MP_LOGO_TRANSP_1500x1000_Attribution_White.png" group-title="En Español",Todo Novelas más Pasiones
 https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-65257cdf65486aca7aa77716.m3u8
 #EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-5f170d60b898490041b49359" tvg-name="Toon Goggles" tvg-logo="https://provider-static.plex.tv/epg/cms/production/1a85f23b-2648-4636-af3d-1d69b3721200/toongoggles_logo_light_1500x1000.png" group-title="Kids & Family",En Español",Toon Goggles
 https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-5f170d60b898490041b49359.m3u8
@@ -2541,283 +2529,283 @@ https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-6642a07d0e0ec7b4ce5eb294.m3u8
 https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-65f0da6f046e6131ecc31841.m3u8
 #EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-62efba6588a16bb7d6b6fb58" tvg-name="Éxitos del Momento" tvg-logo="https://provider-static.plex.tv/epg/cms/production/db81c10a-93cb-4966-ae48-5e3f0f741110/Exitos_Del_momento.png" group-title="Music",En Español",Éxitos del Momento
 https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-62efba6588a16bb7d6b6fb58.m3u8
-#EXTINF:-1 tvg-id="Blank.Dummy.us" tvg-name="[ Radio/Music ]" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/x.png?raw=true?raw=true" group-title="I-Heart",[ Radio/Music ]
+#EXTINF:-1 tvg-id="Blank.Dummy.us" tvg-name="[ Radio/Music ]" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/x.png?raw=true?raw=true" group-title="Music - I-Heart",[ Radio/Music ]
 https://jmp2.uk/stvp-CA2900005KG
-#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="KALOOPY MUSIC CHANNEL" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/kaloopy.jpg?raw=true" group-title="I-Heart",KALOOPY MUSIC
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="KALOOPY MUSIC CHANNEL" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/kaloopy.jpg?raw=true" group-title="Music - I-Heart",KALOOPY MUSIC
 https://dai.google.com/linear/hls/event/FK1bjW0AThepH1W7CJrByg/master.m3u8
-#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart The Beatles Now And Then" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/iheart.jpeg?raw=true" group-title="I-Heart",iHeart The Beatles Now And Then
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart The Beatles Now And Then" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/iheart.jpeg?raw=true" group-title="Music - I-Heart",iHeart The Beatles Now And Then
 https://stream.revma.ihrhls.com/zc10023/hls.m3u8
-#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Country 2000's" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/iheart.jpeg?raw=true" group-title="I-Heart",iHeart Country 2000's
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Country 2000's" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/iheart.jpeg?raw=true" group-title="Music - I-Heart",iHeart Country 2000's
 https://stream.revma.ihrhls.com/zc10027/hls.m3u8
-#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Bluestown" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/iheart.jpeg?raw=true" group-title="I-Heart",iHeart Bluestown
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Bluestown" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/iheart.jpeg?raw=true" group-title="Music - I-Heart",iHeart Bluestown
 https://stream.revma.ihrhls.com/zc10029/hls.m3u8
-#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Southern Rock Ride" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/iheart.jpeg?raw=true" group-title="I-Heart",iHeart Southern Rock Ride
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Southern Rock Ride" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/iheart.jpeg?raw=true" group-title="Music - I-Heart",iHeart Southern Rock Ride
 https://stream.revma.ihrhls.com/zc10053/hls.m3u8
-#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart 80's Rock Ride" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/iheart.jpeg?raw=true" group-title="I-Heart",iHeart 80's Rock Ride
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart 80's Rock Ride" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/iheart.jpeg?raw=true" group-title="Music - I-Heart",iHeart 80's Rock Ride
 https://stream.revma.ihrhls.com/zc10054/hls.m3u8
-#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Minivan Rock" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/iheart.jpeg?raw=true" group-title="I-Heart",iHeart Minivan Rock
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Minivan Rock" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/iheart.jpeg?raw=true" group-title="Music - I-Heart",iHeart Minivan Rock
 https://stream.revma.ihrhls.com/zc10055/hls.m3u8
-#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Doo-Wop" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/iheart.jpeg?raw=true" group-title="I-Heart",iHeart Doo-Wop
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Doo-Wop" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/iheart.jpeg?raw=true" group-title="Music - I-Heart",iHeart Doo-Wop
 https://stream.revma.ihrhls.com/zc10058/hls.m3u8
-#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Classic Hard Rock" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/iheart.jpeg?raw=true" group-title="I-Heart",iHeart Classic Hard Rock
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Classic Hard Rock" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/iheart.jpeg?raw=true" group-title="Music - I-Heart",iHeart Classic Hard Rock
 https://stream.revma.ihrhls.com/zc10068/hls.m3u8
-#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Yee Yee Radio" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/iheart.jpeg?raw=true" group-title="I-Heart",iHeart Yee Yee Radio
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Yee Yee Radio" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/iheart.jpeg?raw=true" group-title="Music - I-Heart",iHeart Yee Yee Radio
 https://stream.revma.ihrhls.com/zc10082/hls.m3u8
-#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Magic (M�sica en Ingles y Espa�ol)" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/iheart.jpeg?raw=true" group-title="I-Heart",iHeart Magic (M�sica en Ingles y Espa�ol)
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Magic (M�sica en Ingles y Espa�ol)" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/iheart.jpeg?raw=true" group-title="Music - I-Heart",iHeart Magic (M�sica en Ingles y Espa�ol)
 https://stream.revma.ihrhls.com/zc10085/hls.m3u8
-#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Mega" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/iheart.jpeg?raw=true" group-title="I-Heart",iHeart Mega
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Mega" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/iheart.jpeg?raw=true" group-title="Music - I-Heart",iHeart Mega
 https://stream.revma.ihrhls.com/zc10087/hls.m3u8
-#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Retro En Espa�ol" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/iheart.jpeg?raw=true" group-title="I-Heart",iHeart Retro En Espa�ol
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Retro En Espa�ol" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/iheart.jpeg?raw=true" group-title="Music - I-Heart",iHeart Retro En Espa�ol
 https://stream.revma.ihrhls.com/zc10089/hls.m3u8
-#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart ALT X" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/iheart.jpeg?raw=true" group-title="I-Heart",iHeart ALT X
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart ALT X" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/iheart.jpeg?raw=true" group-title="Music - I-Heart",iHeart ALT X
 https://stream.revma.ihrhls.com/zc10098/hls.m3u8
-#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Cross Country" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/iheart.jpeg?raw=true" group-title="I-Heart",iHeart Cross Country
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Cross Country" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/iheart.jpeg?raw=true" group-title="Music - I-Heart",iHeart Cross Country
 https://stream.revma.ihrhls.com/zc10164/hls.m3u8
-#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Hip-Hop 2000's" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/iheart.jpeg?raw=true" group-title="I-Heart",iHeart Hip-Hop 2000's
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Hip-Hop 2000's" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/iheart.jpeg?raw=true" group-title="Music - I-Heart",iHeart Hip-Hop 2000's
 https://stream.revma.ihrhls.com/zc10170/hls.m3u8
-#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Casey Kasem's Classic American Top 40 (90's & 2000's)" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/iheart.jpeg?raw=true" group-title="I-Heart",iHeart Casey Kasem's Classic American Top 40 (90's & 2000's)
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Casey Kasem's Classic American Top 40 (90's & 2000's)" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/iheart.jpeg?raw=true" group-title="Music - I-Heart",iHeart Casey Kasem's Classic American Top 40 (90's & 2000's)
 https://stream.revma.ihrhls.com/zc10423/hls.m3u8
-#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Trending Pop Top 20" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/iheart.jpeg?raw=true" group-title="I-Heart",iHeart Trending Pop Top 20
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Trending Pop Top 20" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/iheart.jpeg?raw=true" group-title="Music - I-Heart",iHeart Trending Pop Top 20
 https://stream.revma.ihrhls.com/zc10479/hls.m3u8
-#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Trending Hip-Hop Top 20" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/iheart.jpeg?raw=true" group-title="I-Heart",iHeart Trending Hip-Hop Top 20
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Trending Hip-Hop Top 20" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/iheart.jpeg?raw=true" group-title="Music - I-Heart",iHeart Trending Hip-Hop Top 20
 https://stream.revma.ihrhls.com/zc10484/hls.m3u8
-#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Trending Country Top 20" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/iheart.jpeg?raw=true" group-title="I-Heart",iHeart Trending Country Top 20
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Trending Country Top 20" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/iheart.jpeg?raw=true" group-title="Music - I-Heart",iHeart Trending Country Top 20
 https://stream.revma.ihrhls.com/zc10485/hls.m3u8
-#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Rick Dees Weekly Top 40" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/iheart.jpeg?raw=true" group-title="I-Heart",iHeart Rick Dees Weekly Top 40
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Rick Dees Weekly Top 40" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/iheart.jpeg?raw=true" group-title="Music - I-Heart",iHeart Rick Dees Weekly Top 40
 https://stream.revma.ihrhls.com/zc10599/hls.m3u8
-#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Classic Rick Dees Weekly Top 40 (80's 90's & 2000's)" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/iheart.jpeg?raw=true" group-title="I-Heart",iHeart Classic Rick Dees Weekly Top 40 (80's 90's & 2000's)
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Classic Rick Dees Weekly Top 40 (80's 90's & 2000's)" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/iheart.jpeg?raw=true" group-title="Music - I-Heart",iHeart Classic Rick Dees Weekly Top 40 (80's 90's & 2000's)
 https://stream.revma.ihrhls.com/zc10600/hls.m3u8
-#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart PRIDE Radio" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/iheart.jpeg?raw=true" group-title="I-Heart",iHeart PRIDE Radio
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart PRIDE Radio" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/iheart.jpeg?raw=true" group-title="Music - I-Heart",iHeart PRIDE Radio
 https://stream.revma.ihrhls.com/zc3949/hls.m3u8
-#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Smooth Jazz" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/iheart.jpeg?raw=true" group-title="I-Heart",iHeart Smooth Jazz
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Smooth Jazz" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/iheart.jpeg?raw=true" group-title="Music - I-Heart",iHeart Smooth Jazz
 https://stream.revma.ihrhls.com/zc4242/hls.m3u8
-#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Today's Mix" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/iheart.jpeg?raw=true" group-title="I-Heart",iHeart Today's Mix
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Today's Mix" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/iheart.jpeg?raw=true" group-title="Music - I-Heart",iHeart Today's Mix
 https://stream.revma.ihrhls.com/zc4409/hls.m3u8
-#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Soft Rock" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/iheart.jpeg?raw=true" group-title="I-Heart",iHeart Soft Rock
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Soft Rock" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/iheart.jpeg?raw=true" group-title="Music - I-Heart",iHeart Soft Rock
 https://stream.revma.ihrhls.com/zc4414/hls.m3u8
-#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Country" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/iheart.jpeg?raw=true" group-title="I-Heart",iHeart Country
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Country" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/iheart.jpeg?raw=true" group-title="Music - I-Heart",iHeart Country
 https://stream.revma.ihrhls.com/zc4418/hls.m3u8
-#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Hit Nation" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/iheart.jpeg?raw=true" group-title="I-Heart",iHeart Hit Nation
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Hit Nation" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/iheart.jpeg?raw=true" group-title="Music - I-Heart",iHeart Hit Nation
 https://stream.revma.ihrhls.com/zc4422/hls.m3u8
-#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Classic Rock" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/iheart.jpeg?raw=true" group-title="I-Heart",iHeart Classic Rock
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Classic Rock" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/iheart.jpeg?raw=true" group-title="Music - I-Heart",iHeart Classic Rock
 https://stream.revma.ihrhls.com/zc4426/hls.m3u8
-#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart R&B Jams" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/iheart.jpeg?raw=true" group-title="I-Heart",iHeart R&B Jams
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart R&B Jams" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/iheart.jpeg?raw=true" group-title="Music - I-Heart",iHeart R&B Jams
 https://stream.revma.ihrhls.com/zc4433/hls.m3u8
-#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Country Classics" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/iheart.jpeg?raw=true" group-title="I-Heart",iHeart Country Classics
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Country Classics" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/iheart.jpeg?raw=true" group-title="Music - I-Heart",iHeart Country Classics
 https://stream.revma.ihrhls.com/zc4435/hls.m3u8
-#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Cool Oldies (70's & 80's)" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/iheart.jpeg?raw=true" group-title="I-Heart",iHeart Cool Oldies (70's & 80's)
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Cool Oldies (70's & 80's)" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/iheart.jpeg?raw=true" group-title="Music - I-Heart",iHeart Cool Oldies (70's & 80's)
 https://stream.revma.ihrhls.com/zc4439/hls.m3u8
-#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Rock Nation" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/iheart.jpeg?raw=true" group-title="I-Heart",iHeart Rock Nation
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Rock Nation" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/iheart.jpeg?raw=true" group-title="Music - I-Heart",iHeart Rock Nation
 https://stream.revma.ihrhls.com/zc4443/hls.m3u8
-#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart ALT Radio" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/iheart.jpeg?raw=true" group-title="I-Heart",iHeart ALT Radio
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart ALT Radio" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/iheart.jpeg?raw=true" group-title="Music - I-Heart",iHeart ALT Radio
 https://stream.revma.ihrhls.com/zc4447/hls.m3u8
-#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Rumba" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/iheart.jpeg?raw=true" group-title="I-Heart",iHeart Rumba
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Rumba" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/iheart.jpeg?raw=true" group-title="Music - I-Heart",iHeart Rumba
 https://stream.revma.ihrhls.com/zc4451/hls.m3u8
-#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Big Classic Hits (70's 80's & 90's)" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/iheart.jpeg?raw=true" group-title="I-Heart",iHeart Big Classic Hits (70's 80's & 90's)
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Big Classic Hits (70's 80's & 90's)" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/iheart.jpeg?raw=true" group-title="Music - I-Heart",iHeart Big Classic Hits (70's 80's & 90's)
 https://stream.revma.ihrhls.com/zc4455/hls.m3u8
-#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart New Country" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/iheart.jpeg?raw=true" group-title="I-Heart",iHeart New Country
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart New Country" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/iheart.jpeg?raw=true" group-title="Music - I-Heart",iHeart New Country
 https://stream.revma.ihrhls.com/zc4712/hls.m3u8
-#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Real Oldies (60's & 70's)" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/iheart.jpeg?raw=true" group-title="I-Heart",iHeart Real Oldies (60's & 70's)
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Real Oldies (60's & 70's)" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/iheart.jpeg?raw=true" group-title="Music - I-Heart",iHeart Real Oldies (60's & 70's)
 https://stream.revma.ihrhls.com/zc4717/hls.m3u8
-#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Chill Jams" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/iheart.jpeg?raw=true" group-title="I-Heart",iHeart Chill Jams
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Chill Jams" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/iheart.jpeg?raw=true" group-title="Music - I-Heart",iHeart Chill Jams
 https://stream.revma.ihrhls.com/zc4719/hls.m3u8
-#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart WiLD" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/iheart.jpeg?raw=true" group-title="I-Heart",iHeart WiLD
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart WiLD" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/iheart.jpeg?raw=true" group-title="Music - I-Heart",iHeart WiLD
 https://stream.revma.ihrhls.com/zc4722/hls.m3u8
-#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Mix Nation" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/iheart.jpeg?raw=true" group-title="I-Heart",iHeart Mix Nation
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Mix Nation" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/iheart.jpeg?raw=true" group-title="Music - I-Heart",iHeart Mix Nation
 https://stream.revma.ihrhls.com/zc4776/hls.m3u8
-#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart American Top 40" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/iheart.jpeg?raw=true" group-title="I-Heart",iHeart American Top 40
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart American Top 40" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/iheart.jpeg?raw=true" group-title="Music - I-Heart",iHeart American Top 40
 https://stream.revma.ihrhls.com/zc4802/hls.m3u8
-#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Delilah" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/iheart.jpeg?raw=true" group-title="I-Heart",iHeart Delilah
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Delilah" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/iheart.jpeg?raw=true" group-title="Music - I-Heart",iHeart Delilah
 https://stream.revma.ihrhls.com/zc4846/hls.m3u8
-#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Slippery When Wet" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/iheart.jpeg?raw=true" group-title="I-Heart",iHeart Slippery When Wet
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Slippery When Wet" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/iheart.jpeg?raw=true" group-title="Music - I-Heart",iHeart Slippery When Wet
 https://stream.revma.ihrhls.com/zc4858/hls.m3u8
-#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Pop Top 20" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/iheart.jpeg?raw=true" group-title="I-Heart",iHeart Pop Top 20
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Pop Top 20" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/iheart.jpeg?raw=true" group-title="Music - I-Heart",iHeart Pop Top 20
 https://stream.revma.ihrhls.com/zc4878/hls.m3u8
-#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Country Top 20" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/iheart.jpeg?raw=true" group-title="I-Heart",iHeart Country Top 20
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Country Top 20" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/iheart.jpeg?raw=true" group-title="Music - I-Heart",iHeart Country Top 20
 https://stream.revma.ihrhls.com/zc4882/hls.m3u8
-#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Hip-Hop Top 20" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/iheart.jpeg?raw=true" group-title="I-Heart",iHeart Hip-Hop Top 20
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Hip-Hop Top 20" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/iheart.jpeg?raw=true" group-title="Music - I-Heart",iHeart Hip-Hop Top 20
 https://stream.revma.ihrhls.com/zc4886/hls.m3u8
-#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Rock Top 20" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/iheart.jpeg?raw=true" group-title="I-Heart",iHeart Rock Top 20
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Rock Top 20" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/iheart.jpeg?raw=true" group-title="Music - I-Heart",iHeart Rock Top 20
 https://stream.revma.ihrhls.com/zc4932/hls.m3u8
-#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart R&B Top 20" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/iheart.jpeg?raw=true" group-title="I-Heart",iHeart R&B Top 20
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart R&B Top 20" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/iheart.jpeg?raw=true" group-title="Music - I-Heart",iHeart R&B Top 20
 https://stream.revma.ihrhls.com/zc4940/hls.m3u8
-#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Sunny Radio" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/iheart.jpeg?raw=true" group-title="I-Heart",iHeart Sunny Radio
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Sunny Radio" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/iheart.jpeg?raw=true" group-title="Music - I-Heart",iHeart Sunny Radio
 https://stream.revma.ihrhls.com/zc5014/hls.m3u8
-#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart 80's" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/iheart.jpeg?raw=true" group-title="I-Heart",iHeart 80's
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart 80's" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/iheart.jpeg?raw=true" group-title="Music - I-Heart",iHeart 80's
 https://stream.revma.ihrhls.com/zc5060/hls.m3u8
-#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Trancid" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/iheart.jpeg?raw=true" group-title="I-Heart",iHeart Trancid
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Trancid" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/iheart.jpeg?raw=true" group-title="Music - I-Heart",iHeart Trancid
 https://stream.revma.ihrhls.com/zc5144/hls.m3u8
-#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart British Invasion" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/iheart.jpeg?raw=true" group-title="I-Heart",iHeart British Invasion
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart British Invasion" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/iheart.jpeg?raw=true" group-title="Music - I-Heart",iHeart British Invasion
 https://stream.revma.ihrhls.com/zc5708/hls.m3u8
-#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Evolution" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/iheart.jpeg?raw=true" group-title="I-Heart",iHeart Evolution
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Evolution" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/iheart.jpeg?raw=true" group-title="Music - I-Heart",iHeart Evolution
 https://stream.revma.ihrhls.com/zc5953/hls.m3u8
-#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Real Fun Beach Radio" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/iheart.jpeg?raw=true" group-title="I-Heart",iHeart Real Fun Beach Radio
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Real Fun Beach Radio" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/iheart.jpeg?raw=true" group-title="Music - I-Heart",iHeart Real Fun Beach Radio
 https://stream.revma.ihrhls.com/zc6221/hls.m3u8
-#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Full Metal Jackie" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/iheart.jpeg?raw=true" group-title="I-Heart",iHeart Full Metal Jackie
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Full Metal Jackie" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/iheart.jpeg?raw=true" group-title="Music - I-Heart",iHeart Full Metal Jackie
 https://stream.revma.ihrhls.com/zc6225/hls.m3u8
-#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Smells Like the 90's" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/iheart.jpeg?raw=true" group-title="I-Heart",iHeart Smells Like the 90's
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Smells Like the 90's" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/iheart.jpeg?raw=true" group-title="Music - I-Heart",iHeart Smells Like the 90's
 https://stream.revma.ihrhls.com/zc6437/hls.m3u8
-#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart The iHeartRadio Countdown" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/iheart.jpeg?raw=true" group-title="I-Heart",iHeart The iHeartRadio Countdown
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart The iHeartRadio Countdown" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/iheart.jpeg?raw=true" group-title="Music - I-Heart",iHeart The iHeartRadio Countdown
 https://stream.revma.ihrhls.com/zc6455/hls.m3u8
-#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Sweat Hotel with Keith Sweat" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/iheart.jpeg?raw=true" group-title="I-Heart",iHeart Sweat Hotel with Keith Sweat
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Sweat Hotel with Keith Sweat" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/iheart.jpeg?raw=true" group-title="Music - I-Heart",iHeart Sweat Hotel with Keith Sweat
 https://stream.revma.ihrhls.com/zc6529/hls.m3u8
-#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Casey Kasem's Classic American Top 40 (70's & 80's)" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/iheart.jpeg?raw=true" group-title="I-Heart",iHeart Casey Kasem's Classic American Top 40 (70's & 80's)
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Casey Kasem's Classic American Top 40 (70's & 80's)" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/iheart.jpeg?raw=true" group-title="Music - I-Heart",iHeart Casey Kasem's Classic American Top 40 (70's & 80's)
 https://stream.revma.ihrhls.com/zc6545/hls.m3u8
-#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart After MidNite" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/iheart.jpeg?raw=true" group-title="I-Heart",iHeart After MidNite
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart After MidNite" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/iheart.jpeg?raw=true" group-title="Music - I-Heart",iHeart After MidNite
 https://stream.revma.ihrhls.com/zc6563/hls.m3u8
-#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart One Hit Wonders" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/iheart.jpeg?raw=true" group-title="I-Heart",iHeart One Hit Wonders
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart One Hit Wonders" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/iheart.jpeg?raw=true" group-title="Music - I-Heart",iHeart One Hit Wonders
 https://stream.revma.ihrhls.com/zc6669/hls.m3u8
-#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Coffee Shop Radio" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/iheart.jpeg?raw=true" group-title="I-Heart",iHeart Coffee Shop Radio
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Coffee Shop Radio" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/iheart.jpeg?raw=true" group-title="Music - I-Heart",iHeart Coffee Shop Radio
 https://stream.revma.ihrhls.com/zc6698/hls.m3u8
-#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Fly Nation (Classic Hip-Hop)" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/iheart.jpeg?raw=true" group-title="I-Heart",iHeart Fly Nation (Classic Hip-Hop)
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Fly Nation (Classic Hip-Hop)" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/iheart.jpeg?raw=true" group-title="Music - I-Heart",iHeart Fly Nation (Classic Hip-Hop)
 https://stream.revma.ihrhls.com/zc6732/hls.m3u8
-#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Forever Disco" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/iheart.jpeg?raw=true" group-title="I-Heart",iHeart Forever Disco
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Forever Disco" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/iheart.jpeg?raw=true" group-title="Music - I-Heart",iHeart Forever Disco
 https://stream.revma.ihrhls.com/zc6755/hls.m3u8
-#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Country Top 30" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/iheart.jpeg?raw=true" group-title="I-Heart",iHeart Country Top 30
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Country Top 30" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/iheart.jpeg?raw=true" group-title="Music - I-Heart",iHeart Country Top 30
 https://stream.revma.ihrhls.com/zc6760/hls.m3u8
-#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Rat Pack Radio" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/iheart.jpeg?raw=true" group-title="I-Heart",iHeart Rat Pack Radio
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Rat Pack Radio" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/iheart.jpeg?raw=true" group-title="Music - I-Heart",iHeart Rat Pack Radio
 https://stream.revma.ihrhls.com/zc6784/hls.m3u8
-#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Reggae" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/iheart.jpeg?raw=true" group-title="I-Heart",iHeart Reggae
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Reggae" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/iheart.jpeg?raw=true" group-title="Music - I-Heart",iHeart Reggae
 https://stream.revma.ihrhls.com/zc6788/hls.m3u8
-#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Love Songs Radio" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/iheart.jpeg?raw=true" group-title="I-Heart",iHeart Love Songs Radio
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Love Songs Radio" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/iheart.jpeg?raw=true" group-title="Music - I-Heart",iHeart Love Songs Radio
 https://stream.revma.ihrhls.com/zc6790/hls.m3u8
-#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart 70's Rock Ride" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/iheart.jpeg?raw=true" group-title="I-Heart",iHeart 70's Rock Ride
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart 70's Rock Ride" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/iheart.jpeg?raw=true" group-title="Music - I-Heart",iHeart 70's Rock Ride
 https://stream.revma.ihrhls.com/zc6803/hls.m3u8
-#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Lite Rock" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/iheart.jpeg?raw=true" group-title="I-Heart",iHeart Lite Rock
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Lite Rock" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/iheart.jpeg?raw=true" group-title="Music - I-Heart",iHeart Lite Rock
 https://stream.revma.ihrhls.com/zc6830/hls.m3u8
-#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart 90's" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/iheart.jpeg?raw=true" group-title="I-Heart",iHeart 90's
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart 90's" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/iheart.jpeg?raw=true" group-title="Music - I-Heart",iHeart 90's
 https://stream.revma.ihrhls.com/zc6834/hls.m3u8
-#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Country 80's" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/iheart.jpeg?raw=true" group-title="I-Heart",iHeart Country 80's
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Country 80's" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/iheart.jpeg?raw=true" group-title="Music - I-Heart",iHeart Country 80's
 https://stream.revma.ihrhls.com/zc6836/hls.m3u8
-#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Red Dirt Radio" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/iheart.jpeg?raw=true" group-title="I-Heart",iHeart Red Dirt Radio
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Red Dirt Radio" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/iheart.jpeg?raw=true" group-title="Music - I-Heart",iHeart Red Dirt Radio
 https://stream.revma.ihrhls.com/zc6842/hls.m3u8
-#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart 70's" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/iheart.jpeg?raw=true" group-title="I-Heart",iHeart 70's
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart 70's" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/iheart.jpeg?raw=true" group-title="Music - I-Heart",iHeart 70's
 https://stream.revma.ihrhls.com/zc6843/hls.m3u8
-#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart 2000's Y2K" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/iheart.jpeg?raw=true" group-title="I-Heart",iHeart 2000's Y2K
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart 2000's Y2K" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/iheart.jpeg?raw=true" group-title="Music - I-Heart",iHeart 2000's Y2K
 https://stream.revma.ihrhls.com/zc6850/hls.m3u8
-#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Country Outlaws" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/iheart.jpeg?raw=true" group-title="I-Heart",iHeart Country Outlaws
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Country Outlaws" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/iheart.jpeg?raw=true" group-title="Music - I-Heart",iHeart Country Outlaws
 https://stream.revma.ihrhls.com/zc6851/hls.m3u8
-#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Country 90's" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/iheart.jpeg?raw=true" group-title="I-Heart",iHeart Country 90's
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Country 90's" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/iheart.jpeg?raw=true" group-title="Music - I-Heart",iHeart Country 90's
 https://stream.revma.ihrhls.com/zc6870/hls.m3u8
-#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart 60's" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/iheart.jpeg?raw=true" group-title="I-Heart",iHeart 60's
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart 60's" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/iheart.jpeg?raw=true" group-title="Music - I-Heart",iHeart 60's
 https://stream.revma.ihrhls.com/zc6873/hls.m3u8
-#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart The Vinyl Experience" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/iheart.jpeg?raw=true" group-title="I-Heart",iHeart The Vinyl Experience
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart The Vinyl Experience" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/iheart.jpeg?raw=true" group-title="Music - I-Heart",iHeart The Vinyl Experience
 https://stream.revma.ihrhls.com/zc6878/hls.m3u8
-#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart 50's" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/iheart.jpeg?raw=true" group-title="I-Heart",iHeart 50's
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart 50's" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/iheart.jpeg?raw=true" group-title="Music - I-Heart",iHeart 50's
 https://stream.revma.ihrhls.com/zc6882/hls.m3u8
-#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Bluegrass" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/iheart.jpeg?raw=true" group-title="I-Heart",iHeart Bluegrass
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Bluegrass" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/iheart.jpeg?raw=true" group-title="Music - I-Heart",iHeart Bluegrass
 https://stream.revma.ihrhls.com/zc6892/hls.m3u8
-#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Crook & Chase Countdown" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/iheart.jpeg?raw=true" group-title="I-Heart",iHeart Crook & Chase Countdown
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Crook & Chase Countdown" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/iheart.jpeg?raw=true" group-title="Music - I-Heart",iHeart Crook & Chase Countdown
 https://stream.revma.ihrhls.com/zc6921/hls.m3u8
-#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Dance Nation 90's" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/iheart.jpeg?raw=true" group-title="I-Heart",iHeart Dance Nation 90's
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Dance Nation 90's" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/iheart.jpeg?raw=true" group-title="Music - I-Heart",iHeart Dance Nation 90's
 https://stream.revma.ihrhls.com/zc6946/hls.m3u8
-#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart ALT Rewind" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/iheart.jpeg?raw=true" group-title="I-Heart",iHeart ALT Rewind
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart ALT Rewind" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/iheart.jpeg?raw=true" group-title="Music - I-Heart",iHeart ALT Rewind
 https://stream.revma.ihrhls.com/zc6950/hls.m3u8
-#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Caf�" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/iheart.jpeg?raw=true" group-title="I-Heart",iHeart Caf�
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Caf�" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/iheart.jpeg?raw=true" group-title="Music - I-Heart",iHeart Caf�
 https://stream.revma.ihrhls.com/zc6951/hls.m3u8
-#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Punk Tacos" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/iheart.jpeg?raw=true" group-title="I-Heart",iHeart Punk Tacos
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Punk Tacos" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/iheart.jpeg?raw=true" group-title="Music - I-Heart",iHeart Punk Tacos
 https://stream.revma.ihrhls.com/zc6954/hls.m3u8
-#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Classic Funk" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/iheart.jpeg?raw=true" group-title="I-Heart",iHeart Classic Funk
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Classic Funk" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/iheart.jpeg?raw=true" group-title="Music - I-Heart",iHeart Classic Funk
 https://stream.revma.ihrhls.com/zc6955/hls.m3u8
-#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart El Patron" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/iheart.jpeg?raw=true" group-title="I-Heart",iHeart El Patron
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart El Patron" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/iheart.jpeg?raw=true" group-title="Music - I-Heart",iHeart El Patron
 https://stream.revma.ihrhls.com/zc7004/hls.m3u8
-#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Vinyl Classic Rock" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/iheart.jpeg?raw=true" group-title="I-Heart",iHeart Vinyl Classic Rock
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Vinyl Classic Rock" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/iheart.jpeg?raw=true" group-title="Music - I-Heart",iHeart Vinyl Classic Rock
 https://stream.revma.ihrhls.com/zc7078/hls.m3u8
-#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Vinyl Jazz" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/iheart.jpeg?raw=true" group-title="I-Heart",iHeart Vinyl Jazz
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Vinyl Jazz" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/iheart.jpeg?raw=true" group-title="Music - I-Heart",iHeart Vinyl Jazz
 https://stream.revma.ihrhls.com/zc7079/hls.m3u8
-#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Classic Soul" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/iheart.jpeg?raw=true" group-title="I-Heart",iHeart Classic Soul
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Classic Soul" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/iheart.jpeg?raw=true" group-title="Music - I-Heart",iHeart Classic Soul
 https://stream.revma.ihrhls.com/zc7120/hls.m3u8
-#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Indie Radio" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/iheart.jpeg?raw=true" group-title="I-Heart",iHeart Indie Radio
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Indie Radio" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/iheart.jpeg?raw=true" group-title="Music - I-Heart",iHeart Indie Radio
 https://stream.revma.ihrhls.com/zc7189/hls.m3u8
-#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Fiesta Latina" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/iheart.jpeg?raw=true" group-title="I-Heart",iHeart Fiesta Latina
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Fiesta Latina" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/iheart.jpeg?raw=true" group-title="Music - I-Heart",iHeart Fiesta Latina
 https://stream.revma.ihrhls.com/zc7191/hls.m3u8
-#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Salsa Bemb�" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/iheart.jpeg?raw=true" group-title="I-Heart",iHeart Salsa Bemb�
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Salsa Bemb�" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/iheart.jpeg?raw=true" group-title="Music - I-Heart",iHeart Salsa Bemb�
 https://stream.revma.ihrhls.com/zc7192/hls.m3u8
-#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Beso" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/iheart.jpeg?raw=true" group-title="I-Heart",iHeart Beso
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Beso" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/iheart.jpeg?raw=true" group-title="Music - I-Heart",iHeart Beso
 https://stream.revma.ihrhls.com/zc7193/hls.m3u8
-#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Cardio Mix" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/iheart.jpeg?raw=true" group-title="I-Heart",iHeart Cardio Mix
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Cardio Mix" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/iheart.jpeg?raw=true" group-title="Music - I-Heart",iHeart Cardio Mix
 https://stream.revma.ihrhls.com/zc7250/hls.m3u8
-#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Jam Bands" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/iheart.jpeg?raw=true" group-title="I-Heart",iHeart Jam Bands
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Jam Bands" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/iheart.jpeg?raw=true" group-title="Music - I-Heart",iHeart Jam Bands
 https://stream.revma.ihrhls.com/zc7278/hls.m3u8
-#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart PRIDE Radio Flashback" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/iheart.jpeg?raw=true" group-title="I-Heart",iHeart PRIDE Radio Flashback
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart PRIDE Radio Flashback" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/iheart.jpeg?raw=true" group-title="Music - I-Heart",iHeart PRIDE Radio Flashback
 https://stream.revma.ihrhls.com/zc7304/hls.m3u8
-#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Enrique Santos Morning Show" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/iheart.jpeg?raw=true" group-title="I-Heart",iHeart Enrique Santos Morning Show
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Enrique Santos Morning Show" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/iheart.jpeg?raw=true" group-title="Music - I-Heart",iHeart Enrique Santos Morning Show
 https://stream.revma.ihrhls.com/zc7349/hls.m3u8
-#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Power" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/iheart.jpeg?raw=true" group-title="I-Heart",iHeart Power
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Power" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/iheart.jpeg?raw=true" group-title="Music - I-Heart",iHeart Power
 https://stream.revma.ihrhls.com/zc7360/hls.m3u8
-#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Mix Rewind" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/iheart.jpeg?raw=true" group-title="I-Heart",iHeart Mix Rewind
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Mix Rewind" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/iheart.jpeg?raw=true" group-title="Music - I-Heart",iHeart Mix Rewind
 https://stream.revma.ihrhls.com/zc7361/hls.m3u8
-#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Kiss Radio" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/iheart.jpeg?raw=true" group-title="I-Heart",iHeart Kiss Radio
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Kiss Radio" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/iheart.jpeg?raw=true" group-title="Music - I-Heart",iHeart Kiss Radio
 https://stream.revma.ihrhls.com/zc7362/hls.m3u8
-#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Women of iHeartCountry" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/iheart.jpeg?raw=true" group-title="I-Heart",iHeart Women of iHeartCountry
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Women of iHeartCountry" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/iheart.jpeg?raw=true" group-title="Music - I-Heart",iHeart Women of iHeartCountry
 https://stream.revma.ihrhls.com/zc7367/hls.m3u8
-#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Freestyle" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/iheart.jpeg?raw=true" group-title="I-Heart",iHeart Freestyle
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Freestyle" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/iheart.jpeg?raw=true" group-title="Music - I-Heart",iHeart Freestyle
 https://stream.revma.ihrhls.com/zc7368/hls.m3u8
-#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Broadway" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/iheart.jpeg?raw=true" group-title="I-Heart",iHeart Broadway
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Broadway" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/iheart.jpeg?raw=true" group-title="Music - I-Heart",iHeart Broadway
 https://stream.revma.ihrhls.com/zc7378/hls.m3u8
-#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Throwbacks (Classic Hip-Hop and R&B)" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/iheart.jpeg?raw=true" group-title="I-Heart",iHeart Throwbacks (Classic Hip-Hop and R&B)
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Throwbacks (Classic Hip-Hop and R&B)" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/iheart.jpeg?raw=true" group-title="Music - I-Heart",iHeart Throwbacks (Classic Hip-Hop and R&B)
 https://stream.revma.ihrhls.com/zc7397/hls.m3u8
-#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Rock Drive" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/iheart.jpeg?raw=true" group-title="I-Heart",iHeart Rock Drive
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Rock Drive" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/iheart.jpeg?raw=true" group-title="Music - I-Heart",iHeart Rock Drive
 https://stream.revma.ihrhls.com/zc7402/hls.m3u8
-#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Pop Drive" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/iheart.jpeg?raw=true" group-title="I-Heart",iHeart Pop Drive
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Pop Drive" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/iheart.jpeg?raw=true" group-title="Music - I-Heart",iHeart Pop Drive
 https://stream.revma.ihrhls.com/zc7403/hls.m3u8
-#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Reggaeton Vieja Escuela" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/iheart.jpeg?raw=true" group-title="I-Heart",iHeart Reggaeton Vieja Escuela
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Reggaeton Vieja Escuela" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/iheart.jpeg?raw=true" group-title="Music - I-Heart",iHeart Reggaeton Vieja Escuela
 https://stream.revma.ihrhls.com/zc7427/hls.m3u8
-#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart ALT 2K" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/iheart.jpeg?raw=true" group-title="I-Heart",iHeart ALT 2K
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart ALT 2K" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/iheart.jpeg?raw=true" group-title="Music - I-Heart",iHeart ALT 2K
 https://stream.revma.ihrhls.com/zc7727/hls.m3u8
-#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Motown Sounds" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/iheart.jpeg?raw=true" group-title="I-Heart",iHeart Motown Sounds
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Motown Sounds" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/iheart.jpeg?raw=true" group-title="Music - I-Heart",iHeart Motown Sounds
 https://stream.revma.ihrhls.com/zc7801/hls.m3u8
-#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Country Love Songs" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/iheart.jpeg?raw=true" group-title="I-Heart",iHeart Country Love Songs
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Country Love Songs" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/iheart.jpeg?raw=true" group-title="Music - I-Heart",iHeart Country Love Songs
 https://stream.revma.ihrhls.com/zc7803/hls.m3u8
-#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Black Jazz & Blues" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/iheart.jpeg?raw=true" group-title="I-Heart",iHeart Black Jazz & Blues
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Black Jazz & Blues" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/iheart.jpeg?raw=true" group-title="Music - I-Heart",iHeart Black Jazz & Blues
 https://stream.revma.ihrhls.com/zc7804/hls.m3u8
-#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Lost 80's" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/iheart.jpeg?raw=true" group-title="I-Heart",iHeart Lost 80's
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Lost 80's" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/iheart.jpeg?raw=true" group-title="Music - I-Heart",iHeart Lost 80's
 https://stream.revma.ihrhls.com/zc7934/hls.m3u8
-#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart The Breeze" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/iheart.jpeg?raw=true" group-title="I-Heart",iHeart The Breeze
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart The Breeze" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/iheart.jpeg?raw=true" group-title="Music - I-Heart",iHeart The Breeze
 https://stream.revma.ihrhls.com/zc8143/hls.m3u8
-#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart 2010's" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/iheart.jpeg?raw=true" group-title="I-Heart",iHeart 2010's
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart 2010's" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/iheart.jpeg?raw=true" group-title="Music - I-Heart",iHeart 2010's
 https://stream.revma.ihrhls.com/zc8478/hls.m3u8
-#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart La Preciosa" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/iheart.jpeg?raw=true" group-title="I-Heart",iHeart La Preciosa
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart La Preciosa" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/iheart.jpeg?raw=true" group-title="Music - I-Heart",iHeart La Preciosa
 https://stream.revma.ihrhls.com/zc8624/hls.m3u8
-#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Country Favorites" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/iheart.jpeg?raw=true" group-title="I-Heart",iHeart Country Favorites
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Country Favorites" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/iheart.jpeg?raw=true" group-title="Music - I-Heart",iHeart Country Favorites
 https://stream.revma.ihrhls.com/zc8625/hls.m3u8
-#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart The Brew" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/iheart.jpeg?raw=true" group-title="I-Heart",iHeart The Brew
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart The Brew" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/iheart.jpeg?raw=true" group-title="Music - I-Heart",iHeart The Brew
 https://stream.revma.ihrhls.com/zc8626/hls.m3u8
-#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Yacht Rock Radio" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/iheart.jpeg?raw=true" group-title="I-Heart",iHeart Yacht Rock Radio
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Yacht Rock Radio" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/iheart.jpeg?raw=true" group-title="Music - I-Heart",iHeart Yacht Rock Radio
 https://stream.revma.ihrhls.com/zc8681/hls.m3u8
-#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Pop Rocks" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/iheart.jpeg?raw=true" group-title="I-Heart",iHeart Pop Rocks
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Pop Rocks" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/iheart.jpeg?raw=true" group-title="Music - I-Heart",iHeart Pop Rocks
 https://stream.revma.ihrhls.com/zc8842/hls.m3u8
-#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart K-Pop Radio" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/iheart.jpeg?raw=true" group-title="I-Heart",iHeart K-Pop Radio
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart K-Pop Radio" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/iheart.jpeg?raw=true" group-title="Music - I-Heart",iHeart K-Pop Radio
 https://stream.revma.ihrhls.com/zc9003/hls.m3u8
-#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Emo Nation" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/iheart.jpeg?raw=true" group-title="I-Heart",iHeart Emo Nation
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Emo Nation" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/iheart.jpeg?raw=true" group-title="Music - I-Heart",iHeart Emo Nation
 https://stream.revma.ihrhls.com/zc9380/hls.m3u8
-#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Nu Metal Radio" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/iheart.jpeg?raw=true" group-title="I-Heart",iHeart Nu Metal Radio
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Nu Metal Radio" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/iheart.jpeg?raw=true" group-title="Music - I-Heart",iHeart Nu Metal Radio
 https://stream.revma.ihrhls.com/zc9483/hls.m3u8
-#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Blues Hits Radio" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/iheart.jpeg?raw=true" group-title="I-Heart",iHeart Blues Hits Radio
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Blues Hits Radio" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/iheart.jpeg?raw=true" group-title="Music - I-Heart",iHeart Blues Hits Radio
 https://stream.revma.ihrhls.com/zc9567/hls.m3u8
-#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Radio Tejano" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/iheart.jpeg?raw=true" group-title="I-Heart",iHeart Radio Tejano
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Radio Tejano" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/iheart.jpeg?raw=true" group-title="Music - I-Heart",iHeart Radio Tejano
 https://stream.revma.ihrhls.com/zc9622/hls.m3u8
-#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Deep Cuts" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/iheart.jpeg?raw=true" group-title="I-Heart",iHeart Deep Cuts
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Deep Cuts" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/iheart.jpeg?raw=true" group-title="Music - I-Heart",iHeart Deep Cuts
 https://stream.revma.ihrhls.com/zc9652/hls.m3u8
-#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Hip-Hop 50 Radio" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/iheart.jpeg?raw=true" group-title="I-Heart",iHeart Hip-Hop 50 Radio
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Hip-Hop 50 Radio" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/iheart.jpeg?raw=true" group-title="Music - I-Heart",iHeart Hip-Hop 50 Radio
 https://stream.revma.ihrhls.com/zc9717/hls.m3u8
-#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Freeform Radio" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/iheart.jpeg?raw=true" group-title="I-Heart",iHeart Freeform Radio
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Freeform Radio" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/iheart.jpeg?raw=true" group-title="Music - I-Heart",iHeart Freeform Radio
 https://stream.revma.ihrhls.com/zc9719/hls.m3u8
-#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Pop Rewind" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/iheart.jpeg?raw=true" group-title="I-Heart",iHeart Pop Rewind
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Pop Rewind" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/iheart.jpeg?raw=true" group-title="Music - I-Heart",iHeart Pop Rewind
 https://stream.revma.ihrhls.com/zc9756/hls.m3u8
-#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart ALT Top 20" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/iheart.jpeg?raw=true" group-title="I-Heart",iHeart ALT Top 20
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart ALT Top 20" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/iheart.jpeg?raw=true" group-title="Music - I-Heart",iHeart ALT Top 20
 https://stream.revma.ihrhls.com/zc9759/hls.m3u8
-#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Jazz Top 20" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/iheart.jpeg?raw=true" group-title="I-Heart",iHeart Jazz Top 20
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Jazz Top 20" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/iheart.jpeg?raw=true" group-title="Music - I-Heart",iHeart Jazz Top 20
 https://stream.revma.ihrhls.com/zc9761/hls.m3u8
-#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Dance Top 20" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/iheart.jpeg?raw=true" group-title="I-Heart",iHeart Dance Top 20
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Dance Top 20" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/iheart.jpeg?raw=true" group-title="Music - I-Heart",iHeart Dance Top 20
 https://stream.revma.ihrhls.com/zc9762/hls.m3u8
-#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Latino Top 20" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/iheart.jpeg?raw=true" group-title="I-Heart",iHeart Latino Top 20
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Latino Top 20" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/iheart.jpeg?raw=true" group-title="Music - I-Heart",iHeart Latino Top 20
 https://stream.revma.ihrhls.com/zc9763/hls.m3u8
-#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Regional Mexican Top 20" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/iheart.jpeg?raw=true" group-title="I-Heart",iHeart Regional Mexican Top 20
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Regional Mexican Top 20" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/iheart.jpeg?raw=true" group-title="Music - I-Heart",iHeart Regional Mexican Top 20
 https://stream.revma.ihrhls.com/zc9911/hls.m3u8
-#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Tropical Top 20" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/iheart.jpeg?raw=true" group-title="I-Heart",iHeart Tropical Top 20
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Tropical Top 20" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/iheart.jpeg?raw=true" group-title="Music - I-Heart",iHeart Tropical Top 20
 https://stream.revma.ihrhls.com/zc9912/hls.m3u8
-#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Jazz Classics" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/iheart.jpeg?raw=true" group-title="I-Heart",iHeart Jazz Classics
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Jazz Classics" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/iheart.jpeg?raw=true" group-title="Music - I-Heart",iHeart Jazz Classics
 https://stream.revma.ihrhls.com/zc9918/hls.m3u8
-#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Chill Beats Radio" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/iheart.jpeg?raw=true" group-title="I-Heart",iHeart Chill Beats Radio
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart Chill Beats Radio" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/iheart.jpeg?raw=true" group-title="Music - I-Heart",iHeart Chill Beats Radio
 https://stream.revma.ihrhls.com/zc9959/hls.m3u8
