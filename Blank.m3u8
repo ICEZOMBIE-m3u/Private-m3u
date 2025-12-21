@@ -1,5 +1,6 @@
-#EXTM3U url-tvg="Https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz" 
-#EXTINF:-1 tvg-id="Blank.Dummy.us" tvg-name="** Updated on 2025-12-21 **" group-title="Admin Notes",** M3U Note **
+#EXTM3U url-tvg="Https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
+#EXTINF:-1 tvg-id="Blank.Dummy.us" tvg-name="** Updated on 2025-12-21 **" tvg-logo="https://github.com/ICEZOMBIE-m3u/ICEZOMBIE-Test-only/raw/refs/heads/main/photos/admin-notes.png" group-title="Admin Notes",** M3U Note **
+https://www.youtube.com/watch?v=znnSGHMnCzo
 #EXTINF:-1 tvg-id="plex.tv.Grit.Xtra.plex" tvg-name="GRIT Xtra (Plex)" tvg-logo="https://provider-static.plex.tv/epg/cms/production/dbbb9bca-0b08-43b5-a0e7-715df9a6dbfd/_ChannelLogo_1500x1000.png" group-title="Westerns",GRIT Xtra (Plex)
 https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-62b45f15b4508e0eedacdf25.m3u8
 #EXTINF:-1 tvg-id="Grit.us2" tvg-name="Grit (MOJ)" tvg-logo="https://github.com/ICEZOMBIE-m3u/TV-Logos-tivimate/raw/refs/heads/main/countries/united-states/grit-us.png" group-title="Westerns",GRIT (MOJ)
