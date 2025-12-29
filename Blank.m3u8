@@ -10663,3 +10663,103 @@ http://defaultgen.com:5050/benjamin.laster@aol.com/3BsJvTiBv5/682848
 http://defaultgen.com:5050/benjamin.laster@aol.com/3BsJvTiBv5/682849
 #EXTINF:-1 tvg-name="XXX: VIOLA BAILEYS" group-title="XXX - Actresses",XXX: VIOLA BAILEYS
 http://defaultgen.com:5050/benjamin.laster@aol.com/3BsJvTiBv5/682850
+#EXTINF:-1 tvg-name="Hardcore Pawn (SsungAU)" group-title="24/7",Hardcore Pawn (SsungAU)
+https://amg00627-banijay-amg00627c8-samsung-au-1827.playouts.now.amagi.tv/playlist/amg00627-banijayfast-hardcorepawn-samsungau/playlist.m3u8
+#EXTINF:-1 tvg-name="Hot Ones (SsungAU)" group-title="24/7",Hot Ones (SsungAU)
+https://d1si3n1st4nkgb.cloudfront.net/10000/89009008/hls/master.m3u8?ads.xumo_channelId=89009008
+#EXTINF:-1 tvg-name="Anger Management (SsungAU)" group-title="24/7",Anger Management (SsungAU)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00353-lionsgatestudio-angermgmt-samsungau/playlist.m3u8
+#EXTINF:-1 tvg-name="Conan OBrien TV (SsungAU)" group-title="24/7",Conan OBrien TV (SsungAU)
+https://d1di0xodeo3g8i.cloudfront.net/playlist.m3u8
+#EXTINF:-1 tvg-name="Bein Sports Xtra (SsungAU)" group-title="Sports",Bein Sports Xtra (SsungAU)
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01334-beinsportsllc-beinxtra-samsungau/playlist.m3u8
+#EXTINF:-1 tvg-name="Tennis Plus (SsungAU)" group-title="Sports",Tennis Plus (SsungAU)
+https://amg01935-amg01935c1-amgplt0020.playout.now3.amagi.tv/playlist/amg01935-amg01935c1-amgplt0020/playlist.m3u8
+#EXTINF:-1 tvg-name="Cricket Gold (PlexAu)" group-title="Sports",Cricket Gold (PlexAu)
+https://dltcbyrjz4q6b.cloudfront.net/scheduler/scheduleMaster/418.m3u8
+#EXTINF:-1 tvg-name="Cricket Gold (StirrAU)" group-title="Sports",Cricket Gold (StirrAU)
+https://d382r3rgbxdixq.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/STIRR-MuxIP-CricketGold/418.m3u8
+#EXTINF:-1 tvg-name="Cricket Gold (YoutubeAu)" group-title="Sports",Cricket Gold (YoutubeAu)
+https://ythls-v3.onrender.com/video/CeAgx48qQ3M.m3u8
+#EXTINF:-1 tvg-name="Trace Sport Stars (SsungAU)" group-title="Music",Trace Sport Stars (SsungAU)
+https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="Racer (SamsungAU)" group-title="Sports",Racer (SamsungAU)
+https://amg00378-mavtv-amg00378c2-samsung-au-1790.playouts.now.amagi.tv/playlist/amg00378-mavtvfast-motorsportsnetwork-samsungau/playlist.m3u8
+#EXTINF:-1 tvg-name="MTRSPT 1 (SsungAU)" group-title="Sports",MTRSPT 1 (SsungAU)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg02873-kravemedia-mtrspt1-samsungau/playlist.m3u8
+#EXTINF:-1 tvg-name="Motorsport.TV (SsungAU)" group-title="Sports",Motorsport.TV (SsungAU)
+https://6a4334bc.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1hdV9Nb3RvcnNwb3J0VFZfSExT/playlist.m3u8
+#EXTINF:-1 tvg-name="SFT Combat (Brazil)" group-title="Sports - Fight Club",SFT Combat (Brazil)
+https://ssai-ads.api.leiniao.com/global-adinsertion-api/hls/live/v2/49a71877481f422f8f469e231e7876b3/playlist.m3u8
+#EXTINF:-1 tvg-name="FitDance" group-title="Sports",FitDance
+https://ssai-ads.api.leiniao.com/global-adinsertion-api/hls/live/v2/2dd137f1d20441efbc83499b5ef3ad65/playlist.m3u8
+#EXTINF:-1 tvg-name="NOW 80s" group-title="Music",NOW 80s
+https://amg01076-lightning-amg01076c2-tcl-us-2470.playouts.now.amagi.tv/playlist/amg01076-lightning-now80s-tclus/playlist.m3u8
+#EXTINF:-1 tvg-name="NOW 70s" group-title="Music",NOW 70s
+https://ssai2-ads.api.leiniao.com/global-adinsertion-api/hls/live/pipAd/f128243bea1c4b46b4cd29ceca92d2b7/playlist.m3u8
+#EXTINF:-1 tvg-name="NOW ROCK" group-title="Music",NOW ROCK
+https://ssai2-ads.api.leiniao.com/global-adinsertion-api/hls/live/pipAd/520efa73c0f6481aa2bf92435fa0035d/playlist.m3u8
+#EXTINF:-1 tvg-name="Stingray Easy Listening" group-title="Music",Stingray Easy Listening
+https://api-ott-adnet-oan.ottera.tv/loggingmediaurlpassthrough/a.m3u8?version=12.5&id=34&platform=roku&partner=tcl_roku_syndication&language=any&avod=1&app_name={{appName}}&app_bundle={{appPackage}}&device_width={{playerWidth}}&device_height={{playerHeight}}&ip={{ipAddr}}&tld={{AppDomain}}&content_cat={{AppCat}}&app_version={{AppVersion}}&app_store_url={{AppStoreUrl}}&ua={{UserAgent}}&did={{DID}}&dnt={{DNT}}&coppa={{Coppa}}&us_privacy={{UsPrivacy}}&gdpr={{Gdpr}}&cb={{cb}}&device_make={{DeviceMake}}&device_model={{DeviceModel}}&device_os_version={{operatingSystem}}&livestream={{LiveStream}}&custom_param_0=&custom_param_1=tablet&custom_param_2=&custom_param_3=&custom_param_4=tcl_roku_syndication&custom_param_5=roku&GdprConsent={{GdprConsent}}
+#EXTINF:-1 tvg-name="Stingray Brazilian Pop" group-title="Music",Stingray Brazilian Pop
+https://ssai2-ads.api.leiniao.com/global-adinsertion-api/hls/live/v2/bb3311a60bfc4354bcfdcc56f132c6e6/playlist.m3u8
+#EXTINF:-1 tvg-name="Stingray Total Hits Brazil" group-title="Music",Stingray Total Hits Brazil
+https://ssai2-ads.api.leiniao.com/global-adinsertion-api/hls/live/v2/b444ca4654c446598727cd4bb906e28c/playlist.m3u8
+#EXTINF:-1 tvg-name="Qello Concerts by Stingray" group-title="Music",Qello Concerts by Stingray
+https://api-ott-adnet-oan.ottera.tv/loggingmediaurlpassthrough/a.m3u8?version=12.5&id=14&platform=roku&partner=tcl_roku_syndication&language=any&avod=1&app_name={{appName}}&app_bundle={{appPackage}}&device_width={{playerWidth}}&device_height={{playerHeight}}&ip={{ipAddr}}&tld={{AppDomain}}&content_cat={{AppCat}}&app_version={{AppVersion}}&app_store_url={{AppStoreUrl}}&ua={{UserAgent}}&did={{DID}}&dnt={{DNT}}&coppa={{Coppa}}&us_privacy={{UsPrivacy}}&gdpr={{Gdpr}}&cb={{cb}}&device_make={{DeviceMake}}&device_model={{DeviceModel}}&device_os_version={{operatingSystem}}&livestream={{LiveStream}}&custom_param_0=&custom_param_1=tablet&custom_param_2=&custom_param_3=&custom_param_4=tcl_roku_syndication&custom_param_5=roku&GdprConsent={{GdprConsent}}
+#EXTINF:-1 tvg-name="Stingray Classica" group-title="Music",Stingray Classica
+https://api-ott-adnet-oan.ottera.tv/loggingmediaurlpassthrough/a.m3u8?version=12.5&id=12&platform=roku&partner=tcl_roku_syndication&language=any&avod=1&app_name={{appName}}&app_bundle={{appPackage}}&device_width={{playerWidth}}&device_height={{playerHeight}}&ip={{ipAddr}}&tld={{AppDomain}}&content_cat={{AppCat}}&app_version={{AppVersion}}&app_store_url={{AppStoreUrl}}&ua={{UserAgent}}&did={{DID}}&dnt={{DNT}}&coppa={{Coppa}}&us_privacy={{UsPrivacy}}&gdpr={{Gdpr}}&cb={{cb}}&device_make={{DeviceMake}}&device_model={{DeviceModel}}&device_os_version={{operatingSystem}}&livestream={{LiveStream}}&custom_param_0=&custom_param_1=tablet&custom_param_2=&custom_param_3=&custom_param_4=tcl_roku_syndication&custom_param_5=roku&GdprConsent={{GdprConsent}}
+#EXTINF:-1 tvg-name="Stingray Greatest Hits" group-title="Music",Stingray Greatest Hits
+https://api-ott-adnet-oan.ottera.tv/loggingmediaurlpassthrough/a.m3u8?version=12.5&id=28&platform=roku&partner=tcl_roku_syndication&language=any&avod=1&app_name={{appName}}&app_bundle={{appPackage}}&device_width={{playerWidth}}&device_height={{playerHeight}}&ip={{ipAddr}}&tld={{AppDomain}}&content_cat={{AppCat}}&app_version={{AppVersion}}&app_store_url={{AppStoreUrl}}&ua={{UserAgent}}&did={{DID}}&dnt={{DNT}}&coppa={{Coppa}}&us_privacy={{UsPrivacy}}&gdpr={{Gdpr}}&cb={{cb}}&device_make={{DeviceMake}}&device_model={{DeviceModel}}&device_os_version={{operatingSystem}}&livestream={{LiveStream}}&custom_param_0=&custom_param_1=tablet&custom_param_2=&custom_param_3=&custom_param_4=tcl_roku_syndication&custom_param_5=roku&GdprConsent={{GdprConsent}}
+#EXTINF:-1 tvg-name="Trace Latina" group-title="Music",Trace Latina
+https://ssai2-ads.api.leiniao.com/global-adinsertion-api/hls/live/pipAd/692b462f15854a7fbeb7672ebcd14a04/playlist.m3u8
+#EXTINF:-1 tvg-name="Trace Brazuca" group-title="Music",Trace Brazuca
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00520-tcl-tracebrazuca-tcl/playlist.m3u8
+#EXTINF:-1 tvg-name="Trace Urban" group-title="Music",Trace Urban
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00520-tcl-traceurban-tcl/playlist.m3u8
+#EXTINF:-1 tvg-name="TikTok Radio Brasil" group-title="Music",TikTok Radio Brasil
+https://ssai2-ads.api.leiniao.com/global-adinsertion-api/hls/live/v2/0fabf47f68dc4f97932c5a04c5a2ae09/playlist.m3u8
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="Stingray Holidayscapes (SsungAU)" group-title="Music",Stingray Holidayscapes (SsungAU)
+https://d1si3n1st4nkgb.cloudfront.net/10000/89009007/hls/master.m3u8?ads.xumo_channelId=89009007
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="Stingray Naturescape (SsungAU)" group-title="Music",Stingray Naturescape (SsungAU)
+https://d1si3n1st4nkgb.cloudfront.net/10000/89009003/hls/master.m3u8?ads.xumo_channelId=89009003
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="Vevo Christmas (SsungAU)" group-title="Music",Vevo Christmas (SsungAU)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00056-vevotv-vevochristmasau-samsungau/playlist.m3u8
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="Vevo Pop (SsungAU)" group-title="Music",Vevo Pop (SsungAU)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00056-vevotv-vevopopau-samsungau/playlist.m3u8
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="Vevo Retro Rock (SsungAU)" group-title="Music",Vevo Retro Rock (SsungAU)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00056-vevotv-vevoretrorockau-samsungau/playlist.m3u8
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="Vevo 2K (SsungAU)" group-title="Music",Vevo 2K (SsungAU)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00056-vevotv-vevo2kau-samsungau/playlist.m3u8
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="Vevo Country (SsungAU)" group-title="Music",Vevo Country (SsungAU)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00056-vevotv-vevocountryau-samsungau/playlist.m3u8
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="Vevo 70s (SsungAU)" group-title="Music",Vevo 70s (SsungAU)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00056-vevotv-vevo70saunz-samsungau/playlist.m3u8
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="Vevo 80s (SsungAU)" group-title="Music",Vevo 80s (SsungAU)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00056-vevotv-vevo80saunz-samsungau/playlist.m3u8
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="Vevo 90s (SsungAU)" group-title="Music",Vevo 90s (SsungAU)
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00056-vevotv-vevo90saunz-samsungau/playlist.m3u8
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="Now 70's (SsungAU)" group-title="Music",Now 70's (SsungAU)
+https://lightningnow70-samsungau.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="Now 80's (SsungAU)" group-title="Music",Now 80's (SsungAU)
+https://lightningnow80-samsungau.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="Now Rock (SsungAU)" group-title="Music",Now Rock (SsungAU)
+https://lightningnow90-samsungau.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="Trace Urban (SsungAU)" group-title="Music",Trace Urban (SsungAU)
+https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="Stingray Hit list (SsungAU)" group-title="Music",Stingray Hit list (SsungAU)
+https://d1si3n1st4nkgb.cloudfront.net/10000/89009013/hls/master.m3u8?ads.xumo_channelId=89009013
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="Stingray Pop Adult (SsungAU)" group-title="Music",Stingray Pop Adult (SsungAU)
+https://d1si3n1st4nkgb.cloudfront.net/10000/89809011/hls/master.m3u8?ads.xumo_channelId=89809011
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="Stingray 2000s (SsungAU)" group-title="Music",Stingray 2000s (SsungAU)
+https://d1si3n1st4nkgb.cloudfront.net/10000/89809012/hls/master.m3u8?ads.xumo_channelId=89809012
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="Stingray Greatest Hits (SsungAU)" group-title="Music",Stingray Greatest Hits (SsungAU)
+https://lotus.stingray.com/manifest/ose-155ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="Stingray Classic Rock (SsungAU)" group-title="Music",Stingray Classic Rock (SsungAU)
+https://lotus.stingray.com/manifest/ose-101ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="Stingray Spa (SsungAU)" group-title="Music",Stingray Spa (SsungAU)
+https://lotus.stingray.com/manifest/ose-122ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="Stingray Easy Listening (SsungAU)" group-title="Music",Stingray Easy Listening (SsungAU)
+https://lotus.stingray.com/manifest/ose-137ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="Stingray Todays K Pop (SsungAU)" group-title="Music",Stingray Todays K Pop (SsungAU)
+https://lotus.stingray.com/manifest/ose-317ads-montreal/samsungtvplus/master.m3u8
