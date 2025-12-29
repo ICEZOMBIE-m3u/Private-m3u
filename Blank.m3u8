@@ -1,4 +1,4 @@
-#EXTM3U
+#EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
 #EXTINF:-1 tvg-id="Blank.Dummy.us" tvg-name="** Updated 2025-12-29 @4a CST**" tvg-logo="https://github.com/ICEZOMBIE-m3u/ICEZOMBIE-Test-only/raw/refs/heads/main/photos/admin-notes.png" group-title="Admin Notes",** Updated 2025-12-29 @4a CST**
 https://www.youtube.com/watch?v=znnSGHMnCzo
 #EXTINF:-1 tvg-id="plex.tv.Grit.Xtra.plex" tvg-name="GRIT Xtra (Plex)" tvg-logo="https://provider-static.plex.tv/epg/cms/production/dbbb9bca-0b08-43b5-a0e7-715df9a6dbfd/_ChannelLogo_1500x1000.png" group-title="USA - Westerns",GRIT Xtra (Plex)
